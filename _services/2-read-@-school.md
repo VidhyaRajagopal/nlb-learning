@@ -18,7 +18,7 @@ Read@School is an initiative by the National Library Board (NLB) to promote read
 ### **More Programmes**
 
 |**Children (7-9 years old)** | **Tweens(10-14 years old)** | **Teens(13-17 years old)** |
-|![Monsters United Logo](/images/readatschool/dr-banner-300x158.jpg) | ![Tweenkerama Logo](/images/readatschool/teens-takeover-logo-on-black-300x200.jpg) | ![Teens Take Over Logo](teens-takeover-logo-on-black-300x200.jpg) |
+|![Monsters United Logo](/images/readatschool/dr-banner.jpg=300x200) | ![Tweenkerama Logo](/images/readatschool/teens-takeover-logo-on-black.jpg=300x200) | ![Teens Take Over Logo](teens-takeover-logo-on-black.jpg=300x200) |
 |---|---|---|
 
 ### **Get In Touch**

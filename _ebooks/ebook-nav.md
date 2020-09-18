@@ -3,6 +3,7 @@ layout: post
 title: ebooks
 permalink: /ebooks/ebook-nav
 breadcrumb: eBooks
+collection_name: ebooks-nav
 ---
 
 # **e-Books*

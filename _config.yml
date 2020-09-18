@@ -24,7 +24,7 @@ collections:
     output: true
   diy-resource:
     output: true
-  eBooks:
+  ebooks-nav:
     output: true
   ebooks-primary:
     output: true

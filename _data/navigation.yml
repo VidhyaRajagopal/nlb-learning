@@ -13,10 +13,8 @@ links:
     url: /ebooks-nav/
     sublinks:
       - title: Primary
-        resource_room: true
         collection: ebooks-primary
       - title: Secondary
-        resource_room: true
         collection: ebooks-secondary
   - title: Book Recommendations
     collection: book-recommendation
