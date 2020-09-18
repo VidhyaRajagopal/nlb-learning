@@ -1,8 +1,8 @@
 ---
 layout: resources
 title: All Secondary eBooks
-permalink: /ebooks/Secondary/all
+permalink: /ebooks/secondary/all
 collection_name: ebooks-secondary
 ---
 
-#test
+### test

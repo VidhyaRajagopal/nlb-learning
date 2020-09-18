@@ -10,7 +10,7 @@ links:
   - title: Services
     collection: services
   - title: eBooks
-    url: /ebooks/
+    url: /ebooks-nav/
     sublinks:
       - title: Primary
         resource_room: true

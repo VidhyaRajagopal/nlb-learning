@@ -1,8 +1,8 @@
 ---
 layout: resources
 title: Primary 2 eBooks
-permalink: /ebooks/Primary/primary-2
+permalink: /ebooks/primary/primary-2
 collection_name: ebooks-primary
 ---
 
-#test
+### test
