@@ -8,7 +8,7 @@ collection_name: services
 
 ## **About Early Read**
 
-![Early Read Logo](/images/Early-Readers-Logo-8cm.png=300x200)
+![Early Read Logo](/images/Early-Readers-Logo-8cm.png =300x200)
 
 The Early READ Programme offers a suite of library services and resources that aims to help preschool educators and parents nurture a love for reading among young children aged 0 to 6. Through this programme, you can help your children explore reading through stories, songs and rhymes, and fun reading related activities.
 
