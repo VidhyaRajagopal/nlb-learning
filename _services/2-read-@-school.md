@@ -1,5 +1,4 @@
 ---
-layout: leftnav-page-content
 title: Read@School
 permalink: services/read-at-school
 breadcrumb: Read@School
