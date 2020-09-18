@@ -20,7 +20,21 @@ colors:
 
 
 collections:
+  book-recommendation:
+    output: true
+  diy-resource:
+    output: true
+  eBooks:
+    output: true
+  ebooks-primary:
+    output: true
+  ebooks-secondary:
+    output: true
+  events:
+    output: true
   programmes:
+    output: true
+  services:
     output: true
 resources_name: news
 
