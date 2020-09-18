@@ -1,6 +1,6 @@
 ---
 title: Read@School
-permalink: services/read-at-school
+permalink: services/read-at-school/
 breadcrumb: Read@School
 collection_name: services
 ---
