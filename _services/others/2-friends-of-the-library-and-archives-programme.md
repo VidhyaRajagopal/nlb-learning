@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Friends of the Library and Archives Programme
 permalink: services/others/friends of the library/
 breadcrumb: Friends of the Library and Archives Programme
-collection_name: Friends of the Library and Archives Programme
+collection_name: services
 ---
 
 ## **Friends of the Library and Archives Programme**

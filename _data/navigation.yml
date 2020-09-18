@@ -7,11 +7,23 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About
-    url: /about/
+  - title: Services
+    collection: services
+  - title: eBooks
+    url: /ebooks/
+    sublinks:
+      - title: Primary
+        resource_room: true
+        collection: ebooks-primary
+      - title: Secondary
+        resource_room: true
+        collection: ebooks-secondary
+  - title: Book Recommendations
+    collection: book-recommendation
+  - title: D.I.Y Resources
+    collection: diy-resource
   - title: Programmes
     collection: programmes
-  - title: News
-    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
+

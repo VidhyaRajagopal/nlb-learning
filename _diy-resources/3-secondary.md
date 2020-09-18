@@ -1,7 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Secondary
-permalink: /diy-resources/
+permalink: /diy-resources/secondary
+collection_name: diy-resource
 ---
 
 #test

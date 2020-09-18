@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Early Read
-permalink: /early-read/
+permalink: services/early-read
 breadcrumb: Early Read
-collection_name: early-read
+collection_name: services
 ---
 
 ## **About Early Read**

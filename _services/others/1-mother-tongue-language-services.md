@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Mother Tongue Language Services
 permalink: services/others/mother tongue language services/
 breadcrumb: Mother Tongue Language Services
-collection_name: Mother Tongue Language Services
+collection_name: services
 ---
 
 # **Mother Tongue Language Services** 
