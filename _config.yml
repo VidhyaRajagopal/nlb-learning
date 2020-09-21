@@ -36,6 +36,8 @@ collections:
     output: true
   services:
     output: true
+  unsorted:
+    output: true
 resources_name: news
 
 ##################################################################################################################
