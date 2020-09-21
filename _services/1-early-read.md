@@ -1,5 +1,4 @@
 ---
-layout: leftnav-page-content
 title: Early Read
 permalink: services/early-read
 breadcrumb: Early Read

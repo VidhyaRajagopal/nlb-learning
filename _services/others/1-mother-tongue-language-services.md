@@ -1,5 +1,4 @@
 ---
-layout: leftnav-page-content
 title: Mother Tongue Language Services
 permalink: services/others/mother tongue language services/
 breadcrumb: Mother Tongue Language Services
