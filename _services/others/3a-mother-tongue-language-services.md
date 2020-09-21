@@ -10,11 +10,11 @@ third_nav_title: Others
 
 Book journals, recommended reads and book-related activities are also available in the various languages. For more information on the programmes listed here, please email the following:
 
-* Chinese Language Services: [readsingapore@nlb.gov.sg](readsingapore@nlb.gov.sg)
-* Tamil Language Services: [readtamil@nlb.gov.sg](readtamil@nlb.gov.sg)
-* Malay Language Services: [readmalay@nlb.gov.sg](readmalay@nlb.gov.sg)
+* Chinese Language Services: [readsingapore@nlb.gov.sg](mailto:readsingapore@nlb.gov.sg)
+* Tamil Language Services: [readtamil@nlb.gov.sg](mailto:readtamil@nlb.gov.sg)
+* Malay Language Services: [readmalay@nlb.gov.sg](mailto:readmalay@nlb.gov.sg)
 
-For programmes at the public libraries, the dates and timings listed are subject to change, please refer to [www.nlb.gov.sg/golibrary](www.nlb.gov.sg/golibrary) for the latest updates.
+For programmes at the public libraries, the dates and timings listed are subject to change, please refer to [www.nlb.gov.sg/golibrary](https://www.nlb.gov.sg/golibrary) for the latest updates.
 
 # **Chinese Language Services**
 
@@ -28,7 +28,7 @@ The parenting talk series shares tips and information on education and parenting
 
 Held on a monthly basis, the Junior Avid Readers Reading Club aims to promote the love of reading in the Chinese language through an hour of storytelling and fun-filled activities every month.
 
-Find out more and register for the talks and reading clubs at [www.nlb.gov.sg/golibrary](www.nlb.gov.sg/golibrary)
+Find out more and register for the talks and reading clubs at [www.nlb.gov.sg/golibrary](https://www.nlb.gov.sg/golibrary)
 
 ## **Chinese Programmes for Secondary Schools**
 
