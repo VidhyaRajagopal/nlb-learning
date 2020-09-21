@@ -7,7 +7,7 @@ collection_name: services
 
 ## **About Early Read**
 
-![Early Read Logo](/images/Early-Readers-Logo-8cm.png =300x200)
+<img src="/images/Early-Readers-Logo-8cm.png" style="width: 50%;">
 
 The Early READ Programme offers a suite of library services and resources that aims to help preschool educators and parents nurture a love for reading among young children aged 0 to 6. Through this programme, you can help your children explore reading through stories, songs and rhymes, and fun reading related activities.
 
@@ -33,4 +33,4 @@ Understanding that the print on a page represent words and knowing how to follow
 
 Knowing the names of things, feelings and concepts.
 
-Click [here](http://google.com) to find out more about literacy practices that help develop early literacy skills and download our DIY resources. 
+Click [here](http://www.nlb.gov.sg/discovereads/preschool-resources/) to find out more about literacy practices that help develop early literacy skills and download our DIY resources. 
