@@ -10,7 +10,9 @@ collection_name: services
 
 discoveReads is a reading portal by National Library Board (NLB) for children, teens, parents and educators. Discover new books and resources that will bring out the avid reader in you!
 
-![Read@school Logo](/images/Read_Singapore_Read@school_pantone_secondary.jpg)
+<!-- ![Read@school Logo](/images/Read_Singapore_Read@school_pantone_secondary.jpg) -->
+
+<img src="/images/Read_Singapore_Read@school_pantone_secondary.jpg" style="height: 100px; width: 100px;"> 
 
 Read@School is an initiative by the National Library Board (NLB) to promote reading among students in schools. Students can enjoy a variety of exciting reading programmes that cater to their reading abilities and interests.
 
@@ -20,11 +22,11 @@ Read@School is an initiative by the National Library Board (NLB) to promote read
 
 <!-- ![Tweenkerama Logo](/images/readatschool/teens-takeover-logo-on-black.jpg){:height="100px" width="100px"} -->
 
-<!-- ![Teens Take Over Logo](/images/readatschool/teens-takeover-logo-on-black.jpg){:height="100px" width="100px"} -->
+<!-- ![Teens Take Over Logo](/images/readatschool/Tweenkerama-Logo.jpg){:height="100px" width="100px"} -->
 
 | **Children (7-9 years old)**  | **Tweens(10-14 years old)** | **Teens(13-17 years old)** |
 | ----------------------------- | --------------------------- | -------------------------- |
-| <img src="/images/readatschool/dr-banner.jpg" width="300" height="200"> | <img src="/images/readatschool/teens-takeover-logo-on-black.jpg" width="300" height="200"> | <img src="/images/readatschool/teens-takeover-logo-on-black.jpg" width="300" height="200"> |
+| ![Monsters United Logo](/images/readatschool/dr-banner.jpg) | ![Tweenkerama Logo](/images/readatschool/teens-takeover-logo-on-black.jpg) | ![Teens Take Over Logo](/images/readatschool/Tweenkerama-Logo.jpg) |
 
 ### **Get In Touch**
 
