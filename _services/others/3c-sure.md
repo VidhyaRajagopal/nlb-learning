@@ -20,7 +20,7 @@ This aims to showcase the rich resources on Singapore newspapers collection at t
 
 Find out more about this festival.
 
-![Infographic](/images/sure/Hari-Raya-Infographic.png)
+![Hari Raya Infographic](/images/sure/Hari-Raya-Infographic.png)
 
 ### **Ace Your Project Work**
 
