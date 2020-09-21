@@ -8,7 +8,7 @@ third_nav_title: Programmes
 
 ## **KidsREAD**
 
-| ![KidsRead Logo](/images/kidsread/KidsREAD_logo_modified.png) | kidsREAD is a nationwide reading programme aimed at cultivating the love of reading among children aged 4 to 8 who are from less privileged families, so Primary 1 and 2 students are more than welcome! Each session spans 1 hour where children are engaged in a fun and interactive programme by trained volunteers. <br> They are told stories and involved in story-related activities that spark their imagination and creativity. The reading experience continues at home, with postcards to update parents about each session as well as activities provided to promote parent-child bonding and grow their love of reading. <br> Interested? Contact us at [kidsread@nlb.gov.sg](mailto:kidsread@nlb.gov.sg) and we will get in touch with you! |
+| ![KidsRead Logo](/images/kidsread/KidsREAD_logo_modified.png) | kidsREAD is a nationwide reading programme aimed at cultivating the love of reading among children aged 4 to 8 who are from less privileged families, so Primary 1 and 2 students are more than welcome! Each session spans 1 hour where children are engaged in a fun and interactive programme by trained volunteers. <br><br> They are told stories and involved in story-related activities that spark their imagination and creativity. The reading experience continues at home, with postcards to update parents about each session as well as activities provided to promote parent-child bonding and grow their love of reading. <br><br> Interested? Contact us at [kidsread@nlb.gov.sg](mailto:kidsread@nlb.gov.sg) and we will get in touch with you! |
 
 <img src="/images/kidsread/kidsREAD_alumni.jpg" style="width: 30%;">
 
