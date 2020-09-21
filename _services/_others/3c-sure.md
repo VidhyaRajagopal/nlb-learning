@@ -1,9 +1,9 @@
 ---
-layout: leftnav-page-content
 title: S.U.R.E
 permalink: services/others/sure
 breadcrumb: S.U.R.E
 collection_name: services
+third_nav_title: Others
 ---
 
 ## **S.U.R.E**
