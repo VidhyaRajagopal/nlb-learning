@@ -10,12 +10,12 @@ links:
   - title: Services
     collection: services
   - title: eBooks
-    url: /ebooks-nav/
+    url: /ebooks/ebooks-nav
     sublinks:
       - title: Primary
-        collection: ebooks-primary
+        url: /ebooks/primary/all
       - title: Secondary
-        collection: ebooks-secondary
+        url: /ebooks/secondary/all
   - title: Book Recommendations
     collection: book-recommendation
   - title: D.I.Y Resources
