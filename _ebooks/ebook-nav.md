@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ebooks
 permalink: /ebooks/ebook-nav
 breadcrumb: eBooks
