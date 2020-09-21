@@ -21,7 +21,14 @@ links:
   - title: D.I.Y Resources
     collection: diy-resource
   - title: Events
-    collection: events
+    url: /events/events-main
+    sublinks:
+      - title: Book Bugs
+        url: /events/bookbugs/bookbugs-main
+      - title: POSB-NLB Kids Lit Quiz Singapore 2020
+        url: events/2-posb-nlb-kids-lit-quiz-singapore-2020
+      - title: A Book A Day
+        url: events/a-book-a-day
   - title: Contact Us
     url: /contact-us/
 
