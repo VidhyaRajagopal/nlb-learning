@@ -1,9 +1,9 @@
 ---
 title: Mother Tongue Language Services
-permalink: services/others/mother-tongue-language-services/
+permalink: services/other-services/mother-tongue-language-services/
 breadcrumb: Mother Tongue Language Services
 collection_name: services
-third_nav_title: Others
+third_nav_title: Other Services
 ---
 
 # **Mother Tongue Language Services** 

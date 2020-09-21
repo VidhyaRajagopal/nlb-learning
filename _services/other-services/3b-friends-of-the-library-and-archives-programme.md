@@ -1,9 +1,9 @@
 ---
 title: Friends of the Library and Archives Programme
-permalink: services/others/friends-of-the-library/
+permalink: services/other-services/friends-of-the-library/
 breadcrumb: Friends of the Library and Archives Programme
 collection_name: services
-third_nav_title: Others
+third_nav_title: Other Services
 ---
 
 ## **Friends of the Library and Archives Programme**

@@ -20,6 +20,8 @@ links:
     collection: book-recommendation
   - title: D.I.Y Resources
     collection: diy-resource
+  - title: Events
+    collection: events
   - title: Programmes
     collection: programmes
   - title: Contact Us

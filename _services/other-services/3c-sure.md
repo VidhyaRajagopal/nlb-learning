@@ -1,9 +1,9 @@
 ---
 title: S.U.R.E
-permalink: services/others/sure
+permalink: services/other-services/sure
 breadcrumb: S.U.R.E
 collection_name: services
-third_nav_title: Others
+third_nav_title: Other Services
 ---
 
 ## **S.U.R.E**

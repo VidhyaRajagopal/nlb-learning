@@ -1,7 +1,6 @@
 ---
-layout: leftnav-page-content
 title: Book Bugs
-permalink: events/book-bugs
+permalink: events/bookbugs/bookbugs-main
 breadcrumb: Book Bugs
 collection_name: events
 ---
