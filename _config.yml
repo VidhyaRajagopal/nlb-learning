@@ -24,12 +24,6 @@ collections:
     output: true
   diy-resource:
     output: true
-  ebooks-nav:
-    output: true
-  ebooks-primary:
-    output: true
-  ebooks-secondary:
-    output: true
   events:
     output: true
   programmes:
