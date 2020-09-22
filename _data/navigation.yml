@@ -12,10 +12,10 @@ links:
   - title: eBooks
     url: /ebooks/ebooks-nav
     sublinks:
-      - title: Primary
-        url: /ebooks/primary/all
-      - title: Secondary
-        url: /ebooks/secondary/all
+      - title: Primary School eBooks
+        resource_room: true
+      - title: Secondary School eBooks
+        resource_room: true
   - title: Book Recommendations
     collection: book-recommendation
   - title: D.I.Y Resources
