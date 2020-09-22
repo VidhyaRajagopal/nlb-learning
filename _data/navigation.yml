@@ -13,9 +13,9 @@ links:
     url: /ebooks/ebook-nav
     sublinks:
       - title: Primary School eBooks
-        resource_room: true
+        url: /ebooks/primary/
       - title: Secondary School eBooks
-        resource_room: true
+        url: /ebooks/secondary
   - title: Book Recommendations
     collection: book-recommendation
   - title: D.I.Y Resources
