@@ -7,7 +7,7 @@ third_nav_title: Bookbugs
 ---
 
 | ![Book Bugs Updates](/images/events/bookbugs/Vikus-Updates.png) | ![Book Bugs How to Redeem](/images/events/bookbugs/Iyern-GX-How-to-Redeem.png) | ![Book Bugs How to Play](/images/events/bookbugs/Molder-How-to-Play.png) | ![Book Bugs Story](/images/events/bookbugs/Valeria-Story.png)
-| ![Book Bugs Bug List](/images/events/bookbugs/Nym9-Bug-List.png) | ![Book Bugs Quiz](/images/events/bookbugs/Cybug-Quiz.png) | ![Book Bugs Posters and Activities](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-merigold.png) | ![Book Bugs Glossary](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-glossary.png)
+| ![Book Bugs Bug List](/images/events/bookbugs/Nym9-Bug-List.png) | ![Book Bugs Quiz](/images/events/bookbugs/Cybug-Quiz.png) | ![Book Bugs Posters and Activities](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-merigold.png) | ![Book Bugs Glossary](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-glossary.png) |
 
 ## Book Bugs - How to Redeem
 
