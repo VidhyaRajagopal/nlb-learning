@@ -1,7 +1,6 @@
 ---
-layout: resources
-title: Primary 4 eBooks
-permalink: /ebooks/primary/primary-4
+title: Primary 4 Sample Book
+permalink: /ebooks/primary/primary4/book-title-p4
 collection_name: ebooks-primary
 ---
 
