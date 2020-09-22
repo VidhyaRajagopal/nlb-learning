@@ -32,8 +32,7 @@ collections:
     output: true
   unsorted:
     output: true
-resources_name: ebooks
-resources_name: test
+resources_name: ebooks,test
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
