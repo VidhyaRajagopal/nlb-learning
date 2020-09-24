@@ -1,6 +1,6 @@
 ---
 title: POSB-NLB kids lit Quiz Singapore 2020
-permalink: events/posb-nlb-kids-lit-quiz-singapore-2020
+permalink: /events/kids-lit-quiz-2020
 breadcrumb: POSB-NLB kids lit Quiz Singapore 2020
 collection_name: events
 ---
@@ -9,7 +9,7 @@ collection_name: events
 
 ### **About**
 
-| ![Lit Quiz logo](/images/events/litquiz/KLQSingLogo.jpg) | Kids’ Lit Quiz™ is an international literature competition for young people aged 10 to 13. Held annually, students pit their wits against one another to answer questions on children’s books ranging from classics to comics. Wayne Mills, the Quizmaster, started the Quiz in 1991. Singapore has been participating in Kids’ Lit Quiz™ since 2013. |
+![Lit Quiz logo](/images/events/litquiz/KLQSingLogo.jpg) | Kids’ Lit Quiz™ is an international literature competition for young people aged 10 to 13. Held annually, students pit their wits against one another to answer questions on children’s books ranging from classics to comics. Wayne Mills, the Quizmaster, started the Quiz in 1991. Singapore has been participating in Kids’ Lit Quiz™ since 2013.
 
 In 2019, NPS International School won the Singapore National Final. The team represented Singapore at the Kids’ Lit Quiz™ World Final held in Singapore for the first time.
 
@@ -40,4 +40,3 @@ Due to the global health situation, Battle Lit Out! will be cancelled on the fol
 **The Extremely Vile and Incredibly Literary (E.V.I.L.) Quiz**
 
 Download or view the answers to the [Extremely Vile and Incredibly Literary Quiz](http://www.nlb.gov.sg/discovereads/wp-content/uploads/2019/03/Answers-for-the-Extremely-Vile-and-Incredibly-Literary-Quiz.pdf) that is included in our Kids’ Lit Quiz™ 2019 Lit Boot Camp booklet.
-

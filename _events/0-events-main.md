@@ -1,6 +1,6 @@
 ---
 title: Events
-permalink: events/events-main
+permalink: /events/main
 breadcrumb: Events
 collection_name: events
 ---
