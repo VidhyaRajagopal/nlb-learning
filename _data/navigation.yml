@@ -21,7 +21,7 @@ links:
   - title: D.I.Y Resources
     collection: diy-resource
   - title: Events
-    url: /events/events-main
+    url: /events/main
     sublinks:
       - title: Book Bugs
         url: /events/bookbugs/bookbugs-main
