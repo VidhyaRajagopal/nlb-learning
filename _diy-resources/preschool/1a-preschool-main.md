@@ -21,19 +21,28 @@ _(Updated on 4 September 2020)_
 
 Research shows that there are early literacy skills that children need to pick up on their way to becoming fluent readers:
 
-Letter Knowledge
+**Letter Knowledge**
 Recognising letters and knowing their names and sounds.
 
-Narrative Skills
+**Narrative Skills**
 Being able to describe objects and events.
 
-Phonological Awareness
+**Phonological Awareness**
 Understanding that words are made of smaller sounds and being able to hear and play with these smaller sounds.
 
-Print Awareness
+**Print Awareness**
 Understanding that the print on a page represent words and knowing how to follow the words on a page and use a book.
 
-Vocabulary
+**Vocabulary**
 Knowing the names of things, feelings and concepts.
 
 Click on the icons to find out more about literacy practices that help develop early literacy skills.
+
+| [![Play image](/images/diyresources/preschool/EarlyReadPrac_Play.png)](/diy-resources/preschool/preschool-play) | [![Write image](/images/diyresources/preschool/EarlyReadPrac_Write.png)](/diy-resources/preschool/preschool-write) | [![Talk image](/images/diyresources/preschool/EarlyReadPrac_Talk.png)](/diy-resources/preschool/preschool-talk) | [![Sing image](/images/diyresources/preschool/EarlyReadPrac_Sing.png)](/diy-resources/preschool/preschool-sing) | [![Read image](/images/diyresources/preschool/EarlyReadPrac_Read.png)](/diy-resources/preschool/preschool-read) |
+
+## **Creative Conversations**
+
+### **August Issue**
+
+<a href="/images/diyresources/preschool/Creative-Conversations-August-Newsletter-eDM_A4.pdf"><img src="/images/diyresources/preschool/Creative-Conversations-August-Newsletter-thumbnail-1.jpg" style="width: 30%;"></a>
+
