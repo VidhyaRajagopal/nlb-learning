@@ -43,7 +43,7 @@ _All synopsis taken from the respective publishers. The book covers are the copy
 
 ### **Colourful Garden**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=i5Lpz7d82sQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i5Lpz7d82sQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Make your own vegetable garden**
 
@@ -84,7 +84,7 @@ _All synopsis taken from the respective publishers. The book covers are the copy
 
 ### **Zoom into Space**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=VrGCxTMabI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VrGCxTMabI8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Make your own Solar System mobile**
 
@@ -125,7 +125,7 @@ _All synopsis taken from the respective publishers. The book covers are the copy
 
 ### **Magical World**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=gq_uGHDS-sM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gq_uGHDS-sM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Make your own Dragon book corner**
 
@@ -163,6 +163,6 @@ Princess Elizabeth is excited to marry dreamy Prince Ronald, but then a dragon a
 
 ### **Babies and Toddlers**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=L5nzpUszt5Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L5nzpUszt5Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vyCZVkgxPDw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vyCZVkgxPDw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

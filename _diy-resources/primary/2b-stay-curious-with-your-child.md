@@ -20,15 +20,15 @@ _(Updated on 26 August 2020)_
 
 ### **School Holiday Specials**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=S1lcosdpw20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S1lcosdpw20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Drawing is a fun activity to do when we have to stay in.✏️ Let your children expand on their artistic abilities with our librarian, Angela, who will be showing us how we can create a nice drawing in 4 easy steps.🎨
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vUXWrQMa8QY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vUXWrQMa8QY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Do your children like creating their own inventions just like Leonardo Da Vinci? Join our librarian Faye, as she shows us Leonardo’s many amazing inventions and teaches us how to make one of them!
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=D08p42IKWjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D08p42IKWjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 School’s out, fun’s in! Build your very own paper roller coaster 🎢 with Nurul Ghali.
 
@@ -41,7 +41,7 @@ You’ll need:
 
 Try this out and tag us at @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=fomkRYcl_mo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fomkRYcl_mo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Source: [Super fun KID’S Workout! 8-Minute HIIT fitness class for kids. Let’s Kid Fit GO!](https://www.youtube.com/watch?v=fomkRYcl_mo&feature=emb_title)  (2 Apr 2020)
 
@@ -95,7 +95,7 @@ You’ll need:
 
 Try this out and tag us at @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=I2bjA-3Vn6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I2bjA-3Vn6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Source: [Sink or Float Density Tower Science Experiments for Kids!!!](https://www.youtube.com/watch?v=I2bjA-3Vn6E&list=PLasCX3wfxLR3nEKMhsCUjyi5f4W6Rg6wf&index=22&t=0s) (September 2019)
 
@@ -142,7 +142,7 @@ All you need are:
 
 Try this out and tag us at @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=40SZl84Lr7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/40SZl84Lr7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Source: [Betsy the Banana| A Cosmic Kids Yoga Adventure](https://youtu.be/40SZl84Lr7A) (31 January 2016)
 
@@ -194,7 +194,7 @@ You’ll need:
 
 Try this out and tag us at @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=D4XSlCCXyvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D4XSlCCXyvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Source: [Paper Heart Flower Craft| Mothers Day Craft for Kids](https://www.youtube.com/watch?v=D4XSlCCXyvU&feature=youtu.be) (14 April 2018)
 

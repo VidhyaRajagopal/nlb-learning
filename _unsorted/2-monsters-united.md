@@ -11,7 +11,7 @@ collection_name: unsorted
 
 There are 4 monsters in the team, each with distinctive features that represent their favorite genres. The monsters are Rooky, Camy, Zecky and Hutsy. Watch the video below to find out more about each of them!
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Vbr0Pqcbhc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vbr0Pqcbhc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <u>Monster Hangout</u>
 

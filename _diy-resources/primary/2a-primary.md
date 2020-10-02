@@ -188,7 +188,7 @@ This guide provides tips on how parents can kickstart their children’s reading
 **Tips to get your kid reading**
 This video is part of a series on parenting tips during home-based learning, brought to you by the Office of Education Research, NIE NTU, Singapore
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=x37aJ3jANGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x37aJ3jANGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **Learn To Be S.U.R.E.**
