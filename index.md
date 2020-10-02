@@ -16,6 +16,16 @@ sections:
             - title: Resources for Parents
               description: Raising Readers Toolkit
               url: /diy-resources/primary/primary-main
+            - title: Monsters United
+              description: 
+              url: unsorted/monsters-united
+            - title: Tweenkerama
+              description: 
+              url: 
+            - title: Teens TakeOver
+              description: unsorted/teens-takeover
+              url:
+        key_highlights:
             - title: Stay Curious With Your Child
               description: 
               url: /diy-resources/primary/stay-curious-with-your-child
@@ -31,15 +41,6 @@ sections:
             - title: A Book A Day
               description:
               url: events/a-book-a-day
-            - title: Monsters United
-              description: 
-              url:
-            - title: Tweenkerama
-              description: 
-              url: 
-            - title: Teens TakeOver
-              description: 
-              url: 
     - infobar:
         title: Storytime With Our Librarians (For ages 4-10)
         subtitle:
