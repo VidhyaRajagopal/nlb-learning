@@ -19,7 +19,7 @@ links:
   - title: Book Recommendations
     collection: book-recommendation
   - title: D.I.Y Resources
-    collection: diy-resources
+    collection: diy-resource
   - title: Events
     url: /events/main
     sublinks:
