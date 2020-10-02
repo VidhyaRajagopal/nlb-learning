@@ -1,6 +1,6 @@
 ---
 title: Secondary School Book Recommendations
-permalink: /book-recommendations/recommendationssecondary/recommend-secondary
+permalink: /book-recommendations/secondary
 collection_name: book-recommendation
 ---
 
