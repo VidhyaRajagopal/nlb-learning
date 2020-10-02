@@ -165,7 +165,7 @@ Bonus: Print them out or take a screenshot with your phone to colour the black a
 | **Head in the Clouds(b&w)** | **Head in the Clouds (colour)** | 
 | [![Head in the clouds image](/images/diyresources/secondary/Head-in-the-Clouds_BW.jpg)](/images/diyresources/secondary/Head-in-the-Clouds_BW-scaled.jpeg) | [![Head in the clouds color image](/images/diyresources/secondary/Head-in-the-Clouds_color.jpg)](/images/diyresources/secondary/Head-in-the-Clouds_color-scaled.jpg) |
 | **Did you know...(b&w)** | **Did you know...(colour)** |
-| [![Did you know image](/images/diyresources/secondary/Selfies_BW-212x300.jpg)](/images/diyresources/secondary/Selfies_BW-scaled.jpg) | [![Did you know color image](/images/diyresources/secondary/Selfies_color.jpg)](/images/diyresources/secondary/Selfies_color-scaled.jpg) |
+| [![Did you know image](/images/diyresources/secondary/Selfies_BW.jpg)](/images/diyresources/secondary/Selfies_BW-scaled.jpg) | [![Did you know color image](/images/diyresources/secondary/Selfies_color.jpg)](/images/diyresources/secondary/Selfies_color-scaled.jpg) |
 | **What do you do online?(b&w)** | **What do you do online? (colour)** |
 | [![What do you do online image](/images/diyresources/secondary/What-Do-You-Do-Online_BW.jpg)](/images/diyresources/secondary/What-Do-You-Do-Online_BW-scaled.jpg) | [![What do you do online color image](/images/diyresources/secondary/What-Do-You-Do-Online_color.jpg)](/images/diyresources/secondary/What-Do-You-Do-Online_color-scaled.jpg) |
 
