@@ -1,7 +1,7 @@
 ---
 title: Preschool Write
 permalink: /diy-resources/preschool/preschool-write
-collection_name: diy-resource
+collection_name: diy-resources
 third_nav_title: Preschool Resources
 ---
 

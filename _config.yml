@@ -20,9 +20,9 @@ colors:
 
 
 collections:
-  book-recommendation:
+  book-recommendations:
     output: true
-  diy-resource:
+  diy-resources:
     output: true
   events:
     output: true

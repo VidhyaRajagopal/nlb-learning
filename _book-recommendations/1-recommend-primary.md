@@ -1,7 +1,7 @@
 ---
 title: Primary School Book Recommendations
 permalink: /book-recommendations/recommend-primary
-collection_name: book-recommendation
+collection_name: book-recommendations
 ---
 
 ## **Primary**

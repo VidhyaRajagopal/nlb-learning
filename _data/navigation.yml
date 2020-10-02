@@ -17,9 +17,9 @@ links:
       - title: Secondary School eBooks
         url: /ebooks/secondary/
   - title: Book Recommendations
-    collection: book-recommendation
+    collection: book-recommendations
   - title: D.I.Y Resources
-    collection: diy-resource
+    collection: diy-resources
   - title: Events
     url: /events/main
     sublinks:

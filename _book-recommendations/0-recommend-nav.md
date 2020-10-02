@@ -1,7 +1,7 @@
 ---
 title: Book Recommendations
 permalink: /book-recommendations/all
-collection_name: book-recommendation
+collection_name: book-recommendations
 ---
 
 ### **Looking for Book Recommendations for Children?**
