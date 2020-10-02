@@ -22,7 +22,7 @@ colors:
 collections:
   book-recommendation:
     output: true
-  diy-resource:
+  diy-resources:
     output: true
   events:
     output: true

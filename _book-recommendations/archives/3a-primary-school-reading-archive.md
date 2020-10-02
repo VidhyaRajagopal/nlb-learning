@@ -2,6 +2,7 @@
 title: Archived Primary Reading Lists
 permalink: /book-recommendations/archives/recommend-primary-archives
 collection_name: book-recommendation
+third_nav_title: Reading Archives
 ---
 
 ## **Archived Primary Reading Lists**
