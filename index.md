@@ -23,8 +23,8 @@ sections:
               description: 
               url: 
             - title: Teens TakeOver
-              description: unsorted/teens-takeover
-              url:
+              description: 
+              url: unsorted/teens-takeover
     - infobar:
         title: Storytime With Our Librarians (For ages 4-10)
         subtitle:
