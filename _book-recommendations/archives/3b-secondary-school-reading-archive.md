@@ -1,6 +1,6 @@
 ---
 title: Archived Secondary Reading Lists
-permalink: /book-recommendations/recommendationssecondary/recommend-secondary-archives
+permalink: /book-recommendations/archives/recommend-secondary-archives
 collection_name: book-recommendation
 third_nav_title: Reading Archives
 ---
