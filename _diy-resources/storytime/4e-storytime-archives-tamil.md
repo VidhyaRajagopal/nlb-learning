@@ -1,13 +1,13 @@
 ---
 title: Storytime Tamil Archives
 permalink: /diy-resources/storytime/storytime-archives-tamil
-collection_name: diy-resource
+collection_name: diy-resources
 third_nav_title: Storytime
 ---
 
 ## **Storytime Tamil Archives**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=m1A1kzggogA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1A1kzggogA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **18 May 2020**
 **NLB Librarian:Eunice Anthonyraj**
@@ -15,7 +15,7 @@ third_nav_title: Storytime
 **கணியன் செய்த உதவி (Kanniyan Seitha Othavi) by Ponngothai Neff, (Author).**
 **J SING PON**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WsebGQqc5r0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WsebGQqc5r0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **13 May 2020**
 **NLB Librarian: Renu Siva**
@@ -24,7 +24,7 @@ third_nav_title: Storytime
 **by Pauline Loh (Author), Avina Tan (Illustrator) and Prema Govin (Translator).**
 **J SING LOW**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=x6OYrvjHCzo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x6OYrvjHCzo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **6 May 2020**
 **NLB Librarian: Eunice Anthonyraj**
@@ -32,7 +32,7 @@ third_nav_title: Storytime
 **by Prema Govin, (Author).**
 **J SING  PRE**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jUlnVRdIQM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jUlnVRdIQM8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **1 May 2020**
 **NLB Librarian: Nirmala**
@@ -40,7 +40,7 @@ third_nav_title: Storytime
 **Emily Lim (Author), Jade Fang (Illustrator) and Prema Govin (translator).**
 **Call No.: J SING LIM**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=oHxgLHc_wmQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oHxgLHc_wmQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **29 April 2020**
 **NLB Librarian: Renu Siva**
@@ -48,7 +48,7 @@ third_nav_title: Storytime
 **காலத்தினால் செய்த நன்றி (Kaalathinaal Seitha Nandri) by Prema Govin (author).**
 **Call No.: J SING PRE**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7veRs50a_pw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7veRs50a_pw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **24 April 2020**
 **NLB Librarian: Eunice Anthony**
@@ -56,7 +56,7 @@ third_nav_title: Storytime
 **read நூலகம் சென்ற நிலா (Nulagam Sendra Nila) by Prema Govin (Author).**
 **Call No.: J SING PRE**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=I7eEOeVWLQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I7eEOeVWLQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **22 April 2020**
 **NLB Librarian: Nirmala**
@@ -64,7 +64,7 @@ third_nav_title: Storytime
 **read எங்கே செல்வது? (Yengeh Selvathu) by Prema Govin.**
 **Call No.: J SING PRE**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JaviuagWqXg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aviuagWqXg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **17 April 2020**
 **NLB Librarian: Eunice Anthony**
@@ -73,7 +73,7 @@ third_nav_title: Storytime
 **Malarvele Ilangovan, (Author).**
 **Call No.: J SING MAL**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=XLO0BGNLKJU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XLO0BGNLKJU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **13 April 2020**
 **NLB Librarian: Renu Siva**

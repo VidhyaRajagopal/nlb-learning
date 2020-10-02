@@ -1,7 +1,7 @@
 ---
 title: Storytime with our librarians (for ages 4 - 10)
 permalink: /diy-resources/storytime/storytime-with-our-librarians
-collection_name: diy-resource
+collection_name: diy-resources
 third_nav_title: Storytime
 ---
 

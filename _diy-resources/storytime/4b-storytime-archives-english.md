@@ -1,7 +1,7 @@
 ---
 title: Storytime English Archives
 permalink: /diy-resources/storytime/storytime-archives-english
-collection_name: diy-resource
+collection_name: diy-resources
 third_nav_title: Storytime
 ---
 
