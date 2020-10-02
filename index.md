@@ -25,22 +25,6 @@ sections:
             - title: Teens TakeOver
               description: unsorted/teens-takeover
               url:
-        key_highlights:
-            - title: Stay Curious With Your Child
-              description: 
-              url: /diy-resources/primary/stay-curious-with-your-child
-            - title: Teen things
-              description: 
-              url: /diy-resources/secondary/teen-things
-            - title: Storytime With our Librarians
-              description: 
-              url: /diy-resources/storytime/storytime-with-our-librarians
-            - title: D.I.Y. Resources
-              description:
-              url: /diy-resources/diy-resources-main
-            - title: A Book A Day
-              description:
-              url: events/a-book-a-day
     - infobar:
         title: Storytime With Our Librarians (For ages 4-10)
         subtitle:
