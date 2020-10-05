@@ -18,11 +18,9 @@ Wicked meets The Little Mermaid in the captivating origin story of the sea's mos
 | Available Copies |
 | Library Copies |
 
-| Available formats |
-| Adobe EPUB eBook  |
-| OverDrive Read    |
+| This book is available at: | Available formats: |
+| singapore.lib.overdrive.com | Adobe EPUB eBook, OverDrive Read |    
 
-| You will need an eBook reader application to open the file: |
-| [Adobe Digital Editions](http://www.adobe.com/products/digitaleditions/) |
-| [Overdrive (for Overdrive titles)](http://app.overdrive.com/) |
-| [List of generic ePub readers (for all other ePub titles)](http://eresources.nlb.gov.sg/Main/Help/EPUB) |
+| You will need an eBook reader application to open the file: | [Adobe Digital Editions](http://www.adobe.com/products/digitaleditions/) |
+| | [Overdrive (for Overdrive titles)](http://app.overdrive.com/) |
+| | [List of generic ePub readers (for all other ePub titles)](http://eresources.nlb.gov.sg/Main/Help/EPUB) |
