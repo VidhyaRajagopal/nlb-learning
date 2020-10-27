@@ -118,7 +118,7 @@ Defeating Skorpius is no easy feat. He has grown powerful over the years! Will t
 
 Did you know Renly (Bug No. 2/80) and Rogue (Bug No. 58/80) are siblings? Renly went missing 2 years ago on a dark, stormy night and Rogue is determined to leave her Book of Residence to find her long-lost brother. Find out more about the wonderful world of Book Bugs on the [Glossary](events/bookbugs/glossary) page!
 
-| ![Renly](/images/events/bookbugs/2_Renly.jpg) | ![Rogue](/images/events/bookbugs/58_Rogue.jpg) |
+| ![Renly](/images/events/bookbugs/2_Renly.jpg) | <img src=”/images/events/bookbugs/58_Rogue.jpg” alt=”Rogue” style=”width: 15rem;”> |
 
 **16/9/2018: Are you ready to PLAY?**
 The Book Bugs II Playoffs is an event where Book Bugs II fans will be able to enjoy fringe activities, card trading, swap passes as well as participate in a friendly game of Book Bugs II with other casual players. Join us for a weekend of fun, fun, fun! Registration is required for competitive play and will open on 1st October on our goLibrary portal.
