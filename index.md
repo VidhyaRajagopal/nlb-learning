@@ -1,15 +1,15 @@
 ---
 layout: homepage
 title: DiscoveReads
-description: Brief site description here
-image: /images/isomer-logo.svg
+description: NLB Learning
+image: /images/discoveReadsbanner3.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Welcome!
 sections:
     - hero:
         title: NLB Learning
         subtitle: Welcome to NLB Learning!
-        background: /images/hero-banner.png
+        background: /images/homepage-image.png
         button: Contact Us
         url: /contact-us/
         key_highlights:
