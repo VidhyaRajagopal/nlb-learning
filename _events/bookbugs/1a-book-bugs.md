@@ -72,7 +72,7 @@ The new Book Bugs II Booster cards have arrived! Meet Gaheris the Valiant, a chi
 **18/12/2018: SOMEBUGGY NEW IS COMING TO TOWN!**
 Book Bugs Booster cards can be redeemed via the card dispensers on 27 December.
 
-![Bookbugs II poster](/images/events/bookbugs/New-Book-Bugs-ll-poster.jpg)
+<img src="/images/events/bookbugs/New-Book-Bugs-ll-poster.jpg" alt="Bookbugs II poster" style="width: 70%;">
 
 **30/11/2018: Goodbye Bukit Merah Public Library!**
 Bukit Merah Public Library has closed so Book Bugs redemption will no longer be available at that branch. However, don’t be alarmed, the Book Bugs of Bukit Merah Public Library are safe and happy. In fact, they are extremely excited for the move to VivoCity shopping mall. The new library, named library@harbourfront, will open on Saturday, 12 January 2019. See you there!
