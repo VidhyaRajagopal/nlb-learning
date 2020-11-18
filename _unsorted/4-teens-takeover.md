@@ -13,13 +13,13 @@ Attention all teens! Tired of studying? Need a break from all the mugging? Join 
 
 Come hang with us at these locations!
 
-If you’re an East-sider, drop by
-Bedok Public Library, Programme Zone, 2.30-6.30PM
-7 Jan 2020
-21 Jan 2020
-~~11 Feb 2020~~ \[Cancelled\]
-~~25 Feb 2020~~ \[Cancelled\]
-~~10 Mar 2020~~ \[Cancelled\]
+If you’re an East-sider, drop by <br>
+Bedok Public Library, Programme Zone, 2.30-6.30PM <br>
+7 Jan 2020 <br>
+21 Jan 2020 <br>
+~~11 Feb 2020~~ \[Cancelled\] <br>
+~~25 Feb 2020~~ \[Cancelled\] <br>
+~~10 Mar 2020~~ \[Cancelled\] <br>
 ~~24 Mar 2020~~ \[Cancelled\]
 
 If you love visiting **Central**, drop by
