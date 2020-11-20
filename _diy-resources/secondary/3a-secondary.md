@@ -30,7 +30,7 @@ _(Updated on 17 July 2020)_
 Not sure which type of books you enjoy reading most? Download and complete the Reading Interest Profile to find out!
 
 | **Lower Secondary** | **Upper Secondary** | 
-| <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> |
+| <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> |
 
 **Reading Challenge**
 
@@ -44,7 +44,7 @@ Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ L
 
 Sec 1
 | **Survival Kit** | **Literary Boot Camp** |
-| <a href="/images/diyresources/secondary/NLB_Booklet_9-MAR.pdf"><img src="/images/diyresources/secondary/KLQ-survival-kit.jpg" alt="Survival kit image" style="width: 30%;"></a> | <a href="/images/diyresources/secondary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf"><img src="/images/diyresources/secondary/KLQ-LBC.jpg" alt="Literary boot camp image" style="width: 30%;"></a> | 
+| <a href="/images/diyresources/secondary/NLB_Booklet_9-MAR.pdf"><img src="/images/diyresources/secondary/KLQ-survival-kit.jpg" alt="Survival kit image" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf"><img src="/images/diyresources/secondary/KLQ-LBC.jpg" alt="Literary boot camp image" style="width: 50%;"></a> | 
 
 ### **Learn about S.T.E.A.M.**
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these activities.
