@@ -36,7 +36,7 @@ Not sure which type of books you enjoy reading most? Download and complete the R
 
 Up your reading game by completing our very own Reading Challenge
 
-<a href="/images/diyresources/secondary/Secondary-Reading-Challenge-12052020V2.pdf"><img src="/images/diyresources/secondary/RC_Sec.jpg" alt="Reading Challenge image" style="width: 60%;"></a>
+<a href="/images/diyresources/secondary/Secondary-Reading-Challenge-12052020V2.pdf"><img src="/images/diyresources/secondary/RC_Sec.jpg" alt="Reading Challenge image" style="width: 50%;"></a>
 
 **POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp Booklet (30 mins)**
 
@@ -44,7 +44,7 @@ Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ L
 
 Sec 1
 | **Survival Kit** | **Literary Boot Camp** |
-| <a href="/images/diyresources/secondary/NLB_Booklet_9-MAR.pdf"><img src="/images/diyresources/secondary/KLQ-survival-kit.jpg" alt="Survival Kit image" style="width: 90%;"></a> | <a href="/images/diyresources/secondary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf"><img src="/images/diyresources/secondary/KLQ-LBC.jpg" alt="Literary Boot Camp image" style="width: 90%;"></a>| 
+| <a href="/images/diyresources/secondary/NLB_Booklet_9-MAR.pdf"><img src="/images/diyresources/secondary/KLQ-survival-kit.jpg" alt="Survival Kit image" style="width: 40%;"></a> | <a href="/images/diyresources/secondary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf"><img src="/images/diyresources/secondary/KLQ-LBC.jpg" alt="Literary Boot Camp image" style="width: 40%;"></a>| 
 
 
 ### **Learn about S.T.E.A.M.**
@@ -54,8 +54,8 @@ Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.
 Problem-solve through do-it-yourself activities. Simply follow the instructions and have fun!
 
 Sec 1 - Sec2
-| <a href="/images/diyresources/secondary/Tweens-Pop-up-Package-Flexagon.pdf"><img src="/images/diyresources/secondary/Tweens-Flexagon.jpg" alt="Flexagon image" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Tweens-Pop-up-Package-Frog.pdf"><img src="/images/diyresources/secondary/Tweens-Origami-Frog.jpg" alt="Origami frog image" style="width: 50%;"></a> |
-| <a href="/images/diyresources/secondary/Tweens-Pop-up-Package-Paper-Helicopter.pdf"><img src="/images/diyresources/secondary/Tweens-Paper-Helicopter.jpg" alt="Paper helicopter image" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/Tweens-Zentangle.pdf"><img src="/images/diyresources/secondary/Tweens-Zentangle.jpg" alt="Zentagle image" style="width: 50%;"></a> |
+| <a href="/images/diyresources/secondary/Tweens-Pop-up-Package-Flexagon.pdf"><img src="/images/diyresources/secondary/Tweens-Flexagon.jpg" alt="Flexagon image" style="width: 25%;"></a> | <a href="/images/diyresources/secondary/Tweens-Pop-up-Package-Frog.pdf"><img src="/images/diyresources/secondary/Tweens-Origami-Frog.jpg" alt="Origami frog image" style="width: 25%;"></a> |
+| <a href="/images/diyresources/secondary/Tweens-Pop-up-Package-Paper-Helicopter.pdf"><img src="/images/diyresources/secondary/Tweens-Paper-Helicopter.jpg" alt="Paper helicopter image" style="width: 25%;"></a> | <a href="/images/diyresources/secondary/Tweens-Zentangle.pdf"><img src="/images/diyresources/secondary/Tweens-Zentangle.jpg" alt="Zentagle image" style="width: 25%;"></a> |
 
 **Tweens Lab Mag (1 hour)**
 Cool, creative, out-of-this world ideas and easy DIY projects on STEAM topics and activities for you to complete. Download the issues below!
@@ -70,9 +70,9 @@ Pick a short read and create a story-based craft.
 **PopReads! (20 mins)**
 Help students relate to books based on STELLAR themes to their everyday lives with engaging discussions and activities! Download these activity sheets and make reading come alive!
 
-<a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-2_Tell-Me-My-Name_v06-FA-web.pdf"><img src="/images/diyresources/secondary/Tell-me-my-name.png" alt="Tell me my name image" style="width: 60%;"></a>
+<a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-2_Tell-Me-My-Name_v06-FA-web.pdf"><img src="/images/diyresources/secondary/Tell-me-my-name.png" alt="Tell me my name image" style="width: 40%;"></a>
 
-<a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-1_Unscramble-Me_v08-FAP-web.pdf"><img src="/images/diyresources/secondary/unscramble-me.png" alt="Unscramble me image" style="width: 60%;"></a>
+<a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-1_Unscramble-Me_v08-FAP-web.pdf"><img src="/images/diyresources/secondary/unscramble-me.png" alt="Unscramble me image" style="width: 40%;"></a>
 
 ### **Read and Share**
 **Share your thoughts on your favourite reads and intriguing book excerpts.**
@@ -81,7 +81,7 @@ Help students relate to books based on STELLAR themes to their everyday lives wi
 Students explore how stories relate to the world around them through a series of engaging discussions and activities. By reading and reflecting on thought-provoking extracts from great books, students will be encouraged to think critically and draw parallels between what is described in the extracts and their real-life experiences.
 
 Sec 1 – Sec2
-<img src="/images/diyresources/secondary/shortstoriesandradioplaysofsrajaratnam.jpg" alt="The short stories and radio plays of s rajaratnam image" style="width: 40%;">
+<img src="/images/diyresources/secondary/shortstoriesandradioplaysofsrajaratnam.jpg" alt="The short stories and radio plays of s rajaratnam image" style="width: 30%;">
 
 Title: [Short Stories and Radio Plays of S. Rajaratnam](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=13792223)
 Author: S. Rajaratnam
@@ -90,7 +90,7 @@ Call Number: SING RAJ
 | [RRW Secondary Short Stories & Radio Plays of S. Rajaratnam Worksheet and Extract](/images/diyresources/secondary/RRWSecondaryRadioPlaysFAlowres-1.pdf) | 
 [RRW Secondary Short Stories & Radio Plays of S. Rajaratnam Facilitator’s Guide](/images/diyresources/secondary/NLB_RRW-SG-Secondary-S-Rajaratnam_Facil-Guide-edited-1.pdf) |
 
-<img src="/images/diyresources/secondary/Hatchet.jpg" alt="Hatchet image" style="width: 40%;">
+<img src="/images/diyresources/secondary/Hatchet.jpg" alt="Hatchet image" style="width: 30%;">
 
 Title: [Hatchet](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=8801620)
 Author: Gary Paulsen
@@ -100,7 +100,7 @@ Call Number: Y PAU
 [RRW Secondary Hatchet Facilitator’s Guide](/images/diyresources/secondary/RRW-Secondary-Hatchet-Facilitators-Guide.pdf) |
 
 Sec 3 – Sec 4
-<img src="/images/diyresources/secondary/50-stories-of-my-life_SR-NATHAN.jpg" style="width: 40%;">
+<img src="/images/diyresources/secondary/50-stories-of-my-life_SR-NATHAN.jpg" style="width: 30%;">
 
 Title: [S R Nathan: 50 stories from my life](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=200132009)
 Author: S. R. Nathan
@@ -109,7 +109,7 @@ Call Number: J SING 959.5705092 NAT
 [RRW Secondary S R Nathan 50 Stories from my Life Worksheet and Extract](/images/diyresources/secondary/RRWSecondary50StoriesFAlowres-1.pdf)
 [RRW Secondary S R Nathan 50 Stories from my Life Facilitator’s Guide](/images/diyresources/secondary/NLB_RRW-Secondary-2015-50-Stories_Facil-Guide-1.pdf)
 
-<img src="/images/diyresources/secondary/Words.jpeg" style="width: 40%;">
+<img src="/images/diyresources/secondary/Words.jpeg" style="width: 30%;">
 
 Title: [&Words: Poems Singapore and Beyond](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=13668713)
 Edited by: Edwin Thumboo
@@ -118,7 +118,7 @@ Call Number: Y SING S821 WOR
 [RRW Secondary &Words Poems Singapore and Beyond Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Worksheet-and-Extract.pdf)
 [RRW Secondary &Words Poems Singapore and Beyond Facilitators Guide](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Facilitators-Guide.pdf)
 
-<img src="/images/diyresources/secondary/Viridian_SusanGates.jpg" alt="Viridian image" style="width: 40%;">
+<img src="/images/diyresources/secondary/Viridian_SusanGates.jpg" alt="Viridian image" style="width: 30%;">
 
 Title: [Viridian](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=200165574)
 Author: Susan Gates
@@ -150,7 +150,7 @@ Click on the links below to download the posters
 **Activities (30 mins)**
 Suggested activities to liven up reading corners everywhere!
 
-<a href="images/diyresources/secondary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.pdf"><img src="/images/diyresources/secondary/SLM-activity-SEC.jpg" alt="Golden ticket image" style="width: 60%;"></a>
+<a href="images/diyresources/secondary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.pdf"><img src="/images/diyresources/secondary/SLM-activity-SEC.jpg" alt="Golden ticket image" style="width: 50%;"></a>
 
 ### **Learn To Be S.U.R.E.**
 **Are you savvy enough to face the pitfalls of the internet? Get SURE-vival tips through these S.U.R.E. (Source Understand Research Evaluate) activities!**
@@ -177,7 +177,7 @@ Sec 1 – Sec 2
 **Fake News #1**
 
 | SURE Infographic | SURE Toolkit Activity Sheet |
-| <a href="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg"><img src="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg" alt="Sure infographic image" style="width: 50%;"></a> | <a href="/images/sure/SURE-Kit-Activity-Sheet-FA.pdff"><img src="/images/sure/Capture4.png" alt="Sure toolkit image" style="width: 50%;"></a> 
+| <a href="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg"><img src="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg" alt="Sure infographic image" style="width: 50%;"></a> | <a href="/images/sure/SURE-Kit-Activity-Sheet-FA.pdff"><img src="/images/sure/Capture4.png" alt="Sure toolkit image" style="width: 100%;"></a> 
 | SURE Toolkit Map |
 | [![Sure toolkit map image](/images/sure/Capture-2.png)](/images/sure/SURE-Kit-A3-Map-FA.pdf) |
 
