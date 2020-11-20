@@ -28,7 +28,7 @@ _(Updated on 17 July 2020)_
 Not sure which type of books you enjoy reading most? Download and complete the Reading Interest Profile to find out!
 
 | **Lower Secondary** | **Upper Secondary** | 
-| <a href="Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> | <a href="Reading-Interest-Profile-Upper-Secondary-FA-Low-res.pdf"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> |
+| <a href="images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> | <a href="images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> |
 
 **Reading Challenge**
 Up your reading game by completing our very own Reading Challenge
