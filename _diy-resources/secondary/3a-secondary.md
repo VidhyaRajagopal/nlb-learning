@@ -30,11 +30,11 @@ _(Updated on 17 July 2020)_
 Not sure which type of books you enjoy reading most? Download and complete the Reading Interest Profile to find out!
 
 | **Lower Secondary** | **Upper Secondary** | 
-| <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 50%;"></a> <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 50%;"></a> |
+| <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> |
 
 **Reading Challenge**
 
-Up your reading game by completing our very own Reading Challenge
+Up your reading game by completing our very own Reading Challenge.
 
 <a href="/images/diyresources/secondary/Secondary-Reading-Challenge-12052020V2.pdf"><img src="/images/diyresources/secondary/RC_Sec.jpg" alt="Reading Challenge image" style="width: 50%;"></a>
 
@@ -43,8 +43,9 @@ Up your reading game by completing our very own Reading Challenge
 Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp booklet to see how much you know!
 
 Sec 1
+
 | **Survival Kit** | **Literary Boot Camp** |
-| [![Survival kit image](/images/diyresources/secondary/KLQ-survival-kit.jpg)](/images/diyresources/secondary/NLB-Booklet_9-MAR.pdf) | [![Literary boot camp image](/images/diyresources/secondary/KLQ-LBC.jpg)](NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf) |
+[![Survival kit image](/images/diyresources/secondary/KLQ-survival-kit.jpg)](/images/diyresources/secondary/NLB-Booklet_9-MAR.pdf) | [![Literary boot camp image](/images/diyresources/secondary/KLQ-LBC.jpg)](NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf) |
 
 ### **Learn about S.T.E.A.M.**
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these activities.
@@ -53,6 +54,7 @@ Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.
 Problem-solve through do-it-yourself activities. Simply follow the instructions and have fun!
 
 Sec 1 - Sec2
+
 |[![Flexagon image](/images/diyresources/secondary/Tweens-Flexagon.jpg)](/images/diyresources/secondary/Tweens-Pop-up-Package-Flexagon.pdf) | [![Origami frog image](/images/diyresources/secondary/Tweens-Origami-Frog.jpg)](/images/diyresources/secondary/Tweens-Pop-up-Package-Frog.pdf)|
 |[![Paper helicopter image](/images/diyresources/secondary/Tweens-Paper-Helicopter.jpg)](/images/diyresources/secondary/Tweens-Pop-up-Package-Paper-Helicopter.pdf) | [![Zentangle image](/images/diyresources/secondary/Tweens-Zentangle.jpg)](images/diyresources/secondary/Tweens-Zentangle.pdf)|
 
