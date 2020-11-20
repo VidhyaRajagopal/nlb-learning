@@ -20,7 +20,8 @@ _(Updated on 20 November 2020)_
 
 Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide you with a book recommendation. Go on, try it (you’re welcome)!
 
-[![Boba Book Recommendations](/images/diyresources/secondary/Boba-Book-Recommendations.png)](https://www.opinionstage.com/content-717/boba-book-recommendations)
+<a href="https://www.opinionstage.com/content-717/boba-book-recommendations"><img src="/images/diyresources/secondary/Boba-Book-Recommendations.png" alt="Boba Book Recommendations" style="width: 50%;"></a>
+
 <p style="text-align: center;"><i>(Click the image to access the <a href="https://www.opinionstage.com/content-717/boba-book-recommendations">Boba Book Recommendations Quiz</a>)</i></p>
 
 ### **DIY Room Décor**
@@ -43,7 +44,7 @@ Source: [10 Tumblr Photo Wall Ideas ! ~ Cute Ways to Display & Organize Photos I
 
 Read these eBooks for more transformative ideas for your space and lifestyle.
 
-![Room love image](/images/diyresources/secondary/Picture-3.jpg)
+<img src="https://d33wubrfki0l68.cloudfront.net/0f4ba7154adb1b1eae065b26907c3009c55a774c/e74c7/images/diyresources/secondary/picture-3.jpg" alt="Room love image" style="width: 40%;">
 
 **Room Love: 50 DIY Projects to Design Your Space**
 by Heather Wutschke
