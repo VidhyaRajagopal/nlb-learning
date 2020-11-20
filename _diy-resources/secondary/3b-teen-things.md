@@ -14,7 +14,7 @@ _(Updated on 20 November 2020)_
 
 [Go back to Stay-Home Activities (Secondary)](/diy-resources/secondary/secondary-main)
 
-| For the ‘Gram | Cooking Pasta | Science Exploration | DIY Room Décor | [Boba Book Recommendations *(new)*"](#id5) |
+|[For the ‘Gram](#id1) | [Cooking Pasta](#id2) | [Science Exploration](#id3) | [DIY Room Décor](#id4) | [Boba Book Recommendations *(new)*](#id5) |
 
 ### <a name="id5">**Boba Book Recommendations**</a>
 
@@ -24,7 +24,7 @@ Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide 
 
 <p style="text-align: center;"><i>(Click the image to access the <a href="https://www.opinionstage.com/content-717/boba-book-recommendations">Boba Book Recommendations Quiz</a>)</i></p>
 
-### **DIY Room Décor**
+### <a name="id4">**DIY Room Décor**</a>
 
 Give your room an instant makeover – create a personalized photo wall collage with your favourite things and memories that will bring you joy!
 
@@ -73,7 +73,7 @@ All websites were last accessed on 27 May 2020
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-### **Science Exploration**
+### <a name="id3">**Science Exploration**</a>
 
 “Grow” your unique rock candy and wonder at the process of crystallization. Not only is this a fun experiment but the result is also tasty!
 
@@ -131,7 +131,7 @@ All websites were last accessed on 18 May 2020.
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-### **Cooking Pasta**
+### <a name="id2">**Cooking Pasta**</a>
 
 Whip up this classic Italian dish with minimal fuss anytime! Snap a photo and wow your friends with your own creation of pasta Alfredo using simple ingredients.
 
@@ -182,7 +182,7 @@ Source: [https://www.bustle.com/p/7-emotional-benefits-of-cooking-thatll-make-yo
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-### **For the ‘Gram**
+### <a name="id1">**For the ‘Gram**</a>
 
 Level up your Instagram posts! Watch this video to learn 10 simple tricks to make your stories stand out.
 
