@@ -20,7 +20,7 @@ _(Updated on 20 November 2020)_
 
 Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide you with a book recommendation. Go on, try it (you’re welcome)!
 
-<a href="https://www.opinionstage.com/content-717/boba-book-recommendations"><img src="/images/diyresources/secondary/Boba-Book-Recommendations.png" alt="Boba Book Recommendations" style="width: 50%;"></a>
+<a href="https://www.opinionstage.com/content-717/boba-book-recommendations"><img src="/images/diyresources/secondary/Boba-Book-Recommendations.png" alt="Boba Book Recommendations" style="width: 70%;"></a>
 
 <p style="text-align: center;"><i>(Click the image to access the <a href="https://www.opinionstage.com/content-717/boba-book-recommendations">Boba Book Recommendations Quiz</a>)</i></p>
 
