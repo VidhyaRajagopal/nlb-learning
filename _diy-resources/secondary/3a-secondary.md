@@ -44,7 +44,7 @@ Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ L
 
 Sec 1
 | **Survival Kit** | **Literary Boot Camp** |
-| <a href="/images/diyresources/secondary/NLB_Booklet_9-MAR.pdf"><img src="/images/diyresources/secondary/KLQ-survival-kit.jpg" alt="Survival Kit image" style="width: 40%;"></a> | <a href="/images/diyresources/secondary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf"><img src="/images/diyresources/secondary/KLQ-LBC.jpg" alt="Literary Boot Camp image" style="width: 40%;"></a>| 
+| [![Survival kit image](/images/diyresources/secondary/KLQ-survival-kit.jpg)](/images/diyresources/secondary/NLB_Booklet_9-MAR.pdf) | [![Literary boot camp image](/images/diyresources/secondary/KLQ-LBC.jpg)](/images/diyresources/secondary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf) | 
 
 
 ### **Learn about S.T.E.A.M.**
@@ -54,8 +54,8 @@ Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.
 Problem-solve through do-it-yourself activities. Simply follow the instructions and have fun!
 
 Sec 1 - Sec2
-| <a href="/images/diyresources/secondary/Tweens-Pop-up-Package-Flexagon.pdf"><img src="/images/diyresources/secondary/Tweens-Flexagon.jpg" alt="Flexagon image" style="width: 25%;"></a> | <a href="/images/diyresources/secondary/Tweens-Pop-up-Package-Frog.pdf"><img src="/images/diyresources/secondary/Tweens-Origami-Frog.jpg" alt="Origami frog image" style="width: 25%;"></a> |
-| <a href="/images/diyresources/secondary/Tweens-Pop-up-Package-Paper-Helicopter.pdf"><img src="/images/diyresources/secondary/Tweens-Paper-Helicopter.jpg" alt="Paper helicopter image" style="width: 25%;"></a> | <a href="/images/diyresources/secondary/Tweens-Zentangle.pdf"><img src="/images/diyresources/secondary/Tweens-Zentangle.jpg" alt="Zentagle image" style="width: 25%;"></a> |
+| [![Flexagon image](/images/diyresources/secondary/Tweens-Flexagon.jpg)](/images/diyresources/secondary/Tweens-Pop-up-Package-Flexagon.pdf) | [![Origami frog image](/images/diyresources/secondary/Tweens-Origami-Frog.jpg)](/images/diyresources/secondary/Tweens-Pop-up-Package-Frog.pdf) | 
+| [![Paper helicopter image](/images/diyresources/secondary/Tweens-Paper-Helicopter.jpg)](/images/diyresources/secondary/Tweens-Pop-up-Package-Paper-Helicopter.pdf) | [![Zentangle image](/images/diyresources/secondary/Tweens-Zentangle.jpg)](images/diyresources/secondary/Tweens-Zentangle.pdf) |
 
 **Tweens Lab Mag (1 hour)**
 Cool, creative, out-of-this world ideas and easy DIY projects on STEAM topics and activities for you to complete. Download the issues below!
