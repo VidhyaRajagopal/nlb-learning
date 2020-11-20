@@ -17,25 +17,32 @@ _(Updated on 17 July 2020)_
 
 | [School Holiday Special](/diy-resources/secondary/teen-things) | Literary Trivia | Learn About S.T.E.A.M. | Read and Craft | Read and Share | Decorate My Space  | Let’s be S.U.R.E. |
 
-**School Holiday Special**
+# **School Holiday Special**
+
 (click on the icon to find out more!)
 
 <a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/dR-Holiday-Secondary-amended.png" style="width: 40%;"></a>
 
-**Uncover your reading interest and challenge your lit knowledge!**
+# **Uncover your reading interest and challenge your lit knowledge!**
 
 **Reading Interest Profile (15 mins)**
+
 Not sure which type of books you enjoy reading most? Download and complete the Reading Interest Profile to find out!
 
 | **Lower Secondary** | **Upper Secondary** | 
-| <a href="images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> | <a href="images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> |
+| <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> | <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> |
+
+| [![Lower sec reading image](/images/diyresources/secondary/Lower-Sec.png)](/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf) | [![Upper sec reading image](/images/diyresources/secondary/Upper-Sec.png)](/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf) |
 
 **Reading Challenge**
+
 Up your reading game by completing our very own Reading Challenge
 
 [![Reading challenge image](/images/diyresources/secondary/RC_Sec.jpg)](/images/diyresources/secondary/Secondary-Reading-Challenge-12052020V2.pdf)
 
+
 **POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp Booklet (30 mins)**
+
 Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp booklet to see how much you know!
 
 S1
@@ -43,7 +50,7 @@ S1
 | **Survival Kit** | **Literary Boot Camp** |
 | [![Survival Kit image](/images/diyresources/secondary/KLQ-survival-kit.jpg)](/images/diyresources/secondary/NLB_Booklet_9-MAR.pdf) | [![Literacy boot camp image](/images/diyresources/secondary/KLQ-LBC.jpg)](/images/diyresources/secondary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf)
 
-**Learn about S.T.E.A.M.**
+# **Learn about S.T.E.A.M.**
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these activities.
 
 **DIY Tweens Packages (30 mins)**
@@ -63,7 +70,7 @@ Issue #1 [here](/images/diyresources/secondary/FA_Tweenkerama-Issue-1.pdf)
 Issue #2 [here](/images/diyresources/secondary/Tweenkeramabooklet_Issue02_FA.pdf)
 Issue #3 [here](/images/diyresources/secondary/FA-NLB-Tweenkerama_Issue-03-v2.pdf)
 
-**Read and Craft**
+# **Read and Craft**
 Pick a short read and create a story-based craft.
 
 **PopReads! (20 mins)**
@@ -73,7 +80,7 @@ Help students relate to books based on STELLAR themes to their everyday lives wi
 
 [![Unscramble me image](/images/diyresources/secondary/unscramble-me.png)](/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-1_Unscramble-Me_v08-FAP-web.pdf)
 
-**Read and Share**
+# **Read and Share**
 **Share your thoughts on your favourite reads and intriguing book excerpts.**
 
 **Read Reap Write (30 mins)**
@@ -128,7 +135,7 @@ Call Number: Y GAT
 [RRW Secondary Viridian Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Viridian-Worksheet-and-Extract.pdf)
 [RRW Secondary Viridian Facilitator’s Guide](/images/diyresources/secondary/RRW-Secondary-Viridian-Facilitators-Guide.pdf)
 
-**Decorate My Space**
+# **Decorate My Space**
 **Print out and put up these eye-catching posters and entertaining activities!**
 
 **Posters (5 mins)**
@@ -153,7 +160,7 @@ Suggested activities to liven up reading corners everywhere!
 
 [![Golden ticket image](/images/diyresources/secondary/SLM-activity-SEC.jpg)](FA_NLB_SchoolLibraryMakeover_Inner-Pages.pdf)
 
-**Learn To Be S.U.R.E.**
+# **Learn To Be S.U.R.E.**
 **Are you savvy enough to face the pitfalls of the internet? Get SURE-vival tips through these S.U.R.E. (Source Understand Research Evaluate) activities!**
 
 **EYEYAH! You S.U.R.E. or not? (20 min)**
