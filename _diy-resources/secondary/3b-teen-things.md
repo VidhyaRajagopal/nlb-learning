@@ -14,7 +14,15 @@ _(Updated on 29 May 2020)_
 
 [Go back to Stay-Home Activities (Secondary)](/diy-resources/secondary/secondary-main)
 
-| For the ‘Gram | Cooking Pasta | Science Exploration | DIY Room Décor |
+| For the ‘Gram | Cooking Pasta | Science Exploration | DIY Room Décor | Boba Book Recommendations *new
+
+### **Boba Book Recommendations**
+
+Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide you with a book recommendation. Go on, try it (you’re welcome)!
+
+[![Boba Book Recommendations](/images/diyresources/secondary/Boba-Book-Recommendations.png)](https://www.opinionstage.com/content-717/boba-book-recommendations)
+
+*(Click the image to access the <a href="https://www.opinionstage.com/content-717/boba-book-recommendations">Boba Book Recommendations Quiz</a>)*
 
 ### **DIY Room Décor**
 
@@ -32,7 +40,7 @@ Try this out and tag us at @publiclibrarysg with #librarysg
 
 Source: [10 Tumblr Photo Wall Ideas ! ~ Cute Ways to Display & Organize Photos In Your Room](https://www.youtube.com/watch?v=jBIkummgYX4&feature=youtu.be) (Jul 2016)
 
-### **Be inspired!**
+## **Be inspired!**
 
 Read these eBooks for more transformative ideas for your space and lifestyle.
 
@@ -87,7 +95,7 @@ Source: [Grow Peppermint Sugar Crystals](https://youtu.be/zcS_zEnSJSY) (31 Decem
 
 Delve into the science behind rock candy [here](https://www.sciencebuddies.org/science-fair-projects/project-ideas/FoodSci_p005/cooking-food-science/growing-rock-candy-crystals#makeityourown).
 
-### **Be inspired!**
+## **Be inspired!**
 
 Read these eBooks for mind-blowing science facts and revelations on quirky food myths.
 
@@ -143,7 +151,7 @@ Try this recipe and tag us at @publiclibrarysg with #librarysg
 
 Source: [How to make… Pasta Alfredo! 3 INGREDIENTS!](https://youtu.be/ZnC6Fo2dbgs) (2 April 2017)
 
-### **Be inspired!**
+## **Be inspired!**
 
 Read these eBooks to step up your food game.
 
@@ -187,7 +195,7 @@ Try these hacks and tag us at @publiclibrarysg with #librarysg
 
 Source: [10 creative ways to edit your insta stories using ONLY the instagram APP ♡ (no other apps needed!)](https://youtu.be/CVzh7szKiCM) ( 20 April 2019)
 
-### **Be inspired!**
+## **Be inspired!**
 
 Check out these eBooks to boost your Instagram creativity.
 
