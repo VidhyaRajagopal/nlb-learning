@@ -10,7 +10,7 @@ third_nav_title: Secondary School Resources
 ![Teen things logo](/images/diyresources/secondary/Teen.Things.jpg)
 
 ### **Never run out of Teen•Things to do during the school holidays!**
-_(Updated on 29 May 2020)_
+_(Updated on 20 November 2020)_
 
 [Go back to Stay-Home Activities (Secondary)](/diy-resources/secondary/secondary-main)
 
@@ -21,7 +21,6 @@ _(Updated on 29 May 2020)_
 Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide you with a book recommendation. Go on, try it (you’re welcome)!
 
 [![Boba Book Recommendations](/images/diyresources/secondary/Boba-Book-Recommendations.png)](https://www.opinionstage.com/content-717/boba-book-recommendations)
-
 <p style="text-align: center;"><i>(Click the image to access the <a href="https://www.opinionstage.com/content-717/boba-book-recommendations">Boba Book Recommendations Quiz</a>)</i></p>
 
 ### **DIY Room Décor**
