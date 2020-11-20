@@ -30,7 +30,7 @@ _(Updated on 17 July 2020)_
 Not sure which type of books you enjoy reading most? Download and complete the Reading Interest Profile to find out!
 
 | **Lower Secondary** | **Upper Secondary** | 
-| <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> |
+| <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 50%;"></a> <a href="/images/diyresources/secondary/Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 50%;"></a> |
 
 **Reading Challenge**
 
@@ -44,7 +44,7 @@ Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ L
 
 Sec 1
 | **Survival Kit** | **Literary Boot Camp** |
-| <a href="/images/diyresources/secondary/NLB_Booklet_9-MAR.pdf"><img src="/images/diyresources/secondary/KLQ-survival-kit.jpg" alt="Survival kit image" style="width: 50%;"></a> | <a href="/images/diyresources/secondary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf"><img src="/images/diyresources/secondary/KLQ-LBC.jpg" alt="Literary boot camp image" style="width: 50%;"></a> | 
+| [![Survival kit image](/images/diyresources/secondary/KLQ-survival-kit.jpg)](/images/diyresources/secondary/NLB-Booklet_9-MAR.pdf) | [![Literary boot camp image](/images/diyresources/secondary/KLQ-LBC.jpg)](NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf) |
 
 ### **Learn about S.T.E.A.M.**
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these activities.
@@ -105,8 +105,8 @@ Title: [S R Nathan: 50 stories from my life](http://catalogue.nlb.gov.sg/cgi-bin
 Author: S. R. Nathan
 Call Number: J SING 959.5705092 NAT
 
-[RRW Secondary S R Nathan 50 Stories from my Life Worksheet and Extract](/images/diyresources/secondary/RRWSecondary50StoriesFAlowres-1.pdf)
-[RRW Secondary S R Nathan 50 Stories from my Life Facilitator’s Guide](/images/diyresources/secondary/NLB_RRW-Secondary-2015-50-Stories_Facil-Guide-1.pdf)
+| [RRW Secondary S R Nathan 50 Stories from my Life Worksheet and Extract](/images/diyresources/secondary/RRWSecondary50StoriesFAlowres-1.pdf) |
+[RRW Secondary S R Nathan 50 Stories from my Life Facilitator’s Guide](/images/diyresources/secondary/NLB_RRW-Secondary-2015-50-Stories_Facil-Guide-1.pdf) |
 
 <img src="/images/diyresources/secondary/Words.jpeg" style="width: 30%;">
 
@@ -114,8 +114,8 @@ Title: [&Words: Poems Singapore and Beyond](http://catalogue.nlb.gov.sg/cgi-bin/
 Edited by: Edwin Thumboo
 Call Number: Y SING S821 WOR
 
-[RRW Secondary &Words Poems Singapore and Beyond Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Worksheet-and-Extract.pdf)
-[RRW Secondary &Words Poems Singapore and Beyond Facilitators Guide](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Facilitators-Guide.pdf)
+| [RRW Secondary &Words Poems Singapore and Beyond Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Worksheet-and-Extract.pdf) |
+[RRW Secondary &Words Poems Singapore and Beyond Facilitators Guide](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Facilitators-Guide.pdf) |
 
 <img src="/images/diyresources/secondary/Viridian_SusanGates.jpg" alt="Viridian image" style="width: 30%;">
 
@@ -163,7 +163,7 @@ Bonus: Print them out or take a screenshot with your phone to colour the black a
 | **Head in the Clouds(b&w)** | **Head in the Clouds (colour)** | 
 | [![Head in the clouds image](/images/diyresources/secondary/Head-in-the-Clouds_BW.jpg)](/images/diyresources/secondary/Head-in-the-Clouds_BW-scaled.jpeg) | [![Head in the clouds color image](/images/diyresources/secondary/Head-in-the-Clouds_color.jpg)](/images/diyresources/secondary/Head-in-the-Clouds_color-scaled.jpg) |
 | **Did you know...(b&w)** | **Did you know...(colour)** |
-| [![Did you know image](/images/diyresources/secondary/Selfies_BW.jpg)](/images/diyresources/secondary/Selfies_BW-scaled.jpg) | [![Did you know color image](/images/diyresources/secondary/Selfies_color.jpg)](/images/diyresources/secondary/Selfies_color-scaled.jpg) |
+| [![Did you know image](images/diyresources/secondary/Selfies_BW-scaled.jpg)](images/diyresources/secondary/Selfies_BW-scaled.jpg) | [![Did you know color image](/images/diyresources/secondary/Selfies_color.jpg)](/images/diyresources/secondary/Selfies_color-scaled.jpg) |
 | **What do you do online?(b&w)** | **What do you do online? (colour)** |
 | [![What do you do online image](/images/diyresources/secondary/What-Do-You-Do-Online_BW.jpg)](/images/diyresources/secondary/What-Do-You-Do-Online_BW-scaled.jpg) | [![What do you do online color image](/images/diyresources/secondary/What-Do-You-Do-Online_color.jpg)](/images/diyresources/secondary/What-Do-You-Do-Online_color-scaled.jpg) |
 
