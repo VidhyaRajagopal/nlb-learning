@@ -1,6 +1,6 @@
 ---
 title: New Page Demo
-permalink: unsorted/something-else
+permalink: unsorted/new-page-demo
 breadcrumb: New Page Demo
 collection_name: unsorted
 ---
