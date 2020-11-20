@@ -20,7 +20,7 @@ _(Updated on 20 November 2020)_
 
 Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide you with a book recommendation. Go on, try it (you’re welcome)!
 
-<a href="https://www.opinionstage.com/content-717/boba-book-recommendations"><img src="/images/diyresources/secondary/Boba-Book-Recommendations.png" alt="Boba Book Recommendations" style="width: 70%;"></a>
+<a href="https://www.opinionstage.com/content-717/boba-book-recommendations"><img src="/images/diyresources/secondary/Boba-Book-Recommendations.png" alt="Boba Book Recommendations" style="width: 80%;"></a>
 
 <p style="text-align: center;"><i>(Click the image to access the <a href="https://www.opinionstage.com/content-717/boba-book-recommendations">Boba Book Recommendations Quiz</a>)</i></p>
 
@@ -41,7 +41,6 @@ Try this out and tag us at @publiclibrarysg with #librarysg
 Source: [10 Tumblr Photo Wall Ideas ! ~ Cute Ways to Display & Organize Photos In Your Room](https://www.youtube.com/watch?v=jBIkummgYX4&feature=youtu.be) (Jul 2016)
 
 ## **Be inspired!**
-
 Read these eBooks for more transformative ideas for your space and lifestyle.
 
 <img src="https://d33wubrfki0l68.cloudfront.net/0f4ba7154adb1b1eae065b26907c3009c55a774c/e74c7/images/diyresources/secondary/picture-3.jpg" alt="Room love image" style="width: 40%;">
@@ -54,7 +53,7 @@ A floor, a ceiling, and four boring walls? No more! Get creative, show your room
 
 This eBook is available on OverDrive at: [https://nlb.overdrive.com/media/3690653](https://nlb.overdrive.com/media/3690653)
 
-![Living simply image](/images/diyresources/secondary/Picture-4.jpg)
+<img src="/images/diyresources/secondary/Picture-4.jpg" alt="Living simply image" style="width: 40%;">
 
 **Living Simply: A Teen Guide to Minimalism**
 by Sally McGraw
@@ -64,7 +63,7 @@ Minimalism has evolved into an Earth-friendly lifestyle focusing on the three Rs
 
 This eBook is available on OverDrive at: [https://nlb.overdrive.com/media/4475978](https://nlb.overdrive.com/media/4475978)
 
-![Teen tip image](/images/diyresources/secondary/teen-tip.jpg)
+<img src="/images/diyresources/secondary/teen-tip.jpg" alt="Teen tip image" style="width: 40%;">
 
 Get your sleep cycle back on track before school holidays end. You can start by re-establishing daily routine, avoiding long naps, and reducing screen time and vigorous activities an hour before bed.
 
@@ -89,17 +88,16 @@ You’ll need:
 
 Try this out and tag us at @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zcS_zEnSJSY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/zcS_zEnSJSY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Source: [Grow Peppermint Sugar Crystals](https://youtu.be/zcS_zEnSJSY) (31 December 2016)
 
 Delve into the science behind rock candy [here](https://www.sciencebuddies.org/science-fair-projects/project-ideas/FoodSci_p005/cooking-food-science/growing-rock-candy-crystals#makeityourown).
 
 ## **Be inspired!**
-
 Read these eBooks for mind-blowing science facts and revelations on quirky food myths.
 
-![Everyday amazing image](/images/diyresources/secondary/Everyday-Amazing.jpg)
+<img src="/images/diyresources/secondary/Everyday-Amazing.jpg" alt="Everyday amazing image" style="width: 40%;">
 
 **Everyday Amazing**
 by Beatrice the Biologist
@@ -109,7 +107,7 @@ Learn the basics of atomic science, sound waves, bioscience, microbiology, and m
 
 This eBook is available on Overdrive at [https://nlb.overdrive.com/media/4500950](https://nlb.overdrive.com/media/4500950)
 
-![Did you just eat that image](/images/diyresources/secondary/Did-You-Just-Eat-That.jpg)
+<img src="/images/diyresources/secondary/Did-You-Just-Eat-That.jpg" alt="Did you just eat that image" style="width: 40%;">
 
 **Did You Just Eat That?**
 **(Two Scientists Explore Double-Dipping, the Five-Second Rule, and other Food Myths in the Lab)**
@@ -120,7 +118,7 @@ Food scientists, Paul Dawson and Brian Sheldon, take readers into the lab to sho
 
 This eBook is available on Overdrive at [https://nlb.overdrive.com/media/3911531](https://nlb.overdrive.com/media/3911531)
 
-![Teen tip image](/images/diyresources/secondary/teen-tip.jpg)
+<img src="/images/diyresources/secondary/teen-tip.jpg" alt="Teen tip image" style="width: 40%;">
 
 Too much screen time and sitting down? Balance that with at least one hour of moderate to vigorous physical exercise each day at least three days a week. Be sure to have activities that strengthen and build muscles and bones.
 
@@ -147,15 +145,14 @@ You’ll need:
 
 Try this recipe and tag us at @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnC6Fo2dbgs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZnC6Fo2dbgs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Source: [How to make… Pasta Alfredo! 3 INGREDIENTS!](https://youtu.be/ZnC6Fo2dbgs) (2 April 2017)
 
 ## **Be inspired!**
-
 Read these eBooks to step up your food game.
 
-![Noodlemania image](/images/diyresources/secondary/Noodlemania.jpg)
+<img src="/images/diyresources/secondary/Noodlemania.jpg" alt="Noodlemania image" style="width: 40%;">
 
 **Noodlemania! 50 Playful Pasta Recipes**
 by Melissa Barlow
@@ -165,7 +162,7 @@ You’ll go noodle crazy with the playful and colourful pasta recipes in Noodlem
 
 This book is available on Overdrive at [https://nlb.overdrive.com/media/1219921](https://nlb.overdrive.com/media/1219921).
 
-![Maker comics image](/images/diyresources/secondary/Maker-Comics-Bake-Like-a-Pro.jpg)
+<img src="/images/diyresources/secondary/Maker-Comics-Bake-Like-a-Pro.jpg" alt="Maker comics image" style="width: 40%;">
 
 **Maker Comics: Bake Like a Pro!**
 by Falynn Koch
@@ -175,7 +172,7 @@ Sage’s fellow wizards-in-training get to study pyromancy and transfiguration, 
 
 This book is available on Overdrive at [https://nlb.overdrive.com/media/4530253](https://nlb.overdrive.com/media/4530253).
 
-![Teen tip image](/images/diyresources/secondary/teen-tip.jpg)
+<img src="/images/diyresources/secondary/teen-tip.jpg" alt="Teen tip image" style="width: 40%;">
 
 The act of cooking not only soothes the mind, but also relaxes your body. Getting into the flow of the activity can help to ease the tension in our bodies.
 
@@ -191,15 +188,14 @@ Level up your Instagram posts! Watch this video to learn 10 simple tricks to mak
 
 Try these hacks and tag us at @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CVzh7szKiCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/CVzh7szKiCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></centre>
 
 Source: [10 creative ways to edit your insta stories using ONLY the instagram APP ♡ (no other apps needed!)](https://youtu.be/CVzh7szKiCM) ( 20 April 2019)
 
 ## **Be inspired!**
-
 Check out these eBooks to boost your Instagram creativity.
 
-![Cats on instagram image](/images/diyresources/Cats-on-Instagram.jpg)
+<img src="/images/diyresources/secondary/Cats-on-Instagram.jpg" alt="Cats on instagram image" style="width: 40%;">
 
 **Cats on Instagram**
 by @cats_of_instagram
@@ -209,7 +205,7 @@ Cat lovers, rejoice! This irresistible book compiles over 400 photos from the hu
 
 This book is available on Overdrive at [https://nlb.overdrive.com/media/2688902](https://nlb.overdrive.com/media/2688902).
 
-![A beautiful mess image](/images/diyresources/secondary/A-Beautiful-Mess-Photo-Idea-Book.jpg)
+<img src="/images/diyresources/secondary/A-Beautiful-Mess-Photo-Idea-Book.jpg" alt="A beautiful mess image" style="width: 40%;">
 
 **A beautiful mess photo idea book : 95 inspiring ideas for photographing your friends, your world, and yourself**
 by Elsie Larson
@@ -219,7 +215,7 @@ Ready to show your photos some love? Whether it’s of your sister’s smile, yo
 
 This book is available on Overdrive at: [https://nlb.overdrive.com/media/1233633](https://nlb.overdrive.com/media/1233633).
 
-![Teen tip image](/images/diyresources/secondary/teen-tip.jpg)
+<img src="/images/diyresources/secondary/teen-tip.jpg" alt="Teen tip image" style="width: 40%;">
 
 Expressing yourself through drawings or comics, and sharing your artwork are great ways of staying connected with your friends during the school holidays.
 
