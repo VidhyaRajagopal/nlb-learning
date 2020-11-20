@@ -36,7 +36,7 @@ You’ll need:
 
 Try this out and tag us at @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jBIkummgYX4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/jBIkummgYX4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Source: [10 Tumblr Photo Wall Ideas ! ~ Cute Ways to Display & Organize Photos In Your Room](https://www.youtube.com/watch?v=jBIkummgYX4&feature=youtu.be) (Jul 2016)
 
