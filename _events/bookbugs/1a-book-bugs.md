@@ -19,7 +19,7 @@ Note: Book Bugs II cards will not be given out at the event.
 
 **14/3/2018: All Good Things Must Come to an End ;(**
 
-![Bookbug end redemption reminder](/images/events/bookbugs/reminder-end-of-redemption.jpg)
+<img src="/images/events/bookbugs/reminder-end-of-redemption.jpg" alt="Bookbug end redemption reminder" style="width: 80%">
 
 THE PROMOTION ENDS ON **31-MAR-2019.**
 THE LAST DAY TO BORROW BOOKS TO EARN POINTS IS **29-MAR-2019.**
