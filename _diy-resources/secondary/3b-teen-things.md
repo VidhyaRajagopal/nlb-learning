@@ -14,7 +14,7 @@ _(Updated on 20 November 2020)_
 
 [Go back to Stay-Home Activities (Secondary)](/diy-resources/secondary/secondary-main)
 
-| For the ‘Gram | Cooking Pasta | Science Exploration | DIY Room Décor | [Boba Book Recommendations *new](#Boba-Book-Recommendations)
+| For the ‘Gram | Cooking Pasta | Science Exploration | DIY Room Décor | Boba Book Recommendations *new
 
 ### **Boba Book Recommendations**
 
