@@ -22,7 +22,7 @@ Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide 
 
 [![Boba Book Recommendations](/images/diyresources/secondary/Boba-Book-Recommendations.png)](https://www.opinionstage.com/content-717/boba-book-recommendations)
 
-*(Click the image to access the <a href="https://www.opinionstage.com/content-717/boba-book-recommendations">Boba Book Recommendations Quiz</a>)*
+<p style="text-align: center;"><i>(Click the image to access the <a href="https://www.opinionstage.com/content-717/boba-book-recommendations">Boba Book Recommendations Quiz</a>)</i></p>
 
 ### **DIY Room Décor**
 
