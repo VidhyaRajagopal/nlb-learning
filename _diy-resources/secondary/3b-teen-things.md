@@ -14,7 +14,7 @@ _(Updated on 20 November 2020)_
 
 [Go back to Stay-Home Activities (Secondary)](/diy-resources/secondary/secondary-main)
 
-| For the ‘Gram | Cooking Pasta | Science Exploration | DIY Room Décor | Boba Book Recommendations *new
+| For the ‘Gram | Cooking Pasta | Science Exploration | DIY Room Décor | [Boba Book Recommendations *new](#Boba-Book-Recommendations)
 
 ### **Boba Book Recommendations**
 
@@ -211,7 +211,7 @@ This book is available on Overdrive at [https://nlb.overdrive.com/media/2688902]
 by Elsie Larson
 Publisher: Potter Style
 
-Ready to show your photos some love? Whether it’s of your sister’s smile, your morning coffee, or your new puppy, photos are a way to connect on Facebook and Instagram, keep a visual diary of our lives, and create momentos for future generations. Elsie Larson and Emma Chapman, creators of the mega-popular DIY style blog A Beautiful Mess, are in love with photographing everyday life. Here, they share that love with 95 all-new tips and photo challenges that will inspire you to style and snap better photos and then transform them into simple yet stunning projects and gifts. You’ll learn how to: Take the most flattering self-portraits Be your own stylist to turn dull, cluttered photos into pretty lifestyle photography Capture adorable couple portraits Turn everyday moments,  hobbies, and rituals into amazing photos.
+Ready to show your photos some love? Whether it’s of your sister’s smile, your morning coffee, or your new puppy, photos are a way to connect on Facebook and Instagram, keep a visual diary of our lives, and create momentos for future generations. Elsie Larson and Emma Chapman, creators of the mega-popular DIY style blog A Beautiful Mess, are in love with photographing everyday life. Here, they share that love with 95 all-new tips and photo challenges that will inspire you to style and snap better photos and then transform them into simple yet stunning projects and gifts. You’ll learn how to: Take the most flattering self-portraits; Be your own stylist to turn dull, cluttered photos into pretty lifestyle photography; Capture adorable couple portraits; Turn everyday moments, hobbies, and rituals into amazing photos.
 
 This book is available on Overdrive at: [https://nlb.overdrive.com/media/1233633](https://nlb.overdrive.com/media/1233633).
 
