@@ -188,9 +188,9 @@ Level up your Instagram posts! Watch this video to learn 10 simple tricks to mak
 
 Try these hacks and tag us at @publiclibrarysg with #librarysg
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/CVzh7szKiCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></centre>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/CVzh7szKiCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Source: [10 creative ways to edit your insta stories using ONLY the instagram APP ♡ (no other apps needed!)](https://youtu.be/CVzh7szKiCM) ( 20 April 2019)
+Source: [10 creative ways to edit your insta stories using ONLY the instagram APP ♡ (no other apps needed!)](https://youtu.be/CVzh7szKiCM) (20 April 2019)
 
 ## **Be inspired!**
 Check out these eBooks to boost your Instagram creativity.
