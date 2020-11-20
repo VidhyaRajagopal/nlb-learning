@@ -20,15 +20,15 @@ _(Updated on 17 July 2020)_
 **School Holiday Special**
 (click on the icon to find out more!)
 
-<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/dR-Holiday-Secondary-amended.png" style="width: 30%;"></a>
+<a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/dR-Holiday-Secondary-amended.png" style="width: 40%;"></a>
 
 **Uncover your reading interest and challenge your lit knowledge!**
 
 **Reading Interest Profile (15 mins)**
 Not sure which type of books you enjoy reading most? Download and complete the Reading Interest Profile to find out!
 
-| **Lower Secondary** | **Upper Secondary** |
-| [![Lower sec reading image](/images/diyresources/secondary/Lower-Sec.png)](Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf) | [![Upper sec reading image](/images/diyresources/secondary/Upper-Sec.png)](/images/diyresources/secondary/Reading-Interest-Profile-Upper-Secondary-FA-Low-res.pdf) |
+| **Lower Secondary** | **Upper Secondary** | 
+| <a href="Reading-Interest-Profile-Lower-Secondary-FA-lowres.pdf"><img src="/images/diyresources/secondary/Lower-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> | <a href="Reading-Interest-Profile-Upper-Secondary-FA-Low-res.pdf"><img src="/images/diyresources/secondary/Upper-Sec.png" alt="Reading Interest Profile Lower Sec image" style="width: 60%;"></a> |
 
 **Reading Challenge**
 Up your reading game by completing our very own Reading Challenge
