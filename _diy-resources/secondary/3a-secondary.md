@@ -36,8 +36,7 @@ Not sure which type of books you enjoy reading most? Download and complete the R
 
 Up your reading game by completing our very own Reading Challenge
 
-[![Reading challenge image](/images/diyresources/secondary/RC_Sec.jpg)](/images/diyresources/secondary/Secondary-Reading-Challenge-12052020V2.pdf)
-
+<a href="/images/diyresources/secondary/Secondary-Reading-Challenge-12052020V2.pdf"><img src="/images/diyresources/secondary/RC_Sec.jpg" alt="Reading Challenge image" style="width: 60%;"></a>
 
 **POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp Booklet (30 mins)**
 
@@ -46,7 +45,8 @@ Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ L
 S1
 
 | **Survival Kit** | **Literary Boot Camp** |
-| [![Survival Kit image](/images/diyresources/secondary/KLQ-survival-kit.jpg)](/images/diyresources/secondary/NLB_Booklet_9-MAR.pdf) | [![Literacy boot camp image](/images/diyresources/secondary/KLQ-LBC.jpg)](/images/diyresources/secondary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf)
+| <a href="/images/diyresources/secondary/NLB_Booklet_9-MAR.pdf"><img src="/images/diyresources/secondary/KLQ-survival-kit.jpg" alt="Survival Kit image" style="width: 80%;"></a> | <a href="/images/diyresources/secondary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf"><img src="/images/diyresources/secondary/KLQ-LBC.jpg" alt="Literary Boot Camp image" style="width: 80%;"></a>| 
+
 
 # **Learn about S.T.E.A.M.**
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these activities.
