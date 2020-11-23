@@ -1,5 +1,5 @@
 ---
-title: Book Bugs
+title: Main Page
 permalink: events/bookbugs/bookbugs-main
 breadcrumb: Book Bugs
 collection_name: events
