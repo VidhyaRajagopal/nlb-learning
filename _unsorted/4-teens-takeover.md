@@ -5,23 +5,23 @@ breadcrumb: Teens Takeover
 collection_name: unsorted
 ---
 
-## **Teens only**
+## **Teens Takeover Workshop Wednesdays**
 
-<img src="/images/unsorted/teenstakeover/Teens-Only-A1-Poster_FA-revised.png" style="width: 50%;">
+![Teens takeover image](/images/unsorted/teenstakeover/WORKSHOP-WEDNESDAYS-2020.png)
 
-Attention all teens! Tired of studying? Need a break from all the mugging? Join us for a time of chillaxing in the library! With a space specially reserved for teens to play and snacks to be eaten, what’s not to love about this event? Grab your friends and get ready to TakeOver the programme zone. Claim your rightful throne!
+**NOTE: This programme is only for teens aged 13-17 years old.**
 
-Come hang with us at these locations!
+Attention all teens! Have time to spare?
 
-If you’re an East-sider, drop by <br>
-Bedok Public Library, Programme Zone, 2.30-6.30PM <br>
-7 Jan 2020 <br>
-21 Jan 2020 <br>
-~~11 Feb 2020~~ \[Cancelled\] <br>
-~~25 Feb 2020~~ \[Cancelled\] <br>
-~~10 Mar 2020~~ \[Cancelled\] <br>
-~~24 Mar 2020~~ \[Cancelled\]
+Join us for these online workshops in 2020:
 
-If you love visiting **Central**, drop by
-library@harbourfront, Programme 2, 2.30-6.30PM on:
-21 Jan 2020
+* ~~[14 October] Self-Care for Teens, 3-4pm~~  [Session ended] <br>
+* ~~[21 October] Conversational Korean, 3-4pm~~ [Session ended] <br>
+* ~~[28 October] Conversational Japanese, 3-4pm~~ [Session ended] <br>
+* [11 November] Conversational Korean, 3-4pm [Register [here](https://www.eventbrite.sg/e/conversational-korean-teens-takeover-registration-126033093375?aff=ebdssbonlinesearch)!] <br>
+* [18 November] Professional Workshops: Interview Skills, 3-4.30pm <br>
+* [25 November] Professional Workshops: Public Speaking 101, 3-4.30pm <br>
+* [9 December] YouTube Video Secrets, 3-4pm <br>
+* [16 December] Conversational Japanese, 3-4pm <br>
+
+Keep a look out for more workshop registration openings here. See you there! 🙂

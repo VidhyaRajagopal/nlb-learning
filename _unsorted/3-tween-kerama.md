@@ -7,6 +7,15 @@ collection_name: unsorted
 
 ## **Tween Kerama**
 
+**Tweens Tinker Sheets**
+
+Try your hand at the Tinker Sheets, a series of S.T.E.A.M.-related worksheets complete with digestible S.T.E.A.M. content and pop-up activities!
+
+| **Cars in Action** | **Hai There, Haiku!** |
+| [![Cars in action image](/images/unsorted/tweenkerama/cars-in-action.png)](/images/unsorted/tweenkerama/CarInAction_Preview_FA.pdf) | [![Hai there haiku image](/images/unsorted/tweenkerama/haiku.png)](/images/unsorted/tweenkerama/Haiku_Preview_FA.pdf) | 
+| **Don’t Say Goodbye: Endangered Species** |  **Inner Beauty: Bones in the Human Body** |
+| [![Don't say goodbye image](/images/unsorted/tweenkerama/Endangered-species.png)](EndangeredSpecies_Preview_FA.pdf) | [![Inner beauty image](/images/unsorted/tweenkerama/inner-beauty.png)](/images/unsorted/tweenkerama/InnerBeauty_Preview_FA.pdf) |
+
 **Tweens Pop-Up Tinkering**
 
 These packages provide Tweens the opportunity to problem solve through a do-it-yourself activity. Simply follow the instructions and have fun!
