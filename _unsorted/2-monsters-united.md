@@ -7,30 +7,91 @@ collection_name: unsorted
 
 ## **Monsters United!**
 
-**The Monsters United Team have arrived at the libraries!**
+![Rooktober Fest image](/images/unsorted/monstersunited/Rooktober-Page-Header-Updated.png)
 
-There are 4 monsters in the team, each with distinctive features that represent their favorite genres. The monsters are Rooky, Camy, Zecky and Hutsy. Watch the video below to find out more about each of them!
+Monsters United is excited about Halloween, and has prepared an Escape Room game, videos, jokes and fun facts for you! We will also be having two Rooktober giveaways – follow our Facebook page, [Public Libraries Singapore](https://www.facebook.com/publiclibrarysg/), for more information on how to participate.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vbr0Pqcbhc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* **Giveaway #1**: 24 October – 28 October <br>
+* **Giveaway #2**: 7 November – 11 November
 
-<u>Monster Hangout</u>
+Click on the images below to start your fang-tastic journey. Have a spook-tacular time!
 
-Come and hang out with the Zecky, Rooky, Camy and Hutsy from Monster United at the public libraries! A different monster will be visiting the libraries every quarter!
+[Fun and Games](#fun-and-games) | [Escape Room](#the-great-library-escape-escape-room-game) | [DIY Halloween Wings](#diy-halloween-wings) | [Halloween Jokes](#halloween-jokes) | [“Halloween” Fun Facts](#halloween-fun-facts)
 
-![Monster hangout image](/images/unsorted/monstersunited/unnamed-1.png)
-![Monster dates image](/images/unsorted/monstersunited/Monsters-Dates-1.jpg)
+[Stories and Tales](#stories-and-tales) | [The Story of King Midas](#the-story-of-king-midas) | [Gods & Mythologies](#gods-mythologies) | [Mythical Creatures](#mythical-creatures) | [Spooky eReads](#spooky-ereads)
 
-You can get your very own puzzle notebook, while stocks last, to bring back home! Don’t worry if you did not manage to do so as you can download it by clicking on the image below.
+
+**The Great Library Escape (Escape Room Game)** <br>
+Use your wits and help the monsters escape a mysterious library!
+
+_(Click on the image to begin)_
+
+[![Escape room image](/images/unsorted/monstersunited/00.png)](https://www.opinionstage.com/rooktober_escape-room/rooktober-fest-the-great-library-escape)
+
+**The Story of King Midas** <br>
+Teen Reading Ambassadors Zoe and Ziv tell the tale of King Midas in this dramatised storytelling. <br>
+_(Click on the image to watch the storytelling video)_
+
+[![Storytime rooktober image](/images/unsorted/monstersunited/Rooktober-Storytime.png)](https://www.facebook.com/publiclibrarysg/videos/814990779285352)
+
+**DIY Halloween Wings with Rooky!**  <br>
+Create your very own wings with Rooky in this DIY craft video.
+
+You will need:
+
+* A large piece of fabric
+* Measuring tape
+* Glue
+* A pair of scissors (be sure to use this with adult supervision!)
+* A marker or chalk
+* Some clips
+* A piece of paper and pen/pencil
+* Any other crafts materials for decorations
+
+<iframe width="880" height="493" src="https://www.youtube.com/embed/01744B7EH_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Click on the links below to borrow Rooky’s eBook picks:
+
+* [Origami for Children: 50 Marvels Made of Paper](http://go.gov.sg/24q2xj) by Marcelina Grabowska-Piatek
+* [The School Is Alive!](http://go.gov.sg/eh1aky) by Jack Chabert
+* [The Monsters’ Monster](http://go.gov.sg/uoijyc) by Patrick McDonnell
+
+**Gods & Mythologies From Around the World**  <br>
+Find out about interesting myths and stories from around the world.  <br>
+_(Click on the image to begin)_
+
+[![Mythical creatures image](/images/unsorted/monstersunited/Mythical-Creatures.png)](https://go.gov.sg/nlb-rooktober2020-creatures)
+
+**Halloween Jokes to Share!** <br>
+Tickle your funny bone and keep your spirits high with these Halloween-themed jokes.  <br>
+_(Click on the image to begin)_
+
+[![Halloween jokes image](/images/unsorted/monstersunited/Jokes.png)](https://go.gov.sg/nlb-rooktoberfest2020-jokes)
+
+
+**Fun Facts About “Halloween” From Around the World**  <br>
+Find out more about how “Halloween” is experienced by different cultures around the world.  <br>
+_(Click on the image to begin)_
+
+[![Fun facts image](/images/unsorted/monstersunited/Fun-Facts.png)](https://go.gov.sg/rf-halloweenfacts2020)
+
+**Rooky’s Spooky eBOOklist** <br>
+We’re creepin’ it real with these spine-tingling, hair-raising eReads. <br>
+_(Click on the image to begin)_
+
+[![Rooktober ebooks iamge](/images/unsorted/monstersunited/Rooktober-eBOOklist.png)](http://www.nlb.gov.sg/discovereads/wp-content/uploads/2020/10/Rooktober-eBooklist.pdf)
+
+_(Last updated on 15 October 2020)_
+
+## **What is Monsters United?**
+
+Monsters United is a quartet of loveable monsters that aims to ignite the joy of reading and learning in children aged 7 to 9. Comprising adventurous Hutsy, fantastical Camy, techy Zecky and spooky Rooky, Monsters United expands children’s reading appetites by introducing them to different genres, and engages children and their communities with library programmes and experiences.
+
+<iframe class="center-youtube" width="880" height="495" src="https://www.youtube.com/embed/Vbr0Pqcbhc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## **Monsters United Adventure Booklets**
+
+Download your very own Adventure Booklets by clicking on the images below! Each one contains fun activities and book recommendations.
 
 | [![Zecky image](/images/unsorted/monstersunited/unnamed.png)](/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.pdf) | [![Rooky image](/images/unsorted/monstersunited/Rookys-Horrific-Adventure.png)](/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.pdf) | [![Camy image](/images/unsorted/monstersunited/camys-cver.png)](NLB_Camy-Puzzle-Notebook_FA.pdf) | [![Hutsy image](/images/unsorted/monstersunited/hutsys-cover.png)](/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf) |
 | **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** | **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
-
-**Tinker Trolley**
-
-The Tinker Trolley is an expansion of the Tinker Truck and it aims to provide participants with the opportunity to tinker outside of library@Harbourfront.
-
-The trolley will be packed with hands-on activities to keep you busy!
-
-For more information on the schedule please refer to the poster below.
-
-![Tinker trolley image](/images/unsorted/monstersunited/Tinker-Trolley-3.jpg)

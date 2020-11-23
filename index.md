@@ -47,8 +47,8 @@ sections:
         url: https://www.youtube.com/watch?v=vUXWrQMa8QY
         image: /images/homepage/holiday-special.png
         alt: Holiday specials image
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+    # - resources:
+    #     title: Media
+    #     subtitle: Learn more
+    #     button: View More
 ---

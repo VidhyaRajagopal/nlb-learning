@@ -13,9 +13,9 @@ links:
     url: /ebooks/ebook-nav
     sublinks:
       - title: Primary School eBooks
-        url: /ebooks/primary/
+        url: https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p
       - title: Secondary School eBooks
-        url: /ebooks/secondary/
+        url: https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=s
   - title: Book Recommendations
     collection: book-recommendations
   - title: D.I.Y Resources
