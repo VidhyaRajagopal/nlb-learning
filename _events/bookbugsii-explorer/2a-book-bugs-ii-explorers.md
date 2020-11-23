@@ -1,5 +1,5 @@
 ---
-title: Bookbugs II Explorer of Stories Past
+title: Main Page
 permalink: events/bookbugsii-explorer/book-bugs-ii-explorers
 breadcrumb: Playoffs
 collection_name: events
