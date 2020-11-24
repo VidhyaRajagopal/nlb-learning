@@ -21,6 +21,6 @@ Looking for D.I.Y. resources to foster the love of reading and learning at home 
 | Resources for Primary School Students | eBook recommendations(Primary) |
 | [![Primary resources image](/images/diyresources/dR_primary-school-resources.png)](/diy-resources/primary) | [![Primary ebook recommendations image](/images/diyresources/dR_primary-ebooks.png)](/ebooks/primary/) |
 | Resources for Secondary School Students | eBook Recommendations(Secondary) |
-| [![Secondary resources image](/images/diyresources/dR_secondary-school-resources.png)(/diy-resources/secondary/secondary-main)] | [![Secondary ebook recommendations image](/images/diyresources/dR_secondary-ebooks.png)](/ebooks/secondary/) |
+| [![Secondary resources image](/images/diyresources/dR_secondary-school-resources.png)](/diy-resources/secondary/secondary-main) | [![Secondary ebook recommendations image](/images/diyresources/dR_secondary-ebooks.png)](/ebooks/secondary/) |
 | Information Literacy Resources |
 | [![Literacy resources image](/images/diyresources/dR_info-lit-resources.png)](../services/other-services/sure) |
