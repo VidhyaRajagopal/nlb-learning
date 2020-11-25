@@ -17,9 +17,11 @@ Monsters United is excited about Halloween, and has prepared an Escape Room game
 Click on the images below to start your fang-tastic journey. Have a spook-tacular time!
 
 **Fun and Games** 
+
 | [Escape Room](#the-great-library-escape-escape-room-game) | [DIY Halloween Wings](#diy-halloween-wings) | [Halloween Jokes](#halloween-jokes) | [“Halloween” Fun Facts](#halloween-fun-facts)
 
 **Stories and Tales** 
+
 | [The Story of King Midas](#the-story-of-king-midas) | [Gods & Mythologies](#gods-mythologies) | [Mythical Creatures](#mythical-creatures) | [Spooky eReads](#spooky-ereads)
 
 
