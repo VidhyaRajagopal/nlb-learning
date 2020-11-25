@@ -105,7 +105,7 @@ Monsters United is a quartet of loveable monsters that aims to ignite the joy of
 Download your very own Adventure Booklets by clicking on the images below! Each one contains fun activities and book recommendations.
 
 | **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** |
-| <a href="/images/unsorted/monstersunited/NLB-Zecky-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/unnamed.png" alt="Zecky image" style="width: 100%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Rooky-Puzzle-Notebook.pdf"><img src="/images/unsorted/monstersunited/Rookys-Horrific-Adventure.png" alt="Rooky image" style="width: 60%;"></a> |
+| <a href="/images/unsorted/monstersunited/NLB-Zecky-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/unnamed.png" alt="Zecky image" style="width: 60%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Rooky-Puzzle-Notebook.pdf"><img src="/images/unsorted/monstersunited/Rookys-Horrific-Adventure.png" alt="Rooky image" style="width: 60%;"></a> |
 
 | **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
 | <a href="/images/unsorted/monstersunited/NLB-Camy-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/camys-cver.png" alt="Camy image" style="width: 60%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf"><img src="/images/unsorted/monstersunited/hutsys-cover.png" alt="Hutsy image" style="width: 60%;"></a> |
