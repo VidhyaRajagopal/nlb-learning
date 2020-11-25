@@ -5,16 +5,16 @@ collection_name: diy-resources
 third_nav_title: Secondary School Resources
 ---
 
-## **Teen Things**
+## **Teen•Things**
 
-![Teen things logo](/images/diyresources/secondary/Teen.Things.jpg)
+<img src="/images/diyresources/secondary/Teen.Things.jpg" alt="Teen things logo" style="width: 70%;">
 
 ### **Never run out of Teen•Things to do during the school holidays!**
 _(Updated on 20 November 2020)_
 
 [Go back to Stay-Home Activities (Secondary)](/diy-resources/secondary/secondary-main)
 
-|[For the ‘Gram](#id1) | [Cooking Pasta](#id2) | [Science Exploration](#id3) | [DIY Room Décor](#id4) | [Boba Book Recommendations *(new)*](#id5) |
+| [For the ‘Gram](#id1) | [Cooking Pasta](#id2) | [Science Exploration](#id3) | [DIY Room Décor](#id4) | [Boba Book Recommendations *(new)*](#id5) |
 
 ### <a name="id5">**Boba Book Recommendations**</a>
 
