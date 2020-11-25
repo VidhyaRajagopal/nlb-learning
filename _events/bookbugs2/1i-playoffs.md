@@ -1,6 +1,6 @@
 ---
 title: Playoffs
-permalink: events/bookbugs/playoffs
+permalink: events/bookbugs2/playoffs
 breadcrumb: Playoffs
 collection_name: events
 third_nav_title: Bookbugs II

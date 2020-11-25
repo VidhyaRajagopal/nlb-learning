@@ -1,6 +1,6 @@
 ---
 title: Glossary
-permalink: events/bookbugs/glossary
+permalink: events/bookbugs2/glossary
 breadcrumb: Glossary
 collection_name: events
 third_nav_title: Bookbugs II

@@ -1,6 +1,6 @@
 ---
 title: Story
-permalink: events/bookbugs/story
+permalink: events/bookbugs2/story
 breadcrumb: Story
 collection_name: events
 third_nav_title: Bookbugs II
