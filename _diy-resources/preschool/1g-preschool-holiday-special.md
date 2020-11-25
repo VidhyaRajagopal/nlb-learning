@@ -1,5 +1,5 @@
 ---
-title: Preschool
+title: Preschool Holiday Special
 permalink: /diy-resources/preschool/preschool-holiday-special
 collection_name: diy-resources
 third_nav_title: Preschool Resources
