@@ -16,24 +16,21 @@ Monsters United is excited about Halloween, and has prepared an Escape Room game
 
 Click on the images below to start your fang-tastic journey. Have a spook-tacular time!
 
-**Fun and Games** 
-
+**Fun and Games** <br>
 | [Escape Room](#the-great-library-escape-escape-room-game) | [DIY Halloween Wings](#diy-halloween-wings) | [Halloween Jokes](#halloween-jokes) | [“Halloween” Fun Facts](#halloween-fun-facts)
 
-**Stories and Tales** 
-
+**Stories and Tales** <br>
 | [The Story of King Midas](#the-story-of-king-midas) | [Gods & Mythologies](#gods-mythologies) | [Mythical Creatures](#mythical-creatures) | [Spooky eReads](#spooky-ereads)
 
 
 <a name="the-great-library-escape-escape-room-game">**The Great Library Escape (Escape Room Game)**</a> <br>
 Use your wits and help the monsters escape a mysterious library!
-
 _(Click on the image to begin)_
 
 <a href="https://www.opinionstage.com/rooktober_escape-room/rooktober-fest-the-great-library-escape"><img src="/images/unsorted/monstersunited/00.png" alt="Rooktober escape room image" style="width: 60%;"></a>
 
 <a name="the-story-of-king-midas">**The Story of King Midas**</a> <br>
-Teen Reading Ambassadors Zoe and Ziv tell the tale of King Midas in this dramatised storytelling. <br>
+Teen Reading Ambassadors Zoe and Ziv tell the tale of King Midas in this dramatised storytelling.
 _(Click on the image to watch the storytelling video)_
 
 <a href="https://www.facebook.com/publiclibrarysg/videos/814990779285352"><img src="/images/unsorted/monstersunited/Rooktober-Storytime.png" alt="Rooktober storytime image" style="width: 60%;"></a>
@@ -67,8 +64,8 @@ _(Click on the image to begin)_
 <a href="https://go.gov.sg/nlb-rooktober2020-myths"><img scr="_____" alt="Gods & myths around the world image" style="width: 60%;"></a>
   
 
-<a name="mythical-creatures">**Mythical Creatures From Around the World**</a>
-Come delve into the wonderful, weird, and sometimes wacky world of monsters.
+<a name="mythical-creatures">**Mythical Creatures From Around the World**</a> <br>
+Come delve into the wonderful, weird, and sometimes wacky world of monsters. <br>
 _(Click on the image to begin)_
 
 <a href="https://go.gov.sg/nlb-rooktober2020-creatures"><img src="/images/unsorted/monstersunited/Mythical-Creatures.png" alt="Mythical creatures image" style="width: 60%;"></a>
