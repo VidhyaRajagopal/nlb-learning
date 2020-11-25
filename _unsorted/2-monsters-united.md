@@ -81,7 +81,6 @@ _(Click on the image to begin)_
 We’re creepin’ it real with these spine-tingling, hair-raising eReads. <br>
 _(Click on the image to begin)_
 
-[![Rooktober ebooks iamge](/images/unsorted/monstersunited/Rooktober-eBOOklist.png)](http://www.nlb.gov.sg/discovereads/wp-content/uploads/2020/10/Rooktober-eBooklist.pdf)
 <a href="https://nlb.gov.sg/discovereads/wp-content/uploads/2020/10/Rooktober-eBooklist.pdf"><img src="/images/unsorted/monstersunited/Rooktober-eBOOklist.png" alt="Rooktober ebooks image" style="width: 60%;"></a>
 
 _(Last updated on 15 October 2020)_
@@ -96,9 +95,9 @@ Monsters United is a quartet of loveable monsters that aims to ignite the joy of
 
 Download your very own Adventure Booklets by clicking on the images below! Each one contains fun activities and book recommendations.
 
-| **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE**|
-| [![Zecky image](/images/unsorted/monstersunited/unnamed.png)](/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.pdf) | [![Rooky image](/images/unsorted/monstersunited/Rookys-Horrific-Adventure.png)](/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.pdf) |
+| **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** |
+| <a href="/images/unsorted/monstersunited/NLB-Zecky-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/unnamed.png" alt="Zecky image" style="width: 100%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Rooky-Puzzle-Notebook.pdf"><img src="/images/unsorted/monstersunited/Rookys-Horrific-Adventure.png" alt="Rooky image" style="width: 60%;"></a> |
 
 | **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
-| [![Camy image](/images/unsorted/monstersunited/camyscver.png)](/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.pdf) | [![Hutsy image](/images/unsorted/monstersunited/hutsys-cover.png)](/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf) |
+| <a href="/images/unsorted/monstersunited/NLB-Camy-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/camys-cver.png" alt="Camy image" style="width: 100%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf"><img src="/images/unsorted/monstersunited/hutsys-cover.png" alt="Hutsy image" style="width: 60%;"></a> |
 
