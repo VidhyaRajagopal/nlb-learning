@@ -1,13 +1,13 @@
 ---
 title: Main Page
-permalink: events/bookbugs/bookbugs-main
+permalink: events/bookbugs2/bookbugs-main
 breadcrumb: Book Bugs
 collection_name: events
 third_nav_title: Bookbugs II
 ---
 
-| [![Book Bugs Updates](/images/events/bookbugs/Vikus-Updates.png)](/events/bookbugs/bookbugs-main) | [![Book Bugs How to Redeem](/images/events/bookbugs/Iyern-GX-How-to-Redeem.png)](/events/bookbugs/how-to-redeem) | [![Book Bugs How to Play](/images/events/bookbugs/Molder-How-to-Play.png)](/events/bookbugs/how-to-play) | [![Book Bugs Story](/images/events/bookbugs/Valeria-Story.png)](/events/bookbugs/story)
-| [![Book Bugs Bug List](/images/events/bookbugs/Nym9-Bug-List.png)](/events/bookbugs/bug-list) | [![Book Bugs Quiz](/images/events/bookbugs/Cybug-Quiz.png)](/events/bookbugs/quiz) | [![Book Bugs Posters and Activities](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-merigold.png)](/events/bookbugs/posters-and-activities) | [![Book Bugs Glossary](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-glossary.png)](/events/bookbugs/glossary) |
+| [![Book Bugs Updates](/images/events/bookbugs/Vikus-Updates.png)](/events/bookbug2s/bookbugs-main) | [![Book Bugs How to Redeem](/images/events/bookbugs/Iyern-GX-How-to-Redeem.png)](/events/bookbugs2/how-to-redeem) | [![Book Bugs How to Play](/images/events/bookbugs/Molder-How-to-Play.png)](/events/bookbugs2/how-to-play) | [![Book Bugs Story](/images/events/bookbugs/Valeria-Story.png)](/events/bookbugs2/story)
+| [![Book Bugs Bug List](/images/events/bookbugs/Nym9-Bug-List.png)](/events/bookbugs2/bug-list) | [![Book Bugs Quiz](/images/events/bookbugs/Cybug-Quiz.png)](/events/bookbugs2/quiz) | [![Book Bugs Posters and Activities](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-merigold.png)](/events/bookbugs2/posters-and-activities) | [![Book Bugs Glossary](/images/events/bookbugs/Book-Bugs-II-dR-Buttons-glossary.png)](/events/bookbugs2/glossary) |
 
 ## **Book Bugs II Carnival**
 
@@ -67,7 +67,7 @@ We are temporarily out of cards at the following libraries.  Apologies for any i
 
 <img src="/images/events/bookbugs/new-bugs-insta.jpg" style=" width: 30%;">
 
-The new Book Bugs II Booster cards have arrived! Meet Gaheris the Valiant, a chivalrous knight of the Round Table, handpicked by King Anthur himself! For more details on Gaheris and the other new Booster bugs, click [here](/events/bookbugs/bug-list).
+The new Book Bugs II Booster cards have arrived! Meet Gaheris the Valiant, a chivalrous knight of the Round Table, handpicked by King Anthur himself! For more details on Gaheris and the other new Booster bugs, click [here](/events/bookbugs2/bug-list).
 
 **18/12/2018: SOMEBUGGY NEW IS COMING TO TOWN!**
 Book Bugs Booster cards can be redeemed via the card dispensers on 27 December.
@@ -78,7 +78,7 @@ Book Bugs Booster cards can be redeemed via the card dispensers on 27 December.
 Bukit Merah Public Library has closed so Book Bugs redemption will no longer be available at that branch. However, don’t be alarmed, the Book Bugs of Bukit Merah Public Library are safe and happy. In fact, they are extremely excited for the move to VivoCity shopping mall. The new library, named library@harbourfront, will open on Saturday, 12 January 2019. See you there!
 
 28/11/2018: Give your Book Bugs a home. Beautify their Book of Residence!
-Print and craft your own Bugtopia Box and keep all your Book Bugs cards inside. Click [here](events/bookbugs/posters-and-activities) and start crafting!
+Print and craft your own Bugtopia Box and keep all your Book Bugs cards inside. Click [here](events/bookbugs2/posters-and-activities) and start crafting!
 
 <img src="/images/events/bookbugs/IMG_0834.jpg" style=" width: 30%;">
 
@@ -109,31 +109,31 @@ Last Entry: 5.30pm
 ![Champ icon](/images/events/bookbugs/champ.png)
 
 **9/11/2018: The long awaited Last Act is finally here!**
-Defeating Skorpius is no easy feat. He has grown powerful over the years! Will the Guardians be successful? Read the [Comic](events/bookbugs/story) to find out more!
+Defeating Skorpius is no easy feat. He has grown powerful over the years! Will the Guardians be successful? Read the [Comic](events/bookbugs2/story) to find out more!
 <img src="/images/events/bookbugs/Skorpius-fire.png" style="width: 30%;">
 
 **Also, remember to join us for the Book Bugs Playoffs tomorrow!**
 
 **23/9/2018: Bug Fact!**
 
-Did you know Renly (Bug No. 2/80) and Rogue (Bug No. 58/80) are siblings? Renly went missing 2 years ago on a dark, stormy night and Rogue is determined to leave her Book of Residence to find her long-lost brother. Find out more about the wonderful world of Book Bugs on the [Glossary](events/bookbugs/glossary) page!
+Did you know Renly (Bug No. 2/80) and Rogue (Bug No. 58/80) are siblings? Renly went missing 2 years ago on a dark, stormy night and Rogue is determined to leave her Book of Residence to find her long-lost brother. Find out more about the wonderful world of Book Bugs on the [Glossary](events/bookbugs2/glossary) page!
 
 | ![Renly](/images/events/bookbugs/2_Renly.jpg) | <img src="/images/events/bookbugs/58_Rogue.jpg" alt="Rogue" style="width: 15rem;"> |
 
 **16/9/2018: Are you ready to PLAY?**
 The Book Bugs II Playoffs is an event where Book Bugs II fans will be able to enjoy fringe activities, card trading, swap passes as well as participate in a friendly game of Book Bugs II with other casual players. Join us for a weekend of fun, fun, fun! Registration is required for competitive play and will open on 1st October on our goLibrary portal.
 
-Visit our [Playoffs](events/bookbugs/playoffs) page more information!
+Visit our [Playoffs](events/bookbugs2/playoffs) page more information!
 
 ![Bookbugs playoffs promo](/images/events/bookbugs/Book-Bugs-Playoffs-promo-image.png)
 
 **7/9/2018: The Call to Arms**
-The Guardians discuss their next move…and it might destroy Skorpius forever?! Read the [Comic](events/bookbugs/story) to find out more!
+The Guardians discuss their next move…and it might destroy Skorpius forever?! Read the [Comic](events/bookbugs2/story) to find out more!
 
 ![Skorpios](/images/events/bookbugs/80_Skorpios_px.png)
 
 **21/8/2018: Bug Fact!**
-Did you know that every Book Bug is bonded to the book that they have originated from? It is also commonly known as the Book of Residence. Book Bugs are tied to their Book of Residence and may only roam the **surrounding area**. Find out more about the wonderful world of Book Bugs on the [Glossary](events/bookbugs/glossary) page!
+Did you know that every Book Bug is bonded to the book that they have originated from? It is also commonly known as the Book of Residence. Book Bugs are tied to their Book of Residence and may only roam the **surrounding area**. Find out more about the wonderful world of Book Bugs on the [Glossary](events/bookbugs2/glossary) page!
 
 ![Book icon](/images/events/bookbugs/IMG_0346.jpg)
 
@@ -156,7 +156,7 @@ Also, remember to get your Bug-opedia at the Public Libraries! There is also a s
 ![Bugopedia image](/images/events/bookbugs/bugopedia-thumbnail.png)
 
 **30/5/2018: The Rise of the Guardians**
-The Guardians have awoken, but is it too late to save Bugtopia now? Read the [Comic](events/bookbugs/story) to find out more!
+The Guardians have awoken, but is it too late to save Bugtopia now? Read the [Comic](events/bookbugs2/story) to find out more!
 
 ![Rise of the guardian thumbnail](/images/events/bookbugs/riseoftheguardians-thumbnail.png)
 
@@ -166,14 +166,14 @@ Bug Points are credited from 26 May onwards and it will take 24 hours for the po
 ![Redemption flyer thumbnail](/images/events/bookbugs/Redemption-Flyer-thumbnail.png)
 
 **28/5/2018: Book Bugs II, The Game!**
-We hope you enjoyed the Bugsters’ Bash! Many of our attendees loved the game mat so much they asked if they could download it online, well, your wish is my command! [Here](/images/events/bookbugs/gamemat.pdf) it is! You can also find it on our [How to Play](events/bookbugs/how-to-play) page 🙂
+We hope you enjoyed the Bugsters’ Bash! Many of our attendees loved the game mat so much they asked if they could download it online, well, your wish is my command! [Here](/images/events/bookbugs/gamemat.pdf) it is! You can also find it on our [How to Play](events/bookbugs2/how-to-play) page 🙂
 
 [![Gamemat thumbnail](gamemat-thumbnail-png.png)](/images/events/bookbugs/gamemat.pdf)
 
 **23/5/2018: Bug list updated!**
-You know you’ve been waiting for this! THE FULL BUG LIST! 80 brand new Book Bugs in all its glory! Check out [here](events/bookbugs/bug-list)!
+You know you’ve been waiting for this! THE FULL BUG LIST! 80 brand new Book Bugs in all its glory! Check out [here](events/bookbugs2/bug-list)!
 
-[![Bookbugs buglist](/images/events/bookbugsthumbnail-fullbuglist.png)](events/bookbugs/bug-list)
+[![Bookbugs buglist](/images/events/bookbugsthumbnail-fullbuglist.png)](events/bookbugs2/bug-list)
 
 **23/5/2018: Only 3 days till the Bugsters’ Bash!**
 Here are the bugster-rific programmes and activities:
@@ -185,7 +185,7 @@ For the complete Event Guide, click [here](/images/events/bookbugs/NLB-Bugsters-
 **28/4/2018: Yay for new posters!**
 Print these lovely bug-themed posters for your bedroom! Which genre poster is your favourite?
 
-[![Bookbugs fantasy poster](/images/events/bookbugs/Genre-Poster-Fantasy.jpg)](events/bookbugs/posters-and-activities)
+[![Bookbugs fantasy poster](/images/events/bookbugs/Genre-Poster-Fantasy.jpg)](events/bookbugs2/posters-and-activities)
 
 **27/4/2018: An unexpected guest arrives.**
 Every year, Book Bugs from all over the country gather for a glitzy Bugsters’ Bash. As the Book Bugs dance, sing and let their feelers down, an expected guest arrives…Read the [Comic](events/bookbugs/story) to find out more!
@@ -193,7 +193,7 @@ Every year, Book Bugs from all over the country gather for a glitzy Bugsters’ 
 ![Skorpio sillouette](/images/events/bookbugs/BB-Instagram-30-April.png)
  
 **7/4/2018: Trouble is brewing**
-Ever wondered where the Book Bugs came from or what happened to them? Read the [Story](events/bookbugs/story) to find out!
+Ever wondered where the Book Bugs came from or what happened to them? Read the [Story](events/bookbugs2/story) to find out!
 
 **6/4/2018: The wait is almost over!**
 Book Bugs II will be back in June! With 80 brand new character cards to collect, an original online comic and an exciting playoff event for competitive players, you had better get buzzing!
