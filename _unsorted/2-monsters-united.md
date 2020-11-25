@@ -16,25 +16,27 @@ Monsters United is excited about Halloween, and has prepared an Escape Room game
 
 Click on the images below to start your fang-tastic journey. Have a spook-tacular time!
 
-[Fun and Games](#fun-and-games) | [Escape Room](#the-great-library-escape-escape-room-game) | [DIY Halloween Wings](#diy-halloween-wings) | [Halloween Jokes](#halloween-jokes) | [“Halloween” Fun Facts](#halloween-fun-facts)
+**Fun and Games** 
+| [Escape Room](#the-great-library-escape-escape-room-game) | [DIY Halloween Wings](#diy-halloween-wings) | [Halloween Jokes](#halloween-jokes) | [“Halloween” Fun Facts](#halloween-fun-facts)
 
-[Stories and Tales](#stories-and-tales) | [The Story of King Midas](#the-story-of-king-midas) | [Gods & Mythologies](#gods-mythologies) | [Mythical Creatures](#mythical-creatures) | [Spooky eReads](#spooky-ereads)
+**Stories and Tales** 
+| [The Story of King Midas](#the-story-of-king-midas) | [Gods & Mythologies](#gods-mythologies) | [Mythical Creatures](#mythical-creatures) | [Spooky eReads](#spooky-ereads)
 
 
-**The Great Library Escape (Escape Room Game)** <br>
+<a name="the-great-library-escape-escape-room-game">**The Great Library Escape (Escape Room Game)**</a> <br>
 Use your wits and help the monsters escape a mysterious library!
 
 _(Click on the image to begin)_
 
 <a href="https://www.opinionstage.com/rooktober_escape-room/rooktober-fest-the-great-library-escape"><img src="/images/unsorted/monstersunited/00.png" alt="Rooktober escape room image" style="width: 60%;"></a>
 
-**The Story of King Midas** <br>
+<a name="the-story-of-king-midas">**The Story of King Midas**</a> <br>
 Teen Reading Ambassadors Zoe and Ziv tell the tale of King Midas in this dramatised storytelling. <br>
 _(Click on the image to watch the storytelling video)_
 
 <a href="https://www.facebook.com/publiclibrarysg/videos/814990779285352"><img src="/images/unsorted/monstersunited/Rooktober-Storytime.png" alt="Rooktober storytime image" style="width: 60%;"></a>
 
-**DIY Halloween Wings with Rooky!**  <br>
+<a name="diy-halloween-wings">**DIY Halloween Wings with Rooky!**</a>  <br>
 Create your very own wings with Rooky in this DIY craft video.
 
 You will need:
@@ -56,28 +58,35 @@ Click on the links below to borrow Rooky’s eBook picks:
 * [The School Is Alive!](http://go.gov.sg/eh1aky) by Jack Chabert
 * [The Monsters’ Monster](http://go.gov.sg/uoijyc) by Patrick McDonnell
 
-**Gods & Mythologies From Around the World**  <br>
+<a name="gods-mythologies">**Gods & Mythologies From Around the World**</a>  <br>
 Find out about interesting myths and stories from around the world.  <br>
+_(Click on the image to begin)_
+
+<a href="https://go.gov.sg/nlb-rooktober2020-myths"><img scr="_____" alt="Gods & myths around the world image" style="width: 60%;"></a>
+  
+
+<a name="mythical-creatures">**Mythical Creatures From Around the World**</a>
+Come delve into the wonderful, weird, and sometimes wacky world of monsters.
 _(Click on the image to begin)_
 
 <a href="https://go.gov.sg/nlb-rooktober2020-creatures"><img src="/images/unsorted/monstersunited/Mythical-Creatures.png" alt="Mythical creatures image" style="width: 60%;"></a>
 
 
-**Halloween Jokes to Share!** <br>
+<a name="halloween-jokes">**Halloween Jokes to Share!**</a> <br>
 Tickle your funny bone and keep your spirits high with these Halloween-themed jokes.  <br>
 _(Click on the image to begin)_
 
 <a href="https://go.gov.sg/nlb-rooktoberfest2020-jokes"><img src="/images/unsorted/monstersunited/Jokes.png" alt="Halloween jokes image" style="width: 60%;"></a>
 
 
-**Fun Facts About “Halloween” From Around the World**  <br>
+<a name="halloween-fun-facts">**Fun Facts About “Halloween” From Around the World**</a>  <br>
 Find out more about how “Halloween” is experienced by different cultures around the world.  <br>
 _(Click on the image to begin)_
 
 <a href="https://go.gov.sg/rf-halloweenfacts2020"><img src="/images/unsorted/monstersunited/Fun-Facts.png" alt="Fun facts image" style="width: 60%;"></a>
 
 
-**Rooky’s Spooky eBOOklist** <br>
+<a name="spooky-ereads">**Rooky’s Spooky eBOOklist**</a> <br>
 We’re creepin’ it real with these spine-tingling, hair-raising eReads. <br>
 _(Click on the image to begin)_
 
@@ -99,5 +108,5 @@ Download your very own Adventure Booklets by clicking on the images below! Each 
 | <a href="/images/unsorted/monstersunited/NLB-Zecky-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/unnamed.png" alt="Zecky image" style="width: 100%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Rooky-Puzzle-Notebook.pdf"><img src="/images/unsorted/monstersunited/Rookys-Horrific-Adventure.png" alt="Rooky image" style="width: 60%;"></a> |
 
 | **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
-| <a href="/images/unsorted/monstersunited/NLB-Camy-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/camys-cver.png" alt="Camy image" style="width: 100%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf"><img src="/images/unsorted/monstersunited/hutsys-cover.png" alt="Hutsy image" style="width: 60%;"></a> |
+| <a href="/images/unsorted/monstersunited/NLB-Camy-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/camys-cver.png" alt="Camy image" style="width: 60%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf"><img src="/images/unsorted/monstersunited/hutsys-cover.png" alt="Hutsy image" style="width: 60%;"></a> |
 
