@@ -1,6 +1,6 @@
 ---
 title: Terms of Use
-permalink: /terms-of-use/
+permalink: https://www.nlb.gov.sg/TermsofUse.aspx
 ---
 ### **General Terms and Conditions on the Use of the Isomer Pages Website**
 

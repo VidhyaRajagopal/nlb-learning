@@ -12,7 +12,7 @@ This page is best viewed on your desktop.
 
 Click on the thumbnail to download the latest Suggested Reads.
 
-If you are looking for past reading lists, click ![here](/book-recommendations/archives/recommend-primary-archives).
+If you are looking for past reading lists, click [here](/book-recommendations/archives/recommend-primary-archives).
 
 | Primary 1 | Primary 2 |
 | --------- | --------- |
