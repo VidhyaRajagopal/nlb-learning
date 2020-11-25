@@ -18,6 +18,10 @@ iframe.center-youtube {
   text-align: center;
 }
 
+a[href$='.pdf']:before {
+  bottom: 0.5rem;
+}
+
 /* End Custom CSS Content */
 
 @charset "utf-8";

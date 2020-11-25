@@ -4,14 +4,14 @@ title: DiscoveReads
 description: NLB Learning
 image: /images/discoveReadsbanner3.png
 permalink: /
-notification: Welcome!
+notification: 
 sections:
     - hero:
-        title: NLB Learning
-        subtitle: Welcome to NLB Learning!
+        title: NLB Children and Teen Services
+        subtitle: 
         background: /images/homepage-image.png
-        button: Contact Us
-        url: /contact-us/
+        # button: Contact Us
+        # url: /contact-us/
         key_highlights:
             - title: Resources for Parents
               description: Raising Readers Toolkit
