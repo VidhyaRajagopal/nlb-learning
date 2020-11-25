@@ -26,13 +26,13 @@ Use your wits and help the monsters escape a mysterious library!
 
 _(Click on the image to begin)_
 
-[![Escape room image](/images/unsorted/monstersunited/00.png)](https://www.opinionstage.com/rooktober_escape-room/rooktober-fest-the-great-library-escape)
+<a href="https://www.opinionstage.com/rooktober_escape-room/rooktober-fest-the-great-library-escape"><img src="/images/unsorted/monstersunited/00.png" alt="Rooktober escape room image" style="width: 60%;"></a>
 
 **The Story of King Midas** <br>
 Teen Reading Ambassadors Zoe and Ziv tell the tale of King Midas in this dramatised storytelling. <br>
 _(Click on the image to watch the storytelling video)_
 
-[![Storytime rooktober image](/images/unsorted/monstersunited/Rooktober-Storytime.png)](https://www.facebook.com/publiclibrarysg/videos/814990779285352)
+<a href="https://www.facebook.com/publiclibrarysg/videos/814990779285352"><img src="/images/unsorted/monstersunited/Rooktober-Storytime.png" alt="Rooktober storytime image" style="width: 60%;"></a>
 
 **DIY Halloween Wings with Rooky!**  <br>
 Create your very own wings with Rooky in this DIY craft video.
@@ -48,7 +48,7 @@ You will need:
 * A piece of paper and pen/pencil
 * Any other crafts materials for decorations
 
-<iframe width="880" height="493" src="https://www.youtube.com/embed/01744B7EH_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/01744B7EH_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Click on the links below to borrow Rooky’s eBook picks:
 
@@ -60,26 +60,29 @@ Click on the links below to borrow Rooky’s eBook picks:
 Find out about interesting myths and stories from around the world.  <br>
 _(Click on the image to begin)_
 
-[![Mythical creatures image](/images/unsorted/monstersunited/Mythical-Creatures.png)](https://go.gov.sg/nlb-rooktober2020-creatures)
+<a href="https://go.gov.sg/nlb-rooktober2020-creatures"><img src="/images/unsorted/monstersunited/Mythical-Creatures.png" alt="Mythical creatures image" style="width: 60%;"></a>
+
 
 **Halloween Jokes to Share!** <br>
 Tickle your funny bone and keep your spirits high with these Halloween-themed jokes.  <br>
 _(Click on the image to begin)_
 
-[![Halloween jokes image](/images/unsorted/monstersunited/Jokes.png)](https://go.gov.sg/nlb-rooktoberfest2020-jokes)
+<a href="https://go.gov.sg/nlb-rooktoberfest2020-jokes"><img src="/images/unsorted/monstersunited/Jokes.png" alt="Halloween jokes image" style="width: 60%;"></a>
 
 
 **Fun Facts About “Halloween” From Around the World**  <br>
 Find out more about how “Halloween” is experienced by different cultures around the world.  <br>
 _(Click on the image to begin)_
 
-[![Fun facts image](/images/unsorted/monstersunited/Fun-Facts.png)](https://go.gov.sg/rf-halloweenfacts2020)
+<a href="https://go.gov.sg/rf-halloweenfacts2020"><img src="/images/unsorted/monstersunited/Fun-Facts.png" alt="Fun facts image" style="width: 60%;"></a>
+
 
 **Rooky’s Spooky eBOOklist** <br>
 We’re creepin’ it real with these spine-tingling, hair-raising eReads. <br>
 _(Click on the image to begin)_
 
 [![Rooktober ebooks iamge](/images/unsorted/monstersunited/Rooktober-eBOOklist.png)](http://www.nlb.gov.sg/discovereads/wp-content/uploads/2020/10/Rooktober-eBooklist.pdf)
+<a href="https://nlb.gov.sg/discovereads/wp-content/uploads/2020/10/Rooktober-eBooklist.pdf"><img src="/images/unsorted/monstersunited/Rooktober-eBOOklist.png" alt="Rooktober ebooks image" style="width: 60%;"></a>
 
 _(Last updated on 15 October 2020)_
 
@@ -87,11 +90,15 @@ _(Last updated on 15 October 2020)_
 
 Monsters United is a quartet of loveable monsters that aims to ignite the joy of reading and learning in children aged 7 to 9. Comprising adventurous Hutsy, fantastical Camy, techy Zecky and spooky Rooky, Monsters United expands children’s reading appetites by introducing them to different genres, and engages children and their communities with library programmes and experiences.
 
-<iframe class="center-youtube" width="880" height="495" src="https://www.youtube.com/embed/Vbr0Pqcbhc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe class="center-youtube" width="560" height="315" src="https://www.youtube.com/embed/Vbr0Pqcbhc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ## **Monsters United Adventure Booklets**
 
 Download your very own Adventure Booklets by clicking on the images below! Each one contains fun activities and book recommendations.
 
-| [![Zecky image](/images/unsorted/monstersunited/unnamed.png)](/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.pdf) | [![Rooky image](/images/unsorted/monstersunited/Rookys-Horrific-Adventure.png)](/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.pdf) | [![Camy image](/images/unsorted/monstersunited/camys-cver.png)](NLB_Camy-Puzzle-Notebook_FA.pdf) | [![Hutsy image](/images/unsorted/monstersunited/hutsys-cover.png)](/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf) |
-| **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** | **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
+| **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE**|
+| [![Zecky image](/images/unsorted/monstersunited/unnamed.png)](/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.pdf) | [![Rooky image](/images/unsorted/monstersunited/Rookys-Horrific-Adventure.png)](/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.pdf) |
+
+| **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
+| [![Camy image](/images/unsorted/monstersunited/camyscver.png)](/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.pdf) | [![Hutsy image](/images/unsorted/monstersunited/hutsys-cover.png)](/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf) |
+
