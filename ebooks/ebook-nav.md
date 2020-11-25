@@ -8,6 +8,6 @@ breadcrumb: eBooks
 
 Looking for Book Recommendations for Children?
 
-Click [here](/ebooks/primary/) for recommendations for Primary School Students
+Click [here](https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=p) for recommendations for Primary School Students
 
-Click [here](/ebooks/secondary/) for recommendations for Secondary School Students
+Click [here](https://eresources.nlb.gov.sg/ereads/DiscoveReads/All?level=s) for recommendations for Secondary School Students
