@@ -1,6 +1,6 @@
 ---
 title: Privacy Statement
-permalink: https://www.nlb.gov.sg/PrivacyStatement.aspx
+permalink: /privacy/
 ---
 
 ### **Government Agency Privacy Statement**

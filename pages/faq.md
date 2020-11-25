@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: https://www.ifaq.gov.sg/nlb/apps/fcd_faqmain.aspx
+permalink: /faq/
 ---
 
 ### **FAQ**

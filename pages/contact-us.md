@@ -1,7 +1,7 @@
 ---
 layout: contact_us
 title: Contact Us
-permalink: https://www.nlb.gov.sg/ContactUs.aspx
+permalink: /contact-us/
 agency_name: Agency Name
 locations:
   - title: Main Office

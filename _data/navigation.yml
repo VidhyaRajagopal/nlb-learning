@@ -34,7 +34,7 @@ links:
       - title: A Book A Day
         url: /events/a-book-a-day
   - title: Contact Us
-    url: /contact-us/
+    url: https://www.nlb.gov.sg/ContactUs.aspx
   - title: unsorted(temp)
     collection: unsorted
 
