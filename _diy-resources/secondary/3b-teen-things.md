@@ -18,7 +18,7 @@ _(Updated on 20 November 2020)_
 
 | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) | [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
 
-### <a name="id5">**Boba Book Recommendations**</a>
+#### <a name="id5">**Boba Book Recommendations**</a>
 
 Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide you with a book recommendation. Go on, try it (you’re welcome)!
 
@@ -26,7 +26,8 @@ Like to curl up with a drink and a book? Enjoy a bubble tea and we’ll provide 
 
 <p style="text-align: center;"><i>(Click the image to access the <a href="https://www.opinionstage.com/content-717/boba-book-recommendations">Boba Book Recommendations Quiz</a>)</i></p>
 
-### <a name="id4">**DIY Room Décor**</a>
+
+#### <a name="id4">**DIY Room Décor**</a>
 
 Give your room an instant makeover – create a personalized photo wall collage with your favourite things and memories that will bring you joy!
 
@@ -42,7 +43,7 @@ Try this out and tag us at @publiclibrarysg with #librarysg
 
 Source: [10 Tumblr Photo Wall Ideas ! ~ Cute Ways to Display & Organize Photos In Your Room](https://www.youtube.com/watch?v=jBIkummgYX4&feature=youtu.be) (Jul 2016)
 
-## **Be inspired!**
+##### **Be inspired!**
 Read these eBooks for more transformative ideas for your space and lifestyle.
 
 <img src="https://d33wubrfki0l68.cloudfront.net/0f4ba7154adb1b1eae065b26907c3009c55a774c/e74c7/images/diyresources/secondary/picture-3.jpg" alt="Room love image" style="width: 40%;">
@@ -71,11 +72,12 @@ Get your sleep cycle back on track before school holidays end. You can start by 
 
 Source: [https://theconversation.com/seven-tips-to-get-your-sleep-cycle-back-on-track-during-lockdown-135595](https://theconversation.com/seven-tips-to-get-your-sleep-cycle-back-on-track-during-lockdown-135595) (April 2020)
 
-All websites were last accessed on 27 May 2020
+(All websites were last accessed on 27 May 2020.)
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-### <a name="id3">**Science Exploration**</a>
+
+#### <a name="id3">**Science Exploration**</a>
 
 “Grow” your unique rock candy and wonder at the process of crystallization. Not only is this a fun experiment but the result is also tasty!
 
@@ -96,7 +98,7 @@ Source: [Grow Peppermint Sugar Crystals](https://youtu.be/zcS_zEnSJSY) (31 Decem
 
 Delve into the science behind rock candy [here](https://www.sciencebuddies.org/science-fair-projects/project-ideas/FoodSci_p005/cooking-food-science/growing-rock-candy-crystals#makeityourown).
 
-## **Be inspired!**
+##### **Be inspired!**
 Read these eBooks for mind-blowing science facts and revelations on quirky food myths.
 
 <img src="/images/diyresources/secondary/Everyday-Amazing.jpg" alt="Everyday amazing image" style="width: 40%;">
@@ -126,14 +128,14 @@ Too much screen time and sitting down? Balance that with at least one hour of mo
 
 Source: [https://raisingchildren.net.au/teens/healthy-lifestyle/physical-activity/physical-activity-teens](https://raisingchildren.net.au/teens/healthy-lifestyle/physical-activity/physical-activity-teens)
 
-Kick-start your fitness with daily workout sessions by Singapore Sports Hub at: [https://the-elxr.com/sessions/sgsportshub/](https://the-elxr.com/sessions/sgsportshub/
-)
+Kick-start your fitness with daily workout sessions by Singapore Sports Hub at: [https://the-elxr.com/sessions/sgsportshub/](https://the-elxr.com/sessions/sgsportshub/)
 
-All websites were last accessed on 18 May 2020.
+(All websites were last accessed on 18 May 2020.)
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-### <a name="id2">**Cooking Pasta**</a>
+
+#### <a name="id2">**Cooking Pasta**</a>
 
 Whip up this classic Italian dish with minimal fuss anytime! Snap a photo and wow your friends with your own creation of pasta Alfredo using simple ingredients.
 
@@ -151,7 +153,7 @@ Try this recipe and tag us at @publiclibrarysg with #librarysg
 
 Source: [How to make… Pasta Alfredo! 3 INGREDIENTS!](https://youtu.be/ZnC6Fo2dbgs) (2 April 2017)
 
-## **Be inspired!**
+##### **Be inspired!**
 Read these eBooks to step up your food game.
 
 <img src="/images/diyresources/secondary/Noodlemania.jpg" alt="Noodlemania image" style="width: 40%;">
@@ -180,11 +182,12 @@ The act of cooking not only soothes the mind, but also relaxes your body. Gettin
 
 Source: [https://www.bustle.com/p/7-emotional-benefits-of-cooking-thatll-make-you-want-to-actually-use-your-kitchen-9957022](https://www.bustle.com/p/7-emotional-benefits-of-cooking-thatll-make-you-want-to-actually-use-your-kitchen-9957022)
 
-(All websites were last accessed on 5 May 2020)
+(All websites were last accessed on 5 May 2020.)
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-### <a name="id1">**For the ‘Gram**</a>
+
+#### <a name="id1">**For the ‘Gram**</a>
 
 Level up your Instagram posts! Watch this video to learn 10 simple tricks to make your stories stand out.
 
@@ -194,7 +197,7 @@ Try these hacks and tag us at @publiclibrarysg with #librarysg
 
 Source: [10 creative ways to edit your insta stories using ONLY the instagram APP ♡ (no other apps needed!)](https://youtu.be/CVzh7szKiCM) (20 April 2019)
 
-## **Be inspired!**
+##### **Be inspired!**
 Check out these eBooks to boost your Instagram creativity.
 
 <img src="/images/diyresources/secondary/Cats-on-Instagram.jpg" alt="Cats on instagram image" style="width: 40%;">
@@ -223,9 +226,10 @@ Expressing yourself through drawings or comics, and sharing your artwork are gre
 
 You can share your artwork with teens around the world through UNICEF at: [https://www.voicesofyouth.org/drawing-time-coronavirus-were-looking-you](https://www.voicesofyouth.org/drawing-time-coronavirus-were-looking-you)
 
-Source: [https://www.voicesofyouth.org/campaign/covid-19-and-youth-mental-health#header–16071](https://www.voicesofyouth.org/campaign/covid-19-and-youth-mental-health#header–16071
-)
+Source: [https://www.voicesofyouth.org/campaign/covid-19-and-youth-mental-health#header–16071](https://www.voicesofyouth.org/campaign/covid-19-and-youth-mental-health#header–16071)
 
-(All websites were last accessed on 30 April 2020)
+(All websites were last accessed on 30 April 2020.)
 
 The book covers and synopses are the copyright of the respective publishing companies.
+
+
