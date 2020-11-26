@@ -89,7 +89,7 @@ _(Click on the image to begin)_
 We’re creepin’ it real with these spine-tingling, hair-raising eReads. <br>
 _(Click on the image to begin)_
 
-<a href="https://nlb.gov.sg/discovereads/wp-content/uploads/2020/10/Rooktober-eBooklist.pdf"><img src="/images/unsorted/monstersunited/Rooktober-eBOOklist.png" alt="Rooktober ebooks image" style="width: 70%;"></a>
+<a href="/images/unsorted/monstersunited/Rooktober-eBooklist.pdf"><img src="/images/unsorted/monstersunited/Rooktober-eBOOklist.png" alt="Rooktober ebooks image" style="width: 70%;"></a>
 
 _(Last updated on 15 October 2020)_
 
