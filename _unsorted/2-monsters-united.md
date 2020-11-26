@@ -16,10 +16,10 @@ Monsters United is excited about Halloween, and has prepared an Escape Room game
 
 Click on the images below to start your fang-tastic journey. Have a spook-tacular time!
 
-**Fun and Games** <br>
+#### **Fun and Games** <br>
 | [Escape Room](#the-great-library-escape-escape-room-game) | [DIY Halloween Wings](#diy-halloween-wings) | [Halloween Jokes](#halloween-jokes) | [“Halloween” Fun Facts](#halloween-fun-facts) |
 
-**Stories and Tales** <br>
+#### **Stories and Tales** <br>
 | [The Story of King Midas](#the-story-of-king-midas) | [Gods & Mythologies](#gods-mythologies) | [Mythical Creatures](#mythical-creatures) | [Spooky eReads](#spooky-ereads) |
 
 
@@ -61,7 +61,7 @@ Click on the links below to borrow Rooky’s eBook picks:
 Find out about interesting myths and stories from around the world.  <br>
 _(Click on the image to begin)_
 
-<a href="https://go.gov.sg/nlb-rooktober2020-myths"><img scr="_____" alt="Gods & myths around the world image" style="width: 60%;"></a>
+<a href="https://go.gov.sg/nlb-rooktober2020-myths"><img src="/images/unsorted/monstersunited/Gods-and-Myths.png" alt="Gods & myths around the world image" style="width: 60%;"></a>
   
 
 <a name="mythical-creatures">**Mythical Creatures From Around the World**</a> <br>
@@ -104,8 +104,8 @@ Monsters United is a quartet of loveable monsters that aims to ignite the joy of
 Download your very own Adventure Booklets by clicking on the images below! Each one contains fun activities and book recommendations.
 
 | **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** |
-| <a href="/images/unsorted/monstersunited/NLB-Zecky-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/unnamed.png" alt="Zecky image" style="width: 60%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Rooky-Puzzle-Notebook.pdf"><img src="/images/unsorted/monstersunited/Rookys-Horrific-Adventure.png" alt="Rooky image" style="width: 60%;"></a> |
+| <a href="/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-zecky-cover.png" alt="Zecky image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.pdf"><img src="/images/unsorted/monstersunited/mu-rooky-cover.png" alt="Rooky image" style="width: 50%;"></a> |
 
 | **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
-| <a href="/images/unsorted/monstersunited/NLB-Camy-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/camys-cver.png" alt="Camy image" style="width: 60%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf"><img src="/images/unsorted/monstersunited/hutsys-cover.png" alt="Hutsy image" style="width: 60%;"></a> |
+| <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
 
