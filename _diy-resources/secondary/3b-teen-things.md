@@ -1,5 +1,5 @@
 ---
-title: Teen Things
+title: Teen•Things
 permalink: /diy-resources/secondary/teen-things
 collection_name: diy-resources
 third_nav_title: Secondary School Resources
