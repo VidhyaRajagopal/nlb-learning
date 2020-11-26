@@ -7,14 +7,16 @@ third_nav_title: Secondary School Resources
 
 ## **Teen•Things**
 
-<img src="/images/diyresources/secondary/Teen.Things.jpg" alt="Teen things logo" style="width: 70%;">
+<img src="/images/diyresources/secondary/teen-things-header.png" alt="Teen things logo" style="width: 70%;">
 
 ### **Never run out of Teen•Things to do during the school holidays!**
 _(Updated on 20 November 2020)_
 
 [Go back to Stay-Home Activities (Secondary)](/diy-resources/secondary/secondary-main)
 
-| [For the ‘Gram](#id1) | [Cooking Pasta](#id2) | [Science Exploration](#id3) | [DIY Room Décor](#id4) | [Boba Book Recommendations *(new)*](#id5) |
+**Click to navigate!**
+| [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) | [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4)
+ | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
 
 ### <a name="id5">**Boba Book Recommendations**</a>
 
