@@ -7,8 +7,7 @@ third_nav_title: Primary School Resources
 
 ## **Primary**
 
-**Explore our D.I.Y. resources to foster the love of reading and learning at home and in school!*
-*
+**Explore our D.I.Y. resources to foster the love of reading and learning at home and in school!**
 This page is best viewed on your desktop.
 
 _(Updated on 8 August 2020)_
