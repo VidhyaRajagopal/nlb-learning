@@ -205,7 +205,7 @@ Topics covered include:
 
 This guide provides tips on how parents can kickstart their children’s reading journey.
 
-<a href="/images/diyresources/primary/PWK-2020_Final-min.pdf"><img src="/images/diyresources/primary/ride-of-a-lifetime-thumb.png" alt="Parents welcome kit image" style="width: 50%;"></a>
+<a href="/images/diyresources/primary/PWK-2020_Final-min.pdf"><img src="/images/diyresources/primary/ride-of-lifetime-thumb.png" alt="Parents welcome kit image" style="width: 50%;"></a>
 
 
 **Tips to get your kid reading**
