@@ -1,11 +1,11 @@
 ---
-title: Tween Kerama
+title: Tweenkerama
 permalink: unsorted/tween-kerama
 breadcrumb: Tween Kerama
 collection_name: unsorted
 ---
 
-## **Tween Kerama**
+## **Tweenkerama**
 
 **Tweens Tinker Sheets**
 
@@ -23,8 +23,6 @@ These packages provide Tweens the opportunity to problem solve through a do-it-y
 [![Paper helicopter image](/images/unsorted/tweenkerama/Tweens-Paper-Helicopter.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Paper-Helicopter.pdf)
 
 Grab your printable template for the paper helicopter [here](/images/unsorted/tweenkerama/PopUp_copter_printing_templates_0615_001.pdf)!
-
-Click on the images below to access the other DIY packages.
 
 [![Flexagon image](/images/unsorted/tweenkerama/Tweens-Flexagon.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Flexagon.pdf)
 
@@ -49,7 +47,8 @@ Each issue of Tweenkerama Lab Mag is packed with information about STEAM topics 
 
 Psst, want a sneak peak at Issue 3? Head down to STEAM Lab on 23-24 November to get your hands on it first!
 
-Grab a copy of Issue #3 at the public libraries or download it [here](/images/unsorted/tweenkerama/FA-NLB-Tweenkerama_Issue-03-v2.pdf)! Answer key for Issue #3 is available [here](/images/unsorted/tweenkerama/Tweenkerama-Issue-3-Answer-Key.pdf).
+Grab a copy of Issue #3 at the public libraries or download it [here](/images/unsorted/tweenkerama/FA-NLB-Tweenkerama_Issue-03-v2.pdf)! 
+Answer key for Issue #3 is available [here](/images/unsorted/tweenkerama/Tweenkerama-Issue-3-Answer-Key.pdf).
 
 Missed out on Issue #2? Download it [here](/images/unsorted/tweenkerama/Tweenkeramabooklet_Issue02_FA.pdf)!
 
