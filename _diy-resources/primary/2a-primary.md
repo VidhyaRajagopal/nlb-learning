@@ -49,7 +49,7 @@ Not sure which type of books you enjoy reading most? Complete the Reading Intere
 
 Up your reading game by completing our very own Reading Challenge:
 
-<a href="/images/diyresources/primary/Primary-Reading-Challenge-12052020.pdf"><img src="/images/diyresources/primary/RC_Primary.jpg" alt="Reading challenge image" style="width: 60%;">
+<a href="/images/diyresources/primary/Primary-Reading-Challenge-12052020.pdf"><img src="/images/diyresources/primary/RC_Primary.jpg" alt="Reading challenge image" style="width: 40%;">
 
 **POSB-NLB Kids’ Lit Quiz(TM) Survival Kit and Literary Boot Camp Booklet (30 mins)**
 
