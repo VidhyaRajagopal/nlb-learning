@@ -15,7 +15,7 @@ _(Updated on 8 August 2020)_
 
 **What do you want to do today?**
 
-| School Holiday Special | Storytime with Our Librarians | Quizzes *new | Literary Trivia | Learn About S.T.E.A.M. | Read and Craft | Read and Share | Decorate My Space | Engage My Child in Reading | Let’s be S.U.R.E. |
+| School Holiday Special | Storytime with Our Librarians | Quizzes *new | Literary Trivia | Learn About S.T.E.A.M. | Read and Craft | Read and Share | Decorate My Space | [Engage My Child in Reading](#engage-my-child-in-reading) | Let’s be S.U.R.E. |
 
 **School Holiday Special**
 (click on the icon to find out more!)
@@ -163,7 +163,7 @@ Suggested activities to liven up reading corners everywhere!
 
 [![Activities image](/images/diyresources/primary/SLM-activity.jpg)](/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.pdf)
 
-### **Engage My Child in Reading**
+### <a name="engage-my-child-in-reading">**Engage My Child in Reading**</a>
 **Read these dedicated guides for parents and educators.**
 
 **Raising Readers**
