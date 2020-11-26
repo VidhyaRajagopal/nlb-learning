@@ -15,7 +15,7 @@ sections:
         key_highlights:
             - title: Resources for Parents
               description: Raising Readers Toolkit
-              url: /diy-resources/primary/primary-main
+              url: /diy-resources/primary/primary-main/#engage-my-child-in-reading
             - title: Monsters United
               description: 
               url: unsorted/monsters-united
