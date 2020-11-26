@@ -3,7 +3,7 @@ title: How to Redeem
 permalink: events/bookbugs2/how-to-redeem
 breadcrumb: How to Redeem
 collection_name: events
-third_nav_title: Bookbugs II
+third_nav_title: Book Bugs II
 ---
 
 | [![Book Bugs Updates](/images/events/bookbugs/Vikus-Updates.png)](/events/bookbugs2/bookbugs-main) | [![Book Bugs How to Redeem](/images/events/bookbugs/Iyern-GX-How-to-Redeem.png)](/events/bookbugs2/how-to-redeem) | [![Book Bugs How to Play](/images/events/bookbugs/Molder-How-to-Play.png)](/events/bookbugs2/how-to-play) | [![Book Bugs Story](/images/events/bookbugs/Valeria-Story.png)](/events/bookbugs2/story)
