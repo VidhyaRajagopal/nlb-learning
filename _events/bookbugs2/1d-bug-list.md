@@ -3,7 +3,7 @@ title: Bug List
 permalink: events/bookbugs2/bug-list
 breadcrumb: Bug List
 collection_name: events
-third_nav_title: Bookbugs II
+third_nav_title: Book Bugs II
 ---
 
 ## **Book Bugs - Bug List**
@@ -52,7 +52,7 @@ Here is the list of Book Bugs, their Character Basis and their Book of Residence
 | Ephraim |	Prince | Snow White Stories Around the World: 4 Beloved Tales |	Jessica Gunderson |	J 398.2 GUN – \[FOL\] |
 | Puddifoot | Hobbit | The Hobbit: Or There and Back Again | J. R. R. Tolkien |	J TOL |
 | Morganna | Sorceress | The King of Kazoo | Norm Feuti	| J FEU |
-| Chlorose | Anthropomorphism |	The Little Prince |	Antoine de | Saint-Exupéry	| J SAI |
+| Chlorose | Anthropomorphism |	The Little Prince |	Antoine de | Saint-Exupéry	| J SAI |
 | Arcain | Folktales | When the Sea Turned to Silver | Grace Lin | J LIN |
 | Shenlong | Dragon | Dragon Rider | Cornelia Funke | J FUN |
 | Wreckett | Mechanic | Interstellar Cinderella | Deborah Underwood | JP UND |
