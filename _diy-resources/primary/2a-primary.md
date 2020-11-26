@@ -172,7 +172,7 @@ Suggested activities to liven up reading corners everywhere!
 **Raising Readers**
 This guide provides information on how parents can instill a love of reading in their children.
 
-<a href="/images/diyresources/primary/Raising-Readers.pdf"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 50%;>"</a>
+<a href="/images/diyresources/primary/Raising-Readers.pdf"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 50%;"></a>
 
 Topics covered include:
 
@@ -186,7 +186,7 @@ Topics covered include:
 **The Parents’ Welcome Kit: Ride of a Lifetime**
 This guide provides tips on how parents can kickstart their children’s reading journey.
 
-<a href="/images/diyresources/primary/PWK-2020_Final-min.pdf"><img src="/images/diyresources/primary/ride-of-a-lifetime-thumb" alt="Parents welcome kit image" style="width: 50%;"></a>
+<a href="/images/diyresources/primary/PWK-2020_Final-min.pdf"><img src="/images/diyresources/primary/ride-of-a-lifetime-thumb.png" alt="Parents welcome kit image" style="width: 50%;"></a>
 
 
 **Tips to get your kid reading**
