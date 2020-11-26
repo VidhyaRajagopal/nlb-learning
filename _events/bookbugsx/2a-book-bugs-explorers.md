@@ -8,6 +8,6 @@ third_nav_title: Book Bugs Explorers of Stories Past
 
 ## Book Bugs: Explorers of Stories Past
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mDsNq7wx8Xc?controls=0&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mDsNq7wx8Xc?controls=0&autoplay=1&loop=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
