@@ -20,19 +20,19 @@ _(Updated on 26 August 2020)_
 
 ### **School Holiday Specials**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S1lcosdpw20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/S1lcosdpw20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Drawing is a fun activity to do when we have to stay in.✏️ Let your children expand on their artistic abilities with our librarian, Angela, who will be showing us how we can create a nice drawing in 4 easy steps.🎨
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vUXWrQMa8QY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/vUXWrQMa8QY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Do your children like creating their own inventions just like Leonardo Da Vinci? Join our librarian Faye, as she shows us Leonardo’s many amazing inventions and teaches us how to make one of them!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D08p42IKWjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/D08p42IKWjE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 School’s out, fun’s in! Build your very own paper roller coaster 🎢 with Nurul Ghali.
 
-### **High-intensity Interval Training (HIIT) Workout for Kids**
+#### **High-intensity Interval Training (HIIT) Workout for Kids**
 
 Get the whole family moving with this 8-minute HIIT workout. Have fun sweating it out!
 
@@ -41,15 +41,15 @@ You’ll need:
 
 Try this out and tag us at @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fomkRYcl_mo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/fomkRYcl_mo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Source: [Super fun KID’S Workout! 8-Minute HIIT fitness class for kids. Let’s Kid Fit GO!](https://www.youtube.com/watch?v=fomkRYcl_mo&feature=emb_title)  (2 Apr 2020)
 
-### **Be curious!**
+#### **Be curious!**
 
 Read these eBooks to motivate your children to stay active and healthy.
 
-![Oh the things you can do that are good for you image](/images/diyresources/primary/Picture1.jpg)
+<img src="/images/diyresources/primary/Picture1.jpg" alt="Oh the things you can do that are good for you image" style="width: 40%;">
 
 **Oh, the Things You Can Do That Are Good for You**
 by Tish Rabe
@@ -59,7 +59,7 @@ The Cat in the Hat teaches young readers the basics of healthy living including 
 
 This eBook is available on Overdrive at: [https://nlb.overdrive.com/media/4704987](https://nlb.overdrive.com/media/4704987)
 
-![My weird school fast facts sports image](/images/diyresources/primary/x300.jpg)
+<img src="/images/diyresources/primary/x300.jpg" alt="My weird school fast facts sports image" style="width: 54%;">
 
 **My Weird School Fast Facts: Sports**
 by Dan Gutman
@@ -69,7 +69,7 @@ Whether you’re a kid who wants to know more about sports or just someone who i
 
 This eBook is available on OverDrive at: [https://nlb.overdrive.com/media/2405086](https://nlb.overdrive.com/media/2405086)
 
-### ** Tip for Parents**
+#### **Tip for Parents**
 
 When outdoor play isn’t an option, make screen time an active time through dance videos and interactive video games.
 
@@ -80,7 +80,7 @@ All websites were last accessed on 25 May 2020
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-### **Science Exploration**
+#### **Science Exploration**
 
 Sink or float? Get creative in exploring the concept of density and find out!
 
@@ -95,13 +95,13 @@ You’ll need:
 
 Try this out and tag us at @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I2bjA-3Vn6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/I2bjA-3Vn6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Source: [Sink or Float Density Tower Science Experiments for Kids!!!](https://www.youtube.com/watch?v=I2bjA-3Vn6E&list=PLasCX3wfxLR3nEKMhsCUjyi5f4W6Rg6wf&index=22&t=0s) (September 2019)
 
-### **Be Curious!**
+#### **Be Curious!**
 
-![Snackable science experiments image](/images/diyresources/primary/Snackable-Science-Experiments.jpg)
+<img src="/images/diyresources/primary/Snackable-Science-Experiments.jpg" alt="Snackable science experiments image" style="width: 40%;">
 
 **Snackable Science Experiments (60 Edible Tests to Try and Taste)**
 by Emma Vanstone
@@ -111,7 +111,7 @@ Each experiment uses edible ingredients to reveal the properties of the foods we
 
 This eBook is available on OverDrive at [https://nlb.overdrive.com/media/4500313](https://nlb.overdrive.com/media/4500313)
 
-![30 minute chemistry projects image](/images/diyresources/primary/30-Minute-Chemistry-Projects.jpg)
+<img src="/images/diyresources/primary/30-Minute-Chemistry-Projects.jpg" alt="30 minute chemistry projects image" style="width: 40%;">
 
 **30-Minute Chemistry Projects**
 by Anna Leigh
@@ -121,7 +121,7 @@ Did you know that you can make plastic, snow, and even a lava lamp in less than 
 
 This eBook is available on OverDrive at [https://nlb.overdrive.com/media/4475877](https://nlb.overdrive.com/media/4475877)
 
-### **Tip for Parents**
+#### **Tip for Parents**
 
 Encourage scientific thinking in your child by exploring and finding answers together when your child asks you questions. Don’t jump in with the right answers immediately. Prompt questions and give your child some time to think and experiment.
 
@@ -131,7 +131,7 @@ All websites were last accessed on 15 May 2020
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-### **Yoga for Kids**
+#### **Yoga for Kids**
 
 Go on a fun yoga adventure and learn amazingly easy moves to relax with your child.
 
@@ -142,15 +142,15 @@ All you need are:
 
 Try this out and tag us at @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/40SZl84Lr7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/40SZl84Lr7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Source: [Betsy the Banana| A Cosmic Kids Yoga Adventure](https://youtu.be/40SZl84Lr7A) (31 January 2016)
 
-### **Be Curious!**
+#### **Be Curious!**
 
 Read these eBooks for more calming poses and mindfulness exercises.
 
-![Meddy teddy image](/images/diyresources/primary/Meddy-Teddy.jpg)
+<img src="/images/diyresources/primary/Meddy-Teddy.jpg" alt="Meddy teddy image" style="40%;">
 
 **Meddy Teddy: A Mindful Yoga Journey**
 by Apple Jordan, illustrated by Nicholas Hong
@@ -160,7 +160,7 @@ Say Namaste to Meddy Teddy, a rising star in the yogi world, in his debut pictur
 
 This book is available on Overdrive at [https://nlb.overdrive.com/library/kids/media/3866853](https://nlb.overdrive.com/library/kids/media/3866853)
 
-![Breathe like a bear image](/images/diyresources/primary/Breathe-Like-a-Bear.jpg)
+<img src="/images/diyresources/primary/Breathe-Like-a-Bear.jpg" alt="Breathe like a bear image" style="width: 40%;">
 
 **Breathe Like a Bear**
 by Kira Wiley, illustrated by Anni Betts
@@ -170,7 +170,7 @@ Breathe Like a Bear is a beautifully illustrated collection of mindfulness exerc
 
 This book is available on Overdrive at [https://nlb.overdrive.com/library/kids/media/3683261](https://nlb.overdrive.com/library/kids/media/3683261).
 
-### **Tip for Parents**
+#### **Tip for Parents**
 
 Yoga can help your kids to better their physical and mental health. Benefits include calming your kids, improving their focus and increasing their self-confidence.
 
@@ -180,7 +180,7 @@ All websites were last accessed on 4 May 2020
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
-### **Paper Crafts**
+#### **Paper Crafts**
 
 Looking for easy craft activities for children? Write thoughtful messages in these paper hearts to appreciate your family and friends.
 
@@ -194,15 +194,15 @@ You’ll need:
 
 Try this out and tag us at @publiclibrarysg with #librarysg
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D4XSlCCXyvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/D4XSlCCXyvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Source: [Paper Heart Flower Craft| Mothers Day Craft for Kids](https://www.youtube.com/watch?v=D4XSlCCXyvU&feature=youtu.be) (14 April 2018)
 
-### **Be Curious!**
+#### **Be Curious!**
 
 Check out these eBooks for ideas to transform paper into awesome creations.
 
-![Awsome paper projects image](/images/diyresources/primary/Paper-project.png)
+<img src="/images/diyresources/primary/Paper-project.png" alt="Awesome paper projects image" style="width: 40%;">
 
 **Awesome Paper Projects You Can Create (Imagine It, Build It)**
 by Marne Ventura
@@ -212,7 +212,7 @@ Don’t throw out those old newspapers and paper bags. Use them to make somethin
 
 This book is available on Overdrive at [https://nlb.overdrive.com/media/3690047](https://nlb.overdrive.com/media/3690047)
 
-![Origami games image](/images/diyresources/primary/origami.jpg)
+<img src="/images/diyresources/primary/origami.jpg" alt="Origami games image" style="width: 40%;">
 
 **Origami Games: Hands-on Fun for Kids!**
 by Joel Stern
@@ -226,7 +226,7 @@ This book is available on Overdrive at [https://nlb.overdrive.com/media/789053](
 For more stay-home activities to engage children, visit:
 [http://www.nlb.gov.sg/discovereads/diy-resources/](http://www.nlb.gov.sg/discovereads/diy-resources/)
 
-### **Tip for Parents**
+#### **Tip for Parents**
 
 School holidays provide an opportunity to create happy memories with our children. One-on-one time makes children feel loved and secure. Set aside 20 minutes, or longer each day to make them feel important.
 
