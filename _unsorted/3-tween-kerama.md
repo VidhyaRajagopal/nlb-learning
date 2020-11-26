@@ -20,15 +20,11 @@ Try your hand at the Tinker Sheets, a series of S.T.E.A.M.-related worksheets co
 
 These packages provide Tweens the opportunity to problem solve through a do-it-yourself activity. Simply follow the instructions and have fun!
 
-[![Paper helicopter image](/images/unsorted/tweenkerama/Tweens-Paper-Helicopter.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Paper-Helicopter.pdf)
+<a href="/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Paper-Helicopter.pdf"><img src="/images/unsorted/tweenkerama/Tweens-Paper-Helicopter.jpg" alt="Paper helicopter" style="width: 50%;"></a>
 
 Grab your printable template for the paper helicopter [here](/images/unsorted/tweenkerama/PopUp_copter_printing_templates_0615_001.pdf)!
 
-[![Flexagon image](/images/unsorted/tweenkerama/Tweens-Flexagon.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Flexagon.pdf)
-
-[![Origami frog image](/images/unsorted/tweenkerama/Tweens-Origami-Frog.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Frog.pdf)
-
-[![Zentangle image](/images/unsorted/tweenkerama/Tweens-Zentangle.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-Up-package-Zentangle.pdf)
+| [![Flexagon image](/images/unsorted/tweenkerama/Tweens-Flexagon.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Flexagon.pdf) | [![Origami frog image](/images/unsorted/tweenkerama/Tweens-Origami-Frog.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-up-Package-Frog.pdf) | [![Zentangle image](/images/unsorted/tweenkerama/Tweens-Zentangle.jpg)](/images/unsorted/tweenkerama/Tweens-Pop-Up-package-Zentangle.pdf) |
 
 
 ### **Tweenkerama Workshops**
@@ -39,7 +35,7 @@ Visit [nlb.gov.sg/golibrary](http://nlb.gov.sg/golibrary) for more information.
 
 ### **Tweenkerama Lab Mag**
 
-![Tween kerama image](/images/unsorted/tweenkerama/tweenkeramalabmagcover.jpg)
+<img src="/images/unsorted/tweenkerama/tweenkeramalabmagcover.jpg" alt="Tweenkerama lab mag image" style="width: 50%;">
 
 The only magazine you need for cool, creative and out-of-this world ideas and easy DIY projects.
 
@@ -50,6 +46,6 @@ Psst, want a sneak peak at Issue 3? Head down to STEAM Lab on 23-24 November to 
 Grab a copy of Issue #3 at the public libraries or download it [here](/images/unsorted/tweenkerama/FA-NLB-Tweenkerama_Issue-03-v2.pdf)! 
 Answer key for Issue #3 is available [here](/images/unsorted/tweenkerama/Tweenkerama-Issue-3-Answer-Key.pdf).
 
-Missed out on Issue #2? Download it [here](/images/unsorted/tweenkerama/Tweenkeramabooklet_Issue02_FA.pdf)!
+_Missed out on Issue #2? Download it [here](/images/unsorted/tweenkerama/Tweenkeramabooklet_Issue02_FA.pdf)!_
 
-Missed out on Issue #1?  Download it [here](/images/unsorted/tweenkerama/FA_Tweenkerama-Issue-1.pdf)!
+_Missed out on Issue #1?  Download it [here](/images/unsorted/tweenkerama/FA_Tweenkerama-Issue-1.pdf)!_
