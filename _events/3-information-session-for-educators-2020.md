@@ -130,7 +130,7 @@ Click on the links or scan the QR codes to access the eBooks. Physical copies ar
 
 | ![Sloth image](/images/events/informationsession/sloth.png) | ![Sloth qr](/images/events/informationsession/sloth-qr.jpg) |
 
-https://nlb.overdrive.com/media/3998882
+[https://nlb.overdrive.com/media/3998882](https://nlb.overdrive.com/media/3998882)
 
 Author: Ton Mak <br>
 Call No.: 158.12 MAK <br>
@@ -139,7 +139,7 @@ Year: 2018
 
 | ![Breathe like a bear image](/images/events/informationsession/bear.png) | ![Bear qr](/images/events/informationsession/bear-qr.jpg) |
 
-https://nlb.overdrive.com/media/3683261
+[https://nlb.overdrive.com/media/3683261](https://nlb.overdrive.com/media/3683261)
 
 Author: Kira Willey <br>
 Call No.: 158.1 WIL <br>
@@ -148,7 +148,7 @@ Year: 2019
 
 | ![The stress survival guide for teens image](/images/events/informationsession/teen.png) | ![stress qr](/images/events/informationsession/teen-qr.jpg) |
 
-https://nlb.overdrive.com/media/4535219
+[https://nlb.overdrive.com/media/4535219](https://nlb.overdrive.com/media/4535219)
 
 Author: Jeffrey Bernstein <br>
 Call No.: 155.90 BER <br>
@@ -157,7 +157,7 @@ Year: 2019
  
 | ![Forest bathing image](/images/events/informationsession/forest.png) | ![Forest qr](/images/events/informationsession/forest-qr.jpg) |
 
-https://nlb.overdrive.com/media/5287164
+[https://nlb.overdrive.com/media/5287164](https://nlb.overdrive.com/media/5287164)
 
 Authors: Hector Garcia, Francesc Miralles <br>
 Call No.: 615.85 GAR-\[HEA\] <br>
