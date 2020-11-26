@@ -5,7 +5,7 @@ collection_name: diy-resources
 third_nav_title: Primary School Resources
 ---
 
-## **test**
+## **Primary**
 
 **Explore our D.I.Y. resources to foster the love of reading and learning at home and in school!*
 *
@@ -17,22 +17,22 @@ _(Updated on 8 August 2020)_
 
 | School Holiday Special | Storytime with Our Librarians | Quizzes *new | Literary Trivia | Learn About S.T.E.A.M. | Read and Craft | Read and Share | Decorate My Space | [Engage My Child in Reading](#engage-my-child-in-reading) | Let’s be S.U.R.E. |
 
-**School Holiday Special**
+#### **School Holiday Special**
 (click on the icon to find out more!)
 
-<a href="/images/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 30%;"></a>
+<a href="/images/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 40%;"></a>
 
-**Storytime with Our Librarians**
+#### **Storytime with Our Librarians**
 
 Don’t let COVID-19 put a damper on your love 💗 for our libraries 📚. Stay connected with us through our online storytelling sessions. Let your evenings be filled with fascinating tales in the four official languages.
 
-<a href="/diy-resources/storytime/storytime-with-our-librarians"><img src="/images/diyresources/dR_storytime.png" style="width: 50%;"></a>
+<a href="/diy-resources/storytime/storytime-with-our-librarians"><img src="/images/diyresources/dR_storytime.png" style="width: 40%;"></a>
 
-**Quizzes _*new_**
+#### **Quizzes _*new_**
 
-[![Dare to read quiz image](/images/diyresources/primary/DTR-Quiz-Poster.png)](https://www.opinionstage.com/content-717/dare-to-read-singapore-edition)
+<a href="https://www.opinionstage.com/content-717/dare-to-read-singapore-edition"><img src="/images/diyresources/primary/DTR-Quiz-Poster.png" alt="Dare to Read image" style="width: 60%;"></a>
 
-### **Literary Trivia**
+#### **Literary Trivia**
 
 **Uncover your reading interest and challenge your lit knowledge!**
 
@@ -47,7 +47,7 @@ Not sure which type of books you enjoy reading most? Complete the Reading Intere
 **Reading Challenge**
 Up your reading game by completing our very own Reading Challenge:
 
-[![Primary reading challenge](/images/diyresources/primary/RC_Primary.jpg)](/images/diyresources/primary/Primary-Reading-Challenge-12052020.pdf)
+<a href="/images/diyresources/primary/Primary-Reading-Challenge-12052020.pdf"><img src="/images/diyresources/primary/RC_Primary.jpg" alt="Reading challenge image" style="width: 60%;">
 
 **POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp Booklet (30 mins)**
 Want to put your literary knowledge to the test? Download the POSB-NLB Kids’ Lit QuizTM Survival Kit and Literary Boot Camp booklet to see how much you know!
@@ -57,7 +57,7 @@ P4-P6
 | **Survival Kit** | **Literary Boot Camp** |
 | [![Survival quiz image](/images/diyresources/primary/KLQ-survival-kit.jpg)](/images/diyresources/primary/NLB_Booklet_9-MAR.pdf) | [![Literary boot camp image](/images/diyresources/primary/KLQ-LBC.jpg)](/images/diyresources/primary/NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf) |
 
-**Learn about S.T.E.A.M.**
+#### **Learn about S.T.E.A.M.**
 **Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these activities.**
 
 **Tinker Truck Worksheets (15 mins)**
@@ -87,13 +87,11 @@ Cool, creative, out-of-this world ideas and easy DIY projects on STEAM topics an
 
 P4 - P6
 
-![Tween kerama image](/images/diyresources/primary/tweenkeramalabmagcover.jpg)
+<img src="images/diyresources/primary/tweenkeramalabmagcover.jpg" alt="Tweenkerama image" style="width: 50%;">
 
-Issue #1 [here](/images/diyresources/primary/FA_Tweenkerama-Issue-1.pdf)
-Issue #2 [here](/images/diyresources/primary/Tweenkeramabooklet_Issue02_FA.pdf)
-Issue #3 [here](/images/diyresources/primary/FA-NLB-Tweenkerama_Issue-03-v2.pdf)
+| Issue #1 [here](/images/diyresources/primary/FA_Tweenkerama-Issue-1.pdf) | Issue #2 [here](/images/diyresources/primary/Tweenkeramabooklet_Issue02_FA.pdf) | Issue #3 [here](/images/diyresources/primary/FA-NLB-Tweenkerama_Issue-03-v2.pdf) | 
 
-**Read and Craft**
+#### **Read and Craft**
 **Pick a short read and create a story-based craft.**
 
 **PopReads! (20 mins)**
@@ -104,6 +102,7 @@ P1 – P3
 | [![Up up and away image](/images/diyresources/primary/upupandaway.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-5_Up-Up-Away_v07-FAP-web.pdf) | [![Dragon dancer image](/images/diyresources/primary/PopReads-Dragon-Dancer.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-6_Dragon-Dancer_v06-FAP-web.pdf) | 
 | [![Decode me image](/images/diyresources/primary/popReads-Decode-me.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.pdf) | [![Just keep running image](/images/diyresources/primary/Just-keep-running.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.pdf) |
 
+#### **Read and Share**
 
 | **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** |
 | <a href="/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-zecky-cover.png" alt="Zecky image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.pdf"><img src="/images/unsorted/monstersunited/mu-rooky-cover.png" alt="Rooky image" style="width: 50%;"></a> |
@@ -117,7 +116,7 @@ In this activity, students swap and share books with one another, prompting inte
 
 | **RSS Facilitator’s Guide** | **RSS Worksheet Primary 1 to 2 (Basic)** |
 | [![Reading image](/images/diyresources/primary/reading-1496139_640.png)](/images/diyresources/primary/RSS-Slides.pptx) | [![RSS image](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.pdf) | 
-| [![RSS advanced image](/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.pdf) | [![RSS non fiction image](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.pdf) |
+| <a href="/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.pdf"><img src="/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.png" alt="RSS advanced image" style="width: 70%;"></a> | [![RSS non fiction image](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.pdf) |
 
 **Read Reap Write (30 mins)**
 Students explore how stories relate to the world around them through a series of engaging discussions and activities. By reading and reflecting on thought-provoking extracts from great books, students will be encouraged to think critically and draw parallels between what is described in the extracts and their real-life experiences.
@@ -135,7 +134,7 @@ Call Number: JS REE
 
 P5 – P6
 
-![Fish in a tree image](/images/diyresources/primary/rrw-fish-in-a-tree.png)
+<img src="/images/diyresources/primary/rrw-fish-in-a-tree.png" style="width: 50%;">
 
 Title: [Fish in a Tree](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=201282164)
 Author: Lynda Mullaly Hunt
@@ -154,7 +153,7 @@ Call Number: J JIN
 [RRW Primary Saving Thanehaven Worksheet and Extract](/images/diyresources/primary/NLB_Read-Reap-Write-Booklet-Pri_Fantasy_FA.pdf)
 [RRW Primary Saving Thanehaven Facilitator’s Guide](/images/diyresources/primary/P6_SavingThanehaven_FacilitatorGuide_FINAL.pdf)
 
-**Decorate My Space**
+#### **Decorate My Space**
 **Print out and put up these eye-catching posters and entertaining activities!**
 
 **Posters (5 mins)**
@@ -165,9 +164,9 @@ Call Number: J JIN
 **Activities (30 mins)**
 Suggested activities to liven up reading corners everywhere!
 
-[![Activities image](/images/diyresources/primary/SLM-activity.jpg)](/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.pdf)
+<a href="/images/diyresources/primary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.pdf"><img src="/images/diyresources/primary/SLM-activity.jpg" alt="Activities" style="width: 50%;"></a>
 
-### <a name="engage-my-child-in-reading">**Engage My Child in Reading**</a>
+#### <a name="engage-my-child-in-reading">**Engage My Child in Reading**</a>
 **Read these dedicated guides for parents and educators.**
 
 **Raising Readers**
@@ -196,25 +195,24 @@ This video is part of a series on parenting tips during home-based learning, bro
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x37aJ3jANGk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-**Learn To Be S.U.R.E.**
+#### **Learn To Be S.U.R.E.**
 Are you savvy enough to face the pitfalls of the internet? Get SURE-vival tips through these S.U.R.E. (Source Understand Research Evaluate) activities!
 
 **S.U.R.E. Toolkit (45 min)**
 Get tips on how to be online savvy and combat fake news through insightful activities, based on the four basic S.U.R.E. skills: Source, Understand, Research and Evaluate.
 
 P4 – P6
-
 **Fake News #1**
 
 | SURE Infographic | SURE Toolkit Activity Sheet |
-| ![Sure infographic image](/images/sure/Infographic-Facing-Up-to-Fake-News.jpg) | [![Sure toolkit image](/images/sure/Capture4.png)](/images/sure/SURE-Kit-Activity-Sheet-FA.pdf) |
+| <a href="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg"><img src="/images/sure/Infographic-Facing-Up-to-Fake-News.jpg" alt="Sure infographic image" style="width: 50%;"></a> | <a href="/images/sure/SURE-Kit-Activity-Sheet-FA.pdff"><img src="/images/sure/Capture4.png" alt="Sure toolkit image" style="width: 100%;"></a> 
 | SURE Toolkit Map |
 | [![Sure toolkit map image](/images/sure/Capture-2.png)](/images/sure/SURE-Kit-A3-Map-FA.pdf) |
 
 **Fake News #2**
 
 | Activity Sheet | SURE-vivor Booklet |
-| [![Activity sheet image](/images/sure/Capture-3.png)](/images/sure/FA_08030218_READ-LIKE-A-DETECTIVE.pdf) | [![Sure-vivor image](/images/sure/Capture.png)](/images/sure/FA_SUREvivor-booklet-06032020.pdf) |
+| <a href="/images/sure/FA_08030218_READ-LIKE-A-DETECTIVE.pdf"><img src="/images/sure/Capture-3.png" alt="Activity sheet image" style="width: 70%;"></a> | <a href="/images/sure/FA_SUREvivor-booklet-06032020.pdf"><img src="/images/sure/Capture.png" alt="Sure-vivor image" style="width: 100%;"></a> 
 
 For more great information literacy resources, click [here](services/other-services/sure)!
 
