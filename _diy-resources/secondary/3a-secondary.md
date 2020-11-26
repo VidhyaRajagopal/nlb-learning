@@ -15,7 +15,7 @@ _(Updated on 17 July 2020)_
 
 **What do you want to do today?**
 
-| [School Holiday Special](/diy-resources/secondary/teen-things) | Literary Trivia | Learn About S.T.E.A.M. | Read and Craft | Read and Share | Decorate My Space  | Let’s be S.U.R.E. |
+| [School Holiday Special](/diy-resources/secondary/teen-things) | [Literary Trivia](#lit-trivia) | [Learn About S.T.E.A.M.](#steam) | [Read and Craft](#read-craft) | [Read and Share](#read-share) | D[ecorate My Space](#decorate) | [Let’s be S.U.R.E.](#sure) |
 
 ### **School Holiday Special**
 
@@ -23,7 +23,7 @@ _(Updated on 17 July 2020)_
 
 <a href="/diy-resources/secondary/teen-things"><img src="/images/diyresources/dR-Holiday-Secondary-amended.png" style="width: 40%;"></a>
 
-### **Uncover your reading interest and challenge your lit knowledge!**
+### <a name="lit-trivia">**Uncover your reading interest and challenge your lit knowledge!**</a>
 
 **Reading Interest Profile (15 mins)**
 
@@ -47,7 +47,7 @@ Sec 1
 | **Survival Kit** | **Literary Boot Camp** |
 [![Survival kit image](/images/diyresources/secondary/KLQ-survival-kit.jpg)](/images/diyresources/secondary/NLB-Booklet_9-MAR.pdf) | [![Literary boot camp image](/images/diyresources/secondary/KLQ-LBC.jpg)](NLB_KidsLitQuiz-A5-LBC-Booklet-16PP_v4_c.pdf) |
 
-### **Learn about S.T.E.A.M.**
+### <a name="steam">**Learn about S.T.E.A.M.**</a>
 Discover the joy of Science, Technology, Engineering, Arts and Maths (S.T.E.A.M.) through these activities.
 
 **DIY Tweens Packages (30 mins)**
@@ -65,7 +65,7 @@ Cool, creative, out-of-this world ideas and easy DIY projects on STEAM topics an
 
 | Issue #1 [here](/images/diyresources/secondary/FA_Tweenkerama-Issue-1.pdf) | Issue #2 [here](/images/diyresources/secondary/Tweenkeramabooklet_Issue02_FA.pdf) | Issue #3 [here](/images/diyresources/secondary/FA-NLB-Tweenkerama_Issue-03-v2.pdf) |
 
-### **Read and Craft**
+### <a name="read-craft">**Read and Craft**</a>
 Pick a short read and create a story-based craft.
 
 **PopReads! (20 mins)**
@@ -75,7 +75,7 @@ Help students relate to books based on STELLAR themes to their everyday lives wi
 
 <a href="/images/diyresources/secondary/NLB-PopReads-A3-Worksheet-1_Unscramble-Me_v08-FAP-web.pdf"><img src="/images/diyresources/secondary/unscramble-me.png" alt="Unscramble me image" style="width: 40%;"></a>
 
-### **Read and Share**
+### <a name="read-share">**Read and Share**</a>
 **Share your thoughts on your favourite reads and intriguing book excerpts.**
 
 **Read Reap Write (30 mins)**
@@ -85,7 +85,9 @@ Sec 1 – Sec2
 <img src="/images/diyresources/secondary/shortstoriesandradioplaysofsrajaratnam.jpg" alt="The short stories and radio plays of s rajaratnam image" style="width: 30%;">
 
 Title: [Short Stories and Radio Plays of S. Rajaratnam](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=13792223)
+
 Author: S. Rajaratnam
+
 Call Number: SING RAJ
 
 | [RRW Secondary Short Stories & Radio Plays of S. Rajaratnam Worksheet and Extract](/images/diyresources/secondary/RRWSecondaryRadioPlaysFAlowres-1.pdf) | 
@@ -94,7 +96,9 @@ Call Number: SING RAJ
 <img src="/images/diyresources/secondary/Hatchet.jpg" alt="Hatchet image" style="width: 30%;">
 
 Title: [Hatchet](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=8801620)
+
 Author: Gary Paulsen
+
 Call Number: Y PAU
 
 | [RRW Secondary Hatchet Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Hatchet-Worksheet-and-Extract.pdf) | 
@@ -104,7 +108,9 @@ Sec 3 – Sec 4
 <img src="/images/diyresources/secondary/50-stories-of-my-life_SR-NATHAN.jpg" style="width: 30%;">
 
 Title: [S R Nathan: 50 stories from my life](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=200132009)
+
 Author: S. R. Nathan
+
 Call Number: J SING 959.5705092 NAT
 
 | [RRW Secondary S R Nathan 50 Stories from my Life Worksheet and Extract](/images/diyresources/secondary/RRWSecondary50StoriesFAlowres-1.pdf) |
@@ -113,7 +119,9 @@ Call Number: J SING 959.5705092 NAT
 <img src="/images/diyresources/secondary/Words.jpeg" style="width: 30%;">
 
 Title: [&Words: Poems Singapore and Beyond](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=13668713)
+
 Edited by: Edwin Thumboo
+
 Call Number: Y SING S821 WOR
 
 | [RRW Secondary &Words Poems Singapore and Beyond Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Words-Poems-Singapore-and-Beyond-Worksheet-and-Extract.pdf) |
@@ -122,13 +130,15 @@ Call Number: Y SING S821 WOR
 <img src="/images/diyresources/secondary/Viridian_SusanGates.jpg" alt="Viridian image" style="width: 30%;">
 
 Title: [Viridian](http://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/EXPNOS/BIBENQ?BRN=200165574)
+
 Author: Susan Gates
+
 Call Number: Y GAT
 
 | [RRW Secondary Viridian Worksheet and Extract](/images/diyresources/secondary/RRW-Secondary-Viridian-Worksheet-and-Extract.pdf) |
 [RRW Secondary Viridian Facilitator’s Guide](/images/diyresources/secondary/RRW-Secondary-Viridian-Facilitators-Guide.pdf) |
 
-### **Decorate My Space**
+### <a name="decorate">**Decorate My Space**</a>
 **Print out and put up these eye-catching posters and entertaining activities!**
 
 **Posters (5 mins)**
@@ -153,7 +163,7 @@ Suggested activities to liven up reading corners everywhere!
 
 <a href="images/diyresources/secondary/FA_NLB_SchoolLibraryMakeover_Inner-Pages.pdf"><img src="/images/diyresources/secondary/SLM-activity-SEC.jpg" alt="Golden ticket image" style="width: 50%;"></a>
 
-### **Learn To Be S.U.R.E.**
+### <a name="sure">**Learn To Be S.U.R.E.**</a>
 **Are you savvy enough to face the pitfalls of the internet? Get SURE-vival tips through these S.U.R.E. (Source Understand Research Evaluate) activities!**
 
 **EYEYAH! You S.U.R.E. or not? (20 min)**
