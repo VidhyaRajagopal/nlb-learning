@@ -19,7 +19,7 @@ Looking for inspiration on how to make reading exciting in your schools? Stay in
 [Collection Development: From Pilot to Practice](#collection-development-from-pilot-to-practice) | [Comics and Picture Books: Motivating Reluctant Readers](#comics-and-picture-books-motivating-reluctant-readers) | [From the Selector’s Desk](#from-the-selectors-desk)
 
 **NLB Services and Resources** <br>
-[National Library Resources for Teachers and Students](#national-library-resources-for-teachers-and-students) | [One Story: Dharma’s Chariot](#one-story-dhramas-chariot) | [Engaging Children and Teens](#engaging-children-and-teens) | [Read@School Services](#readschool-services)
+[National Library Resources for Teachers and Students](#national-library-resources-for-teachers-and-students) | [One Story: Dharma’s Chariot](#one-story-dharmas-chariot) | [Engaging Children and Teens](#engaging-children-and-teens) | [Read@School Services](#readschool-services)
 
 ### **Mindfulness for Educators**
 
