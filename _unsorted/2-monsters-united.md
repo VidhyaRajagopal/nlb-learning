@@ -25,15 +25,17 @@ Click on the images below to start your fang-tastic journey. Have a spook-tacula
 
 <a name="the-great-library-escape-escape-room-game">**The Great Library Escape (Escape Room Game)**</a> <br>
 Use your wits and help the monsters escape a mysterious library!
-_(Click on the image to begin)_
 
 <a href="https://www.opinionstage.com/rooktober_escape-room/rooktober-fest-the-great-library-escape"><img src="/images/unsorted/monstersunited/00.png" alt="Rooktober escape room image" style="width: 60%;"></a>
+<p style="text-align: center;"><i>(Click on the image to begin)</i></p>
+
 
 <a name="the-story-of-king-midas">**The Story of King Midas**</a> <br>
 Teen Reading Ambassadors Zoe and Ziv tell the tale of King Midas in this dramatised storytelling.
-_(Click on the image to watch the storytelling video)_
 
 <a href="https://www.facebook.com/publiclibrarysg/videos/814990779285352"><img src="/images/unsorted/monstersunited/Rooktober-Storytime.png" alt="Rooktober storytime image" style="width: 60%;"></a>
+<p style="text-align: center;"><i>(Click on the image to watch the storytelling video)</i></p>
+
 
 <a name="diy-halloween-wings">**DIY Halloween Wings with Rooky!**</a>  <br>
 Create your very own wings with Rooky in this DIY craft video.
@@ -59,37 +61,37 @@ Click on the links below to borrow Rooky’s eBook picks:
 
 <a name="gods-mythologies">**Gods & Mythologies From Around the World**</a>  <br>
 Find out about interesting myths and stories from around the world.  <br>
-_(Click on the image to begin)_
 
 <a href="https://go.gov.sg/nlb-rooktober2020-myths"><img src="/images/unsorted/monstersunited/Gods-and-Myths.png" alt="Gods & myths around the world image" style="width: 60%;"></a>
-  
+<p style="text-align: center;"><i>(Click on the image to begin)</i></p>
+
 
 <a name="mythical-creatures">**Mythical Creatures From Around the World**</a> <br>
 Come delve into the wonderful, weird, and sometimes wacky world of monsters. <br>
-_(Click on the image to begin)_
 
 <a href="https://go.gov.sg/nlb-rooktober2020-creatures"><img src="/images/unsorted/monstersunited/Mythical-Creatures.png" alt="Mythical creatures image" style="width: 60%;"></a>
+<p style="text-align: center;"><i>(Click on the image to begin)</i></p>
 
 
 <a name="halloween-jokes">**Halloween Jokes to Share!**</a> <br>
 Tickle your funny bone and keep your spirits high with these Halloween-themed jokes.  <br>
-_(Click on the image to begin)_
 
 <a href="https://go.gov.sg/nlb-rooktoberfest2020-jokes"><img src="/images/unsorted/monstersunited/Jokes.png" alt="Halloween jokes image" style="width: 60%;"></a>
+<p style="text-align: center;"><i>(Click on the image to begin)</i></p>
 
 
 <a name="halloween-fun-facts">**Fun Facts About “Halloween” From Around the World**</a>  <br>
 Find out more about how “Halloween” is experienced by different cultures around the world.  <br>
-_(Click on the image to begin)_
 
 <a href="https://go.gov.sg/rf-halloweenfacts2020"><img src="/images/unsorted/monstersunited/Fun-Facts.png" alt="Fun facts image" style="width: 60%;"></a>
+<p style="text-align: center;"><i>(Click on the image to begin)</i></p>
 
 
 <a name="spooky-ereads">**Rooky’s Spooky eBOOklist**</a> <br>
 We’re creepin’ it real with these spine-tingling, hair-raising eReads. <br>
-_(Click on the image to begin)_
 
 <a href="/images/unsorted/monstersunited/Rooktober-eBooklist.pdf"><img src="/images/unsorted/monstersunited/Rooktober-eBOOklist.png" alt="Rooktober ebooks image" style="width: 70%;"></a>
+<p style="text-align: center;"><i>(Click on the image to begin)</i></p>
 
 _(Last updated on 15 October 2020)_
 
