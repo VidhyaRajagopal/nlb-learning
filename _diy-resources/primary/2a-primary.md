@@ -18,7 +18,7 @@ _(Updated on 8 August 2020)_
 | School Holiday Special | Storytime with Our Librarians | Quizzes *new | Literary Trivia | Learn About S.T.E.A.M. | Read and Craft | Read and Share | Decorate My Space | [Engage My Child in Reading](#engage-my-child-in-reading) | Let’s be S.U.R.E. |
 
 #### **School Holiday Special**
-(click on the icon to find out more!)
+_(Click on the icon to find out more!)_
 
 <a href="/images/diy-resources/primary/stay-curious-with-your-child"><img src="/images/diyresources/dR-Holiday-Primary.png" style="width: 40%;"></a>
 
@@ -115,7 +115,7 @@ P1 – P3
 In this activity, students swap and share books with one another, prompting interesting book-related conversations. Use these worksheets as a guide as you borrow our [eBooks](/ebooks/ebook-nav)!
 
 | **RSS Facilitator’s Guide** | **RSS Worksheet Primary 1 to 2 (Basic)** |
-| [![Reading image](/images/diyresources/primary/reading-1496139_640.png)](/images/diyresources/primary/RSS-Slides.pptx) | [![RSS image](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.pdf) | 
+| <a href="/images/diyresources/primary/RSS-Slides.pptx"><img src="/images/diyresources/primary/reading-1496139_640.png" alt="Reading image" style="width: 70%;"></a> | [![RSS image](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-1-to-2-Basic-FA-for-Print.pdf) | 
 | <a href="/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.pdf"><img src="/images/diyresources/primary/RSS-Primary-3-to-4-Advanced-FA-for-Print.png" alt="RSS advanced image" style="width: 70%;"></a> | [![RSS non fiction image](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.png)](/images/diyresources/primary/RSS-Primary-5-to-6-Non-Fiction-FA-for-Print.pdf) |
 
 **Read Reap Write (30 mins)**
@@ -172,7 +172,7 @@ Suggested activities to liven up reading corners everywhere!
 **Raising Readers**
 This guide provides information on how parents can instill a love of reading in their children.
 
-<a href="/images/diyresources/primary/Raising-Readers.pdf"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 50%;"</a>
+<a href="/images/diyresources/primary/Raising-Readers.pdf"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 50%;>"</a>
 
 Topics covered include:
 
@@ -186,7 +186,7 @@ Topics covered include:
 **The Parents’ Welcome Kit: Ride of a Lifetime**
 This guide provides tips on how parents can kickstart their children’s reading journey.
 
-<a href="/images/diyresources/primary/PWK-2020_Final-min.pdf"><img src="/images/diyresources/primary/ride-of-a-lifetime-thumb" alt="Parents welcome kit image" style="width: 50%;"</a>
+<a href="/images/diyresources/primary/PWK-2020_Final-min.pdf"><img src="/images/diyresources/primary/ride-of-a-lifetime-thumb" alt="Parents welcome kit image" style="width: 50%;"></a>
 
 
 **Tips to get your kid reading**
