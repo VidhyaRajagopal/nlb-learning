@@ -104,8 +104,12 @@ P1 – P3
 | [![Up up and away image](/images/diyresources/primary/upupandaway.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-5_Up-Up-Away_v07-FAP-web.pdf) | [![Dragon dancer image](/images/diyresources/primary/PopReads-Dragon-Dancer.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-6_Dragon-Dancer_v06-FAP-web.pdf) | 
 | [![Decode me image](/images/diyresources/primary/popReads-Decode-me.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-4_Decode_v07-FAP-web.pdf) | [![Just keep running image](/images/diyresources/primary/Just-keep-running.png)](/images/diyresources/primary/NLB-PopReads-A3-Worksheet-3_Just-Keep-Running_v06-FAP-web.pdf) |
 
-| [![Zecky image](/images/unsorted/monstersunited/unnamed.png)](/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.pdf) | [![Rooky image](/images/unsorted/monstersunited/Rookys-Horrific-Adventure.png)](/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.pdf) | [![Camy image](/images/unsorted/monstersunited/camys-cver.png)](NLB_Camy-Puzzle-Notebook_FA.pdf) | [![Hutsy image](/images/unsorted/monstersunited/hutsys-cover.png)](/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf) |
-| **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** | **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
+
+| **ZECKY'S SPACE ADVENTURE** | **ROOKY'S HORRIFIC ADVENTURE** |
+| <a href="/images/unsorted/monstersunited/NLB_Zecky-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-zecky-cover.png" alt="Zecky image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB_Rooky-Puzzle-Notebook.pdf"><img src="/images/unsorted/monstersunited/mu-rooky-cover.png" alt="Rooky image" style="width: 50%;"></a> |
+
+| **CAMY'S FANTASTICAL ADVENTURE** | **HUTSY'S GREATEST ADVENTURE** |
+| <a href="/images/unsorted/monstersunited/NLB_Camy-Puzzle-Notebook_FA.pdf"><img src="/images/unsorted/monstersunited/mu-camy-cover.png" alt="Camy image" style="width: 50%;"></a> | <a href="/images/unsorted/monstersunited/NLB-Hutsy Puzzle Notebook-FA-compressed.pdf"><img src="/images/unsorted/monstersunited/mu-hutsy-cover.png" alt="Hutsy image" style="width: 50%;"></a> |
 
 
 **Read Swap Share (30 mins)**
@@ -169,7 +173,7 @@ Suggested activities to liven up reading corners everywhere!
 **Raising Readers**
 This guide provides information on how parents can instill a love of reading in their children.
 
-[![Raising readers toolkit image](/images/diyresources/primary/rr-thumb.png)](/images/diyresources/primary/Raising-Readers.pdf)
+<a href="/images/diyresources/primary/Raising-Readers.pdf"><img src="/images/diyresources/primary/rr-thumb.png" alt="Raising readers image" style="width: 50%;"</a>
 
 Topics covered include:
 
@@ -179,10 +183,11 @@ Topics covered include:
 * NLB eResources
 * Reading at P1
 
+
 **The Parents’ Welcome Kit: Ride of a Lifetime**
 This guide provides tips on how parents can kickstart their children’s reading journey.
 
-[![Ride of a lifetime image](/images/diyresources/primary/ride-of-lifetime-thumb.png)](/images/diyresources/primary/PWK-2020_Final-min.pdf)
+<a href="/images/diyresources/primary/PWK-2020_Final-min.pdf"><img src="/images/diyresources/primary/ride-of-a-lifetime-thumb" alt="Parents welcome kit image" style="width: 50%;"</a>
 
 
 **Tips to get your kid reading**
