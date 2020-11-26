@@ -49,25 +49,30 @@ Source: [Super fun KID’S Workout! 8-Minute HIIT fitness class for kids. Let’
 
 Read these eBooks to motivate your children to stay active and healthy.
 
+
 <img src="/images/diyresources/primary/Picture1.jpg" alt="Oh the things you can do that are good for you image" style="width: 40%;">
 
 **Oh, the Things You Can Do That Are Good for You**
-by Tish Rabe
+
+By Tish Rabe
 Publisher: Random House Children’s Books
 
 The Cat in the Hat teaches young readers the basics of healthy living including the importance of eating right, staying active, getting enough sleep, handwashing and even the best way to sneeze when you don’t have a tissue handy! Containing simple, fun suggestions for children to increase their activity throughout the day, this is a book that supports healthy bodies AND healthy minds!
 
 This eBook is available on Overdrive at: [https://nlb.overdrive.com/media/4704987](https://nlb.overdrive.com/media/4704987)
 
-<img src="/images/diyresources/primary/x300.jpg" alt="My weird school fast facts sports image" style="width: 54%;">
+
+<img src="/images/diyresources/primary/x300.jpg" alt="My weird school fast facts sports image" style="width: 40%;">
 
 **My Weird School Fast Facts: Sports**
+
 by Dan Gutman
 Publisher: HarperCollins
 
 Whether you’re a kid who wants to know more about sports or just someone who is curious why Major League Baseball umpires have to wear black underwear, this is the book for you!
 
 This eBook is available on OverDrive at: [https://nlb.overdrive.com/media/2405086](https://nlb.overdrive.com/media/2405086)
+
 
 #### **Tip for Parents**
 
@@ -79,6 +84,7 @@ Source:
 All websites were last accessed on 25 May 2020
 
 The book covers and synopses are the copyright of the respective publishing companies.
+
 
 #### **Science Exploration**
 
@@ -104,7 +110,8 @@ Source: [Sink or Float Density Tower Science Experiments for Kids!!!](https://ww
 <img src="/images/diyresources/primary/Snackable-Science-Experiments.jpg" alt="Snackable science experiments image" style="width: 40%;">
 
 **Snackable Science Experiments (60 Edible Tests to Try and Taste)**
-by Emma Vanstone
+
+By Emma Vanstone
 Publisher: Page Street Publishing
 
 Each experiment uses edible ingredients to reveal the properties of the foods we eat every day. Using the acid in vinegar to dissolve egg shells, baking soda to make The Best Fizzy Lemonade or boiling water to make Ice Cubes in a Flash, each project helps you understand the how and why of the world around you. With 60 unique scientific projects, Snackable Science Experiments will entertain and amaze for hours on end!
@@ -114,7 +121,8 @@ This eBook is available on OverDrive at [https://nlb.overdrive.com/media/4500313
 <img src="/images/diyresources/primary/30-Minute-Chemistry-Projects.jpg" alt="30 minute chemistry projects image" style="width: 40%;">
 
 **30-Minute Chemistry Projects**
-by Anna Leigh
+
+By Anna Leigh
 Publisher: Lerner Publishing Group
 
 Did you know that you can make plastic, snow, and even a lava lamp in less than 30 minutes? Clear, step-by-step instructions guide readers through the exciting science projects, and Science Takeaway sidebars explain the chemistry behind these cool creations.
@@ -150,25 +158,30 @@ Source: [Betsy the Banana| A Cosmic Kids Yoga Adventure](https://youtu.be/40SZl8
 
 Read these eBooks for more calming poses and mindfulness exercises.
 
-<img src="/images/diyresources/primary/Meddy-Teddy.jpg" alt="Meddy teddy image" style="40%;">
+
+<img src="/images/diyresources/primary/Meddy-Teddy.jpg" alt="Meddy teddy image" style="width: 40%;">
 
 **Meddy Teddy: A Mindful Yoga Journey**
-by Apple Jordan, illustrated by Nicholas Hong
+
+By Apple Jordan, illustrated by Nicholas Hong
 Publisher: Random House Children’s Books
 
 Say Namaste to Meddy Teddy, a rising star in the yogi world, in his debut picture book! In his first-ever companion book, Meddy Teddy encourages readers to try yoga poses as he comes out of hibernation, greets the springtime, and teaches his forest friends how to mindfully get through a variety of situations.
 
 This book is available on Overdrive at [https://nlb.overdrive.com/library/kids/media/3866853](https://nlb.overdrive.com/library/kids/media/3866853)
 
+
 <img src="/images/diyresources/primary/Breathe-Like-a-Bear.jpg" alt="Breathe like a bear image" style="width: 40%;">
 
 **Breathe Like a Bear**
-by Kira Wiley, illustrated by Anni Betts
+
+By Kira Wiley, illustrated by Anni Betts
 Publisher: Random House Children’s Books
 
 Breathe Like a Bear is a beautifully illustrated collection of mindfulness exercises designed to teach kids techniques for managing their bodies, breath, and emotions. Best of all, these 30 simple, short breathing practices and movements can be performed anytime, anywhere. This book is sure to help kids find calm, gain focus, and feel energized during the day.
 
 This book is available on Overdrive at [https://nlb.overdrive.com/library/kids/media/3683261](https://nlb.overdrive.com/library/kids/media/3683261).
+
 
 #### **Tip for Parents**
 
@@ -179,6 +192,7 @@ Source: [More than just a game: Yoga for school-age children](https://www.health
 All websites were last accessed on 4 May 2020
 
 The book covers and synopses are the copyright of the respective publishing companies.
+
 
 #### **Paper Crafts**
 
@@ -198,24 +212,29 @@ Try this out and tag us at @publiclibrarysg with #librarysg
 
 Source: [Paper Heart Flower Craft| Mothers Day Craft for Kids](https://www.youtube.com/watch?v=D4XSlCCXyvU&feature=youtu.be) (14 April 2018)
 
+
 #### **Be Curious!**
 
 Check out these eBooks for ideas to transform paper into awesome creations.
 
+
 <img src="/images/diyresources/primary/Paper-project.png" alt="Awesome paper projects image" style="width: 40%;">
 
 **Awesome Paper Projects You Can Create (Imagine It, Build It)**
-by Marne Ventura
+
+By Marne Ventura
 Publisher: Capstone. 2017
 
 Don’t throw out those old newspapers and paper bags. Use them to make something cool instead! Artistic readers will love making awesome paper projects such as origami puzzle cubes, Chinese finger puzzles, amazing space stations, and much more. Easy step-by-step instructions will have readers making awesome paper creations in no time!
 
 This book is available on Overdrive at [https://nlb.overdrive.com/media/3690047](https://nlb.overdrive.com/media/3690047)
 
+
 <img src="/images/diyresources/primary/origami.jpg" alt="Origami games image" style="width: 40%;">
 
 **Origami Games: Hands-on Fun for Kids!**
-by Joel Stern
+
+By Joel Stern
 Publisher: Tuttle Publishing, 2010
 Call Number: English736.982 STE -\[ART\]
 
@@ -225,6 +244,7 @@ This book is available on Overdrive at [https://nlb.overdrive.com/media/789053](
 
 For more stay-home activities to engage children, visit:
 [http://www.nlb.gov.sg/discovereads/diy-resources/](http://www.nlb.gov.sg/discovereads/diy-resources/)
+
 
 #### **Tip for Parents**
 
