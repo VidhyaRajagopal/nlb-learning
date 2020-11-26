@@ -13,7 +13,7 @@ Looking for inspiration on how to make reading exciting in your schools? Stay in
 [Mindfulness for Educators](#mindfulness-for-educators) | [eBook recommendations](#ebook-recommendations) | [Tips on Mindfulness](#tips-on-mindfulness)
 
 **Transforming Reading and Learning Spaces** <br>
-[First Toa Payoh Reading Challenge](#first-toa-payoh-reading-challenge) | [Library Redesign and Revamp Boon Lay Secondary](#library-redesign-and-revamp-boon-lay-secondary) | [Temasek Primary Media Resource Library](#temasek-primary-media-resource-library) | [School Library Revamp: The Way Forward](#school-library-revamp-the-way-forward)
+[First Toa Payoh Reading Challenge](#first-toa-payoh-reading-challenge) | [Library Redesign and Revamp Boon Lay Secondary](#library-redesign-and-revamp-boon-lay-secondary) | [Temasek Primary Media Resource Library](#temasek-primary-media-resource-library) | [School Library Revamp: The Way Forward](#nlb-school-library-revamp-the-way-forward)
 
 **Collection Development and Reading Promotion** <br>
 [Collection Development: From Pilot to Practice](#collection-development-from-pilot-to-practice) | [Comics and Picture Books: Motivating Reluctant Readers](#comics-and-picture-books-motivating-reluctant-readers) | [From the Selector’s Desk](#from-the-selectors-desk)
