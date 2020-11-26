@@ -26,7 +26,7 @@ Click on the images below to start your fang-tastic journey. Have a spook-tacula
 <a name="the-great-library-escape-escape-room-game">**The Great Library Escape (Escape Room Game)**</a> <br>
 Use your wits and help the monsters escape a mysterious library!
 
-<a href="https://www.opinionstage.com/rooktober_escape-room/rooktober-fest-the-great-library-escape"><img src="/images/unsorted/monstersunited/00.png" alt="Rooktober escape room image" style="width: 60%;"></a><br>
+<a href="https://www.opinionstage.com/rooktober_escape-room/rooktober-fest-the-great-library-escape"><img src="/images/unsorted/monstersunited/00.png" alt="Rooktober escape room image" style="width: 60%;"></a>
 <p style="text-align: center;"><i>(Click on the image to begin)</i></p>
 
 
