@@ -50,6 +50,7 @@ Read these eBooks for more transformative ideas for your space and lifestyle.
 **Room Love: 50 DIY Projects to Design Your Space**
 
 By Heather Wutschke
+
 Publisher: Capstone
 
 A floor, a ceiling, and four boring walls? No more! Get creative, show your room some love, and turn your personal space into your happy place. Show off your style and personality with DIY pizzazz to makeover furniture, create one-of-a-kind decor, and organize your stuff with dozens of projects and ideas to make your room as unique as you are!
@@ -62,6 +63,7 @@ This eBook is available on OverDrive at: [https://nlb.overdrive.com/media/369065
 **Living Simply: A Teen Guide to Minimalism**
 
 By Sally McGraw
+
 Publisher: Lerner Publishing Group
 
 Minimalism has evolved into an Earth-friendly lifestyle focusing on the three Rs (reducing, recycling, and reusing) and on simplifying individual needs to reduce one’s carbon imprint. Hands-on activities, how-to tips, and profiles of practicing minimalists offer real-world examples for incorporating minimalism into your life.
@@ -111,6 +113,7 @@ Read these eBooks for mind-blowing science facts and revelations on quirky food 
 **Everyday Amazing**
 
 By Beatrice the Biologist
+
 Publisher: Adams Media
 
 Learn the basics of atomic science, sound waves, bioscience, microbiology, and more in accessible chapters offering a fresh perspective on concepts you may have learned about, but aren’t totally clear on. Quirky illustrations throughout add to the fun!
@@ -123,6 +126,7 @@ This eBook is available on Overdrive at [https://nlb.overdrive.com/media/4500950
 **Did You Just Eat That? (Two Scientists Explore Double-Dipping, the Five-Second Rule, and other Food Myths in the Lab)**
 
 By Paul Dawson & Brian Sheldon
+
 Publisher: W. W. Norton & Company
 
 Food scientists, Paul Dawson and Brian Sheldon, take readers into the lab to show how they determine the number of bacteria that get transferred by sharing utensils or how many microbes live on restaurant menus. Written with candid humor and richly illustrated, this fascinating book will reveal surprising answers to the most frequently debated questions about food and germs.
@@ -171,6 +175,7 @@ Read these eBooks to step up your food game.
 **Noodlemania! 50 Playful Pasta Recipes**
 
 By Melissa Barlow
+
 Publisher: Quirk Books
 
 You’ll go noodle crazy with the playful and colourful pasta recipes in Noodlemania! Try Super Stuffed Monster Mouths made with jumbo pasta shells, Rapunzel Pastamade with extra-long spaghetti and, Spider Cookies made with crunchy ramen noodles.  Have fun in the kitchen while sharpening your cooking skills with Noodlemania!
@@ -183,6 +188,7 @@ This book is available on Overdrive at [https://nlb.overdrive.com/media/1219921]
 **Maker Comics: Bake Like a Pro!**
 
 By Falynn Koch
+
 Publisher: First Second
 
 Sage’s fellow wizards-in-training get to study pyromancy and transfiguration, but Sage has been assigned an internship in…baking? She doesn’t think that sounds fun, or particularly magical! But her instructor insists that baking is a tasty form of alchemy. In an enchanted kitchen, Sage learns the simple science behind baking perfect pies, breads, cookies, and more!
@@ -221,6 +227,7 @@ Check out these eBooks to boost your Instagram creativity.
 **Cats on Instagram**
 
 By @cats_of_instagram
+
 Publisher: Chronicle Books
 
 Cat lovers, rejoice! This irresistible book compiles over 400 photos from the hugely popular Instagram profile @cats_of_instagram into a keepsake treasure. Playful categories including “bowties,” “surprise!,” and “happy cats” showcase all the charm and delightful quirks of the wide world of cats. This is an ebook that will have feline fans smiling in recognition, surprise, and appreciation.
@@ -233,6 +240,7 @@ This book is available on Overdrive at [https://nlb.overdrive.com/media/2688902]
 **A beautiful mess photo idea book : 95 inspiring ideas for photographing your friends, your world, and yourself**
 
 By Elsie Larson
+
 Publisher: Potter Style
 
 Ready to show your photos some love? Whether it’s of your sister’s smile, your morning coffee, or your new puppy, photos are a way to connect on Facebook and Instagram, keep a visual diary of our lives, and create momentos for future generations. Elsie Larson and Emma Chapman, creators of the mega-popular DIY style blog A Beautiful Mess, are in love with photographing everyday life. Here, they share that love with 95 all-new tips and photo challenges that will inspire you to style and snap better photos and then transform them into simple yet stunning projects and gifts. You’ll learn how to: Take the most flattering self-portraits; Be your own stylist to turn dull, cluttered photos into pretty lifestyle photography; Capture adorable couple portraits; Turn everyday moments, hobbies, and rituals into amazing photos.
