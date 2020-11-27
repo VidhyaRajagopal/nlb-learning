@@ -19,7 +19,7 @@ third_nav_title: Secondary School Resources
 
 With virtual travel and digital tours becoming increasingly common, you can now embark on a journey to faraway places all over the world from the comfort of your home! Click on the links and images to get started.
 
-##### **ASIA**
+##### **ASIA**<br>
 **Singapore**<br>
 Curious about our very own Lion city? Go on VR tours with Curiocity and travel back in time to discover and rediscover Singapore through story maps and photographs. Visit it [here](https://curiocity.nlb.gov.sg)!
 
@@ -28,7 +28,7 @@ Curious about our very own Lion city? Go on VR tours with Curiocity and travel b
 
 
 **Singapore Philatelic Museum, Singapore**<br>
-Travel to the fictional world of Planet B612 and catch a behind-the-scenes look at Antoine de Saint-Exupery's beloved book *The Little Prince* [here](https://nhb.gov.sg/spm/vr/TheLittlePrince/index.html)! Please note that Adobe Flashplayer or HTML5 Browser with WebGL or CSS3D support is required to access the site.
+Travel to the fictional world of Planet B612 and catch a behind-the-scenes look at Antoine de Saint-Exupery's beloved book *The Little Prince* [here](https://nhb.gov.sg/spm/vr/TheLittlePrince/index.html)! (Please note that Adobe Flashplayer or HTML5 Browser with WebGL or CSS3D support is required to access the site.)
 
 <a href="https://nhb.gov.sg/spm/vr/TheLittlePrince/index.html"><img src="/images/diyresources/secondary/tt-the-little-prince.png" alt="The Little Prince screengrab" style="width: 70%;"></a>
 <p style="text-align: center;"><sup>Source: Screengrab from <a href="https://nhb.gov.sg/spm">Singapore Philatelic Museum</a>.</sup></p>
@@ -47,7 +47,7 @@ Traverse the last standing wonder of the ancient world [here](https://www.google
 Explore the virtual interactive exhibit "Founding Myths: From Hercules to Darth Vader" to learn how artists, musicians, and filmmakers all over the globe have drawn inspiration from myths, and brought them to life. Visit it [here](https://petitgalerie.louvre.fr/visite-virtuelle/saison1)!
 
 <a href="https://petitgalerie.louvre.fr/visite-virtuelle/saison1"><img src="/images/diyresources/secondary/tt-louvre.png" alt="Louvre screengrab" style="width: 70%;"></a>
-<p style="text-align: center;"><sup>Source: Screengrab from <a href"https://petitgalerie.louvre.fr">The Petite Galerie</a>.</sup></p>
+<p style="text-align: center;"><sup>Source: Screengrab from <a href="https://petitgalerie.louvre.fr">The Petite Galerie</a>.</sup></p>
 
 
 **Van Gogh Museum, Netherlands**<br>
@@ -83,7 +83,7 @@ Dive deep into the reefs of Australia to discover the fascinating world under th
 
 ##### **ANTARCTICA**
 **Antarctica**<br>
-Experience the coldest place on Earth (and its adorable inhabitants!) in [this](https://www.youtube.com/embed/videoseries?list=PLjqTuSPqDZUOz5-GZN8nX4Nxixie1xfWC) series of 360-degree virtual reality videos. Please note that a mobile device or a compatible browser on desktop is required to view the VR videos.
+Experience the coldest place on Earth (and its adorable inhabitants!) in [this](https://www.youtube.com/embed/videoseries?list=PLjqTuSPqDZUOz5-GZN8nX4Nxixie1xfWC) series of 360-degree virtual reality videos. (Please note that a mobile device or a compatible browser on desktop is required to view the VR videos.)
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/5EOwDokYReM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <p style="text-align: center;"><sup>Source: <a href="https://www.youtube.com/embed/videoseries?list=PLjqTuSPqDZUOz5-GZN8nX4Nxixie1xfWC">Antarctica: 360° Virtual Reality Experience playlist</a>.</sup></p>
@@ -91,7 +91,7 @@ Experience the coldest place on Earth (and its adorable inhabitants!) in [this](
  
 ##### **OUT OF THIS WORLD**
 **Exoplanet Travel Bureau, Outer Space**<br>
-Take a 360-degree tour of the surfaces of planets outside our solar system with NASA [here](https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/). Please note that a WebGL-supported browser is required for viewing the Exoplanet Travel Bureau site.
+Take a 360-degree tour of the surfaces of planets outside our solar system with NASA [here](https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/). (Please note that a WebGL-supported browser is required for viewing the Exoplanet Travel Bureau site.)
 
 <a href="https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/"><img src="/images/diyresources/secondary/tt-exoplanet.png" alt="Exoplanet screengrab" style="width: 70%;"></a>
 <p style="text-align: center;"><sup>Source: Screengrab from <a href="https://exoplanets.nasa.gov/">NASA</a>.</sup></p>
@@ -99,7 +99,7 @@ Take a 360-degree tour of the surfaces of planets outside our solar system with 
 (All websites were last accessed on 27 November 2020.)
 
 
-##### **Be inspired!**
+##### **Be inspired!**<br>
 Reading takes you everywhere; tour the world and travel through time and space with these book recommendations!
 
 <a href="https://nlb.overdrive.com/media/2462486"><img src="/images/diyresources/secondary/tt-lonely-planet-kids-travel-book.jpg" alt="Lonely Planet book cover" style="width: 40%;"></a>
@@ -162,10 +162,8 @@ Read these eBooks for more transformative ideas for your space and lifestyle.
 
 <img src="https://d33wubrfki0l68.cloudfront.net/0f4ba7154adb1b1eae065b26907c3009c55a774c/e74c7/images/diyresources/secondary/picture-3.jpg" alt="Room love image" style="width: 40%;">
 
-**Room Love: 50 DIY Projects to Design Your Space**
-
-By Heather Wutschke
-
+**Room Love: 50 DIY Projects to Design Your Space**<br>
+By Heather Wutschke<br>
 Publisher: Capstone
 
 A floor, a ceiling, and four boring walls? No more! Get creative, show your room some love, and turn your personal space into your happy place. Show off your style and personality with DIY pizzazz to makeover furniture, create one-of-a-kind decor, and organize your stuff with dozens of projects and ideas to make your room as unique as you are!
@@ -175,10 +173,8 @@ This eBook is available on OverDrive at: [https://nlb.overdrive.com/media/369065
 
 <img src="/images/diyresources/secondary/Picture-4.jpg" alt="Living simply image" style="width: 40%;">
 
-**Living Simply: A Teen Guide to Minimalism**
-
-By Sally McGraw
-
+**Living Simply: A Teen Guide to Minimalism**<br>
+By Sally McGraw<br>
 Publisher: Lerner Publishing Group
 
 Minimalism has evolved into an Earth-friendly lifestyle focusing on the three Rs (reducing, recycling, and reusing) and on simplifying individual needs to reduce one’s carbon imprint. Hands-on activities, how-to tips, and profiles of practicing minimalists offer real-world examples for incorporating minimalism into your life.
@@ -225,10 +221,8 @@ Read these eBooks for mind-blowing science facts and revelations on quirky food 
 
 <img src="/images/diyresources/secondary/Everyday-Amazing.jpg" alt="Everyday amazing image" style="width: 40%;">
 
-**Everyday Amazing**
-
-By Beatrice the Biologist
-
+**Everyday Amazing**<br>
+By Beatrice the Biologist<br>
 Publisher: Adams Media
 
 Learn the basics of atomic science, sound waves, bioscience, microbiology, and more in accessible chapters offering a fresh perspective on concepts you may have learned about, but aren’t totally clear on. Quirky illustrations throughout add to the fun!
@@ -238,10 +232,8 @@ This eBook is available on Overdrive at [https://nlb.overdrive.com/media/4500950
 
 <img src="/images/diyresources/secondary/Did-You-Just-Eat-That.jpg" alt="Did you just eat that image" style="width: 40%;">
 
-**Did You Just Eat That? (Two Scientists Explore Double-Dipping, the Five-Second Rule, and other Food Myths in the Lab)**
-
-By Paul Dawson & Brian Sheldon
-
+**Did You Just Eat That? (Two Scientists Explore Double-Dipping, the Five-Second Rule, and other Food Myths in the Lab)**<br>
+By Paul Dawson & Brian Sheldon<br>
 Publisher: W. W. Norton & Company
 
 Food scientists, Paul Dawson and Brian Sheldon, take readers into the lab to show how they determine the number of bacteria that get transferred by sharing utensils or how many microbes live on restaurant menus. Written with candid humor and richly illustrated, this fascinating book will reveal surprising answers to the most frequently debated questions about food and germs.
@@ -287,10 +279,8 @@ Read these eBooks to step up your food game.
 
 <img src="/images/diyresources/secondary/Noodlemania.jpg" alt="Noodlemania image" style="width: 40%;">
 
-**Noodlemania! 50 Playful Pasta Recipes**
-
-By Melissa Barlow
-
+**Noodlemania! 50 Playful Pasta Recipes**<br>
+By Melissa Barlow<br>
 Publisher: Quirk Books
 
 You’ll go noodle crazy with the playful and colourful pasta recipes in Noodlemania! Try Super Stuffed Monster Mouths made with jumbo pasta shells, Rapunzel Pastamade with extra-long spaghetti and, Spider Cookies made with crunchy ramen noodles.  Have fun in the kitchen while sharpening your cooking skills with Noodlemania!
@@ -300,10 +290,8 @@ This book is available on Overdrive at [https://nlb.overdrive.com/media/1219921]
 
 <img src="/images/diyresources/secondary/Maker-Comics-Bake-Like-a-Pro.jpg" alt="Maker comics image" style="width: 40%;">
 
-**Maker Comics: Bake Like a Pro!**
-
-By Falynn Koch
-
+**Maker Comics: Bake Like a Pro!**<br>
+By Falynn Koch<br>
 Publisher: First Second
 
 Sage’s fellow wizards-in-training get to study pyromancy and transfiguration, but Sage has been assigned an internship in…baking? She doesn’t think that sounds fun, or particularly magical! But her instructor insists that baking is a tasty form of alchemy. In an enchanted kitchen, Sage learns the simple science behind baking perfect pies, breads, cookies, and more!
@@ -339,10 +327,8 @@ Check out these eBooks to boost your Instagram creativity.
 
 <img src="/images/diyresources/secondary/Cats-on-Instagram.jpg" alt="Cats on instagram image" style="width: 40%;">
 
-**Cats on Instagram**
-
-By @cats_of_instagram
-
+**Cats on Instagram**<br>
+By @cats_of_instagram<br>
 Publisher: Chronicle Books
 
 Cat lovers, rejoice! This irresistible book compiles over 400 photos from the hugely popular Instagram profile @cats_of_instagram into a keepsake treasure. Playful categories including “bowties,” “surprise!,” and “happy cats” showcase all the charm and delightful quirks of the wide world of cats. This is an ebook that will have feline fans smiling in recognition, surprise, and appreciation.
@@ -352,10 +338,8 @@ This book is available on Overdrive at [https://nlb.overdrive.com/media/2688902]
 
 <img src="/images/diyresources/secondary/A-Beautiful-Mess-Photo-Idea-Book.jpg" alt="A beautiful mess image" style="width: 40%;">
 
-**A beautiful mess photo idea book : 95 inspiring ideas for photographing your friends, your world, and yourself**
-
-By Elsie Larson
-
+**A beautiful mess photo idea book : 95 inspiring ideas for photographing your friends, your world, and yourself**<br>
+By Elsie Larson<br>
 Publisher: Potter Style
 
 Ready to show your photos some love? Whether it’s of your sister’s smile, your morning coffee, or your new puppy, photos are a way to connect on Facebook and Instagram, keep a visual diary of our lives, and create momentos for future generations. Elsie Larson and Emma Chapman, creators of the mega-popular DIY style blog A Beautiful Mess, are in love with photographing everyday life. Here, they share that love with 95 all-new tips and photo challenges that will inspire you to style and snap better photos and then transform them into simple yet stunning projects and gifts. You’ll learn how to: Take the most flattering self-portraits; Be your own stylist to turn dull, cluttered photos into pretty lifestyle photography; Capture adorable couple portraits; Turn everyday moments, hobbies, and rituals into amazing photos.
