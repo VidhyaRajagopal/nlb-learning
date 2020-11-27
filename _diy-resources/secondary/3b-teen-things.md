@@ -24,7 +24,7 @@ With virtual travel and digital tours becoming increasingly common, you can now 
 Curious about our very own Lion city? Go on VR tours with Curiocity and travel back in time to discover and rediscover Singapore through story maps and photographs. Visit it [here](https://curiocity.nlb.gov.sg)!
 
 <a href="http://curioity.nlb.gov.sg"><img src="/images/diyresources/secondary/tt-curiocity.png" alt="Curiocity screengrab" style="width: 70%;"></a>
-<p style="text-align: center;"><sup>(Source: Screengrab from [Curiocity](https://curiocity.nlb.gov)</sup></p>
+<p style="text-align: center;"><sup>Source: Screengrab from <a href="https://curiocity.nlb.gov">Curiocity</a>.</sup></p>
 
 
 **Singapore Philatelic Museum, Singapore**<br>
@@ -62,7 +62,7 @@ Find out about Vincent van Gogh's reading habits (and surprising literary connec
 Follow US National Park Rangers through the hidden worlds of five different National Parks across the United States of America [here](https://artsandculture.withgoogle.com/).
 
 <a href="https://artsandculture.withgoogle.com/"><img src="/images/diyresources/secondary/tt-us-national-parks.png" alt="National Parks screengrab" style="width: 70%;"></a>
-<p style="text-align: center;"><sup>Source: Screengrab from <a href="https://artsandculture.withgoogle.com/>Google Arts & Culture</a>.</sup></p>
+<p style="text-align: center;"><sup>Source: Screengrab from <a href="https://artsandculture.withgoogle.com/">Google Arts & Culture</a>.</sup></p>
 
 
 ##### **SOUTH AMERICA**
@@ -75,7 +75,7 @@ Virtually journey through the citadel of Machu Picchu with an audio guide, and l
 
 ##### **AUSTRALIA**
 **The Great Barrier Reef, Australia**<br>
-Dive deep into the reefs of Australia to discover the fascinating world under the sea through interactive virtual maps with natural historian, David Attenborough, [here](https://attenboroughsreef.com/map.php?prompt=1)
+Dive deep into the reefs of Australia to discover the fascinating world under the sea through interactive virtual maps with natural historian, David Attenborough, [here](https://attenboroughsreef.com/map.php?prompt=1).
 
 <a href="https://attenboroughsreef.com/map.php?prompt=1"><img src="/images/diyresources/secondary/tt-attenboroughs-reef.png" alt="Attenborough's reef screengrab" style="width: 70%;"></a>
 <p style="text-align: center;"><sup>Source: Screengrab from <a href="https://www.attenboroughsreef.com">Attenborough's Reef</a>.</sup></p>
@@ -111,9 +111,7 @@ This book is only available as an eBook.
 
 Take a world tour through 200 countries with this brand new edition of the bestselling kids' version of Lonely Planet's popular The Travel Book, loaded with thousands of amazing facts on wildlife, how people live, sports, hideous and mouthwatering food, festivals and a wide range of other quirky insights on every page. Every single country gets its own dedicated page, and a mix of photography and beautiful illustrations brings each land to life.
 
-Synopsis from [Lonely Planet](https://lonelyplanet.com).
-
-This eBook is available on [OverDrive](https://nlb.overdrive.com/media/2462486).
+| Synopsis from [Lonely Planet](https://lonelyplanet.com). | This eBook is available on [OverDrive](https://nlb.overdrive.com/media/2462486). |
 
 
 <a href="https://nlb.ovedrive.com/media/1803402"><img src="/images/diyresources/secondary/tt-wrinkle.jpg" alt="A Wrinkle in Time book cover" style="width: 40%;"></a>
@@ -125,9 +123,7 @@ Publisher: Farrar, Straus and Giroux, 2012
 
 A graphic novel adaptation of the classic tale in which Meg Murry and her friends become involved with unearthly strangers and a search for Meg’s father, who has disappeared while engaged in secret work for the government.
 
-Synopsis from [Macmillan](https://us.macmillan.com).
-
-This eBook is available on [OverDrive](https://nlb.ovedrive.com/media/1803402).
+|Synopsis from [Macmillan](https://us.macmillan.com). | This eBook is available on [OverDrive](https://nlb.ovedrive.com/media/1803402). |
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
