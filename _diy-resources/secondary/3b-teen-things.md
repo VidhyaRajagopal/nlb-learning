@@ -11,8 +11,147 @@ third_nav_title: Secondary School Resources
 
 **Select a folder to begin, or click [here](/diy-resources/secondary/secondary-main) to return to the main Secondary page**
 
-| [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) | [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
+| [![Virtual Tours](/images/diyresources/secondary/ttb-virtual-tours.png)](#id6) | [![Boba Book Recommendations](/images/diyresources/secondary/ttb-boba.png)](#id5) |
+| [![DIY Room Décor](/images/diyresources/secondary/ttb-room-decor.png)](#id4) | [![Science Exploration](/images/diyresources/secondary/ttb-science-exploration.png)](#id3) | [![Cooking Pasta](/images/diyresources/secondary/ttb-cooking-pasta.png)](#id2) | [![For the 'Gram](/images/diyresources/secondary/ttb-for-the-gram.png)](#id1) |
 
+
+#### <a name="id6">**Virtual Tours: Ten Places Across the Globe You Can Explore From Home**</a>
+
+With virtual travel and digital tours becoming increasingly common, you can now embark on a journey to faraway places all over the world from the comfort of your home! Click on the links and images to get started.
+
+##### **ASIA**
+
+1. **Singapore**
+
+Curious about our very own Lion city? Go on VR tours with Curiocity and travel back in time to discover and rediscover Singapore through story maps and photographs. Visit it [here](https://curiocity.nlb.gov.sg)!
+
+<a href="http://curioity.nlb.gov.sg"><img src="/images/diyresources/secondary/tt-curiocity.png" alt="Curiocity screengrab" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>(Source: Screengrab from [Curiocity](https://curiocity.nlb.gov)</sup></p>
+
+
+2. **Singapore Philatelic Museum, Singapore**
+
+Travel to the fictional world of Planet B612 and catch a behind-the-scenes look at Antoine de Saint-Exupery's beloved book *The Little Prince* [here](https://nhb.gov.sg/spm/vr/TheLittlePrince/index.html)! Please note that Adobe Flashplayer or HTML5 Browser with WebGL or CSS3D support is required to access the site.
+
+<a href="https://nhb.gov.sg/spm/vr/TheLittlePrince/index.html"><img src="/images/diyresources/secondary/tt-the-little-prince.png" alt="The Little Prince screengrab" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>(Source: Screengrab from [Singapore Philatelic Museum](https://nhb.gov.sg/spm))</sup></p>
+
+
+##### **AFRICA**
+
+3. **The Pyramids of Giza, Egypt**
+
+Traverse the last standing wonder of the ancient world [here](https://www.google.co.uk/maps/about/behind-the-scenes/streetview/treks/pyramids-of-giza/), and explore how this man-made monument was built to survive eternity.
+
+<a href="https://www.google.co.uk/maps/about/behind-the-scenes/streetview/treks/pyramids-of-giza/"><img src="/images/diyresources/secondary/tt-pyramids-of-giza.png" alt="Pyramids of Giza screengrab" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>(Source: Screengrab from [Google Maps](https://google.co.uk/maps))</sup></p>
+
+
+##### **EUROPE**
+
+4. **Louvre, France**
+
+Explore the virtual interactive exhibit "Founding Myths: From Hercules to Darth Vader" to learn how artists, musicians, and filmmakers all over the globe have drawn inspiration from myths, and brought them to life. Visit it [here](https://petitgalerie.louvre.fr/visite-virtuelle/saison1)!
+
+<a href="https://petitgalerie.louvre.fr/visite-virtuelle/saison1"><img src="/images/diyresources/secondary/tt-louvre.png" alt="Louvre screengrab" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>(Source: Screengrab from [The Petite Galerie, the Louvre](https://petitegalerie.louvre.fr))</sup></p>
+
+
+5. **Van Gogh Museum, Netherlands**
+
+Find out about Vincent van Gogh's reading habits (and surprising literary connections!) in this virtual exhibit by the Van Gogh Museum [here](https://artsandculture.google.com/story/cQVxXJlEhGKCjQ?hl=en).
+
+<a href="https://artsandculture.google.com/story/cQVxXJlEhGKCjQ?hl=en"><img src="/images/diyresources/secondary/tt-van-gogh.png" alt="Van Gogh screengrab" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>(Source: Screengrab from [Google Arts & Culture](https://artsandculture.google.com))</sup></p>
+
+
+##### **NORTH AMERICA**
+
+6. **National Parks, The United States of America**
+
+Follow US National Park Rangers through the hidden worlds of five different National Parks across the United States of America [here](https://artsandculture.withgoogle.com/).
+
+<a href="https://artsandculture.withgoogle.com/"><img src="/images/diyresources/secondary/tt-us-national-parks.png" alt="National Parks screengrab" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>(Source: Screengrab from https://artsandculture.withgoogle.com/)</sup></p>
+
+
+##### **SOUTH AMERICA**
+
+7. **Machu Picchu, Peru**
+
+Virtually journey through the citadel of Machu Picchu with an audio guide, and learn more about the most famous ruin from the Inca civilisation [here](https://www.youvisit.com/tour/machupicchu).
+
+<a href="https://www.youvisit.com/tour/machupicchu"><img src="/images/diyresources/secondary/tt-machu-picchu.png" alt="Machu Picchu screengrab" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>(Source: Screengrab from [Machu Picchu virtual tour](https://www.youvisit.com/tour/machupicchu))</sup></p>
+
+
+##### **AUSTRALIA**
+
+8. **The Great Barrier Reef, Australia**
+
+Dive deep into the reefs of Australia to discover the fascinating world under the sea through interactive virtual maps with natural historian, David Attenborough, [here](https://attenboroughsreef.com/map.php?prompt=1)
+
+<a href="https://attenboroughsreef.com/map.php?prompt=1"><img src="/images/diyresources/secondary/tt-attenboroughs-reef.png" alt="Attenborough's reef screengrab" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>(Source: Screengrab from [Attenborough’s Reef](https://www.attenboroughsreef.com))</sup></p>
+
+
+##### **ANTARCTICA**
+
+9. **Antarctica**
+
+Experience the coldest place on Earth (and its adorable inhabitants!) in [this](https://www.youtube.com/embed/videoseries?list=PLjqTuSPqDZUOz5-GZN8nX4Nxixie1xfWC) series of 360-degree virtual reality videos. Please note that a mobile device or a compatible browser on desktop is required to view the VR videos.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5EOwDokYReM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<p style="text-align: center;"><sup>(Source: [Antarctica: 360° Virtual Reality Experience playlist)(https://www.youtube.com/embed/videoseries?list=PLjqTuSPqDZUOz5-GZN8nX4Nxixie1xfWC))</sup></p>
+
+ 
+##### **OUT OF THIS WORLD**
+
+10. **Exoplanet Travel Bureau, Outer Space**
+
+Take a 360-degree tour of the surfaces of planets outside our solar system with NASA [here](https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/). Please note that a WebGL-supported browser is required for viewing the Exoplanet Travel Bureau site.
+
+<a href="https://exoplanets.nasa.gov/alien-worlds/exoplanet-travel-bureau/"><img src="/images/diyresources/secondary/tt-exoplanet.png" alt="Exoplanet screengrab" style="width: 70%;"></a>
+<p style="text-align: center;"><sup>(Source: Screengrab from [NASA](https://exoplanets.nasa.gov/))</sup></p>
+
+(All websites were last accessed on 27 November 2020.)
+
+
+##### **Be inspired!**
+Reading takes you everywhere; tour the world and travel through time and space with these book recommendations!
+
+<img src="/images/diyresources/secondary/tt-lonely-planet-kids-travel-book.jpg" alt="Lonely Planet book cover" style="width: 40%;">
+
+**The Lonely Planet Kids Travel Book: A Journey Through Every Country in the World**
+
+    By Lonely Planet Kids
+    Publisher: Lonely Planet Global Limited, 2015 
+    This book is only available as an eBook.
+
+Take a world tour through 200 countries with this brand new edition of the bestselling kids' version of Lonely Planet's popular The Travel Book, loaded with thousands of amazing facts on wildlife, how people live, sports, hideous and mouthwatering food, festivals and a wide range of other quirky insights on every page. Every single country gets its own dedicated page, and a mix of photography and beautiful illustrations brings each land to life.
+
+Synopsis from https://lonelyplanet.com.
+
+This eBook is available on OverDrive at: https://nlb.overdrive.com/media/2462486.
+
+
+<img src="/images/diyresources/secondary/tt-wrinkle.jpg" alt="A Wrinkle in Time book cover" style="width: 40%;">
+
+**A Wrinkle in Time, the Graphic Novel**
+
+By Madaleine L’engle, illustrated by Hope Larson
+
+Call No.: Y 741.5973 LAR
+
+Publisher: Farrar, Straus and Giroux, 2012
+
+A graphic novel adaptation of the classic tale in which Meg Murry and her friends become involved with unearthly strangers and a search for Meg’s father, who has disappeared while engaged in secret work for the government.
+
+Synopsis from https://us.macmillan.com.
+
+This eBook is available on OverDrive at: https://nlb.ovedrive.com/media/1803402.
+
+The book covers and synopses are the copyright of the respective publishing companies.
 
 
 #### <a name="id5">**Boba Book Recommendations**</a>
