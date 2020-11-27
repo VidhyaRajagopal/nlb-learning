@@ -107,12 +107,11 @@ Reading takes you everywhere; tour the world and travel through time and space w
 **The Lonely Planet Kids Travel Book: A Journey Through Every Country in the World**<br>
 By Lonely Planet Kids<br>
 Publisher: Lonely Planet Global Limited, 2015<br>
-This book is only available as an eBook.
+This book is only available as an eBook on [OverDrive](https://nlb.overdrive.com/media/2462486).
 
 Take a world tour through 200 countries with this brand new edition of the bestselling kids' version of Lonely Planet's popular The Travel Book, loaded with thousands of amazing facts on wildlife, how people live, sports, hideous and mouthwatering food, festivals and a wide range of other quirky insights on every page. Every single country gets its own dedicated page, and a mix of photography and beautiful illustrations brings each land to life.
 
 Synopsis from [Lonely Planet](https://lonelyplanet.com).<br><br>
-This eBook is available on [OverDrive](https://nlb.overdrive.com/media/2462486).
 
 
 <a href="https://nlb.ovedrive.com/media/1803402"><img src="/images/diyresources/secondary/tt-wrinkle.jpg" alt="A Wrinkle in Time book cover" style="width: 40%;"></a>
@@ -120,12 +119,13 @@ This eBook is available on [OverDrive](https://nlb.overdrive.com/media/2462486).
 **A Wrinkle in Time, the Graphic Novel**<br>
 By Madaleine L’engle, illustrated by Hope Larson<br>
 Call No.: Y 741.5973 LAR<br>
-Publisher: Farrar, Straus and Giroux, 2012
+Publisher: Farrar, Straus and Giroux, 2012<br>
+This eBook is available on [OverDrive](https://nlb.ovedrive.com/media/1803402).
 
 A graphic novel adaptation of the classic tale in which Meg Murry and her friends become involved with unearthly strangers and a search for Meg’s father, who has disappeared while engaged in secret work for the government.
 
-Synopsis from [Macmillan](https://us.macmillan.com).<br><br>
-This eBook is available on [OverDrive](https://nlb.ovedrive.com/media/1803402).
+Synopsis from [Macmillan](https://us.macmillan.com).<br>
+
 
 The book covers and synopses are the copyright of the respective publishing companies.
 
