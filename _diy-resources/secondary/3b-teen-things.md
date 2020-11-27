@@ -114,13 +114,13 @@ Take a world tour through 200 countries with this brand new edition of the bests
 Synopsis from [Lonely Planet](https://lonelyplanet.com).<br><br>
 
 
-<a href="https://nlb.ovedrive.com/media/1803402"><img src="/images/diyresources/secondary/tt-wrinkle.jpg" alt="A Wrinkle in Time book cover" style="width: 40%;"></a>
+<a href="https://nlb.overdrive.com/media/1803402"><img src="/images/diyresources/secondary/tt-wrinkle.jpg" alt="A Wrinkle in Time book cover" style="width: 40%;"></a>
 
 **A Wrinkle in Time, the Graphic Novel**<br>
 By Madaleine L’engle, illustrated by Hope Larson<br>
 Call No.: Y 741.5973 LAR<br>
 Publisher: Farrar, Straus and Giroux, 2012<br>
-This eBook is available on [OverDrive](https://nlb.ovedrive.com/media/1803402).
+This eBook is available on [OverDrive](https://nlb.overdrive.com/media/1803402).
 
 A graphic novel adaptation of the classic tale in which Meg Murry and her friends become involved with unearthly strangers and a search for Meg’s father, who has disappeared while engaged in secret work for the government.
 
